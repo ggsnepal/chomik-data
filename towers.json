@@ -1,2153 +1,3610 @@
-{
-    "Arcane_Area": {
-        "Arcane Area Tower Rush": {
-            "area": "Arcane_Area",
-            "creators": [],
-            "difficulty": 7.41,
-            "isCanon": false,
-            "length": 0,
-            "name": "Arcane Area Tower Rush",
-            "techniques": ["None"],
-            "type": "Tower Rush",
-            "world": 2
-        },
-        "Steeple of Astounding Sorcery": {
-            "area": "Arcane_Area",
-            "creators": ["uuuuuuuurchinnnnnnnn", "Alternativer_R", "hearttadri", "dreamyallyy"],
-            "difficulty": 2.53,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753505,
-            "modern": 2125419030,
-            "name": "Steeple of Astounding Sorcery",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Atmospheric Powers": {
-            "area": "Arcane_Area",
-            "creators": ["KEVBloxTime"],
-            "difficulty": 3.36,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753515,
-            "modern": 2125419052,
-            "name": "Steeple of Atmospheric Powers",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Biome Traversing": {
-            "area": "Arcane_Area",
-            "creators": ["AmazeIan"],
-            "difficulty": 2.39,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753504,
-            "modern": 2125419026,
-            "name": "Steeple of Biome Traversing",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Crystal Ascension": {
-            "area": "Arcane_Area",
-            "creators": ["merdied", "t_azk", "Satrrn"],
-            "difficulty": 5.24,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753506,
-            "modern": 2125419033,
-            "name": "Steeple of Crystal Ascension",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Magical Collaborations": {
-            "area": "Arcane_Area",
-            "creators": ["uuuuuuuurchinnnnnnnn", "Alternativer_R", "phlygone", "red4erik", "AzaZeall", "joaovitorpcosta", "KEVBloxTime"],
-            "difficulty": 6.22,
-            "isCanon": true,
-            "length": 20,
-            "migrated": 2124753507,
-            "modern": 2125419035,
-            "name": "Steeple of Magical Collaborations",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Magical Elements": {
-            "area": "Arcane_Area",
-            "creators": ["wllsknwlls"],
-            "difficulty": 4.81,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753510,
-            "modern": 2125419038,
-            "name": "Steeple of Magical Elements",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Realm Odyssey": {
-            "area": "Arcane_Area",
-            "creators": ["Ganaupinha", "Lizarpiz"],
-            "difficulty": 3.99,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753511,
-            "modern": 2125419042,
-            "name": "Steeple of Realm Odyssey",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Twisted Crystals": {
-            "area": "Arcane_Area",
-            "creators": ["supermario052", "wllsknwlls"],
-            "difficulty": 4.15,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753512,
-            "modern": 2125419045,
-            "name": "Steeple of Twisted Crystals",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Witch Calamity": {
-            "area": "Arcane_Area",
-            "creators": ["ciel_azulsky", "Ganaupinha", "Professor_Skittles"],
-            "difficulty": 5.82,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124753513,
-            "modern": 2125419048,
-            "name": "Steeple of Witch Calamity",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Tower of Icy Adventures": {
-            "area": "Arcane_Area",
-            "creators": ["hypersleep"],
-            "difficulty": 7.03,
-            "isCanon": true,
-            "length": 30,
-            "migrated": 2124546744,
-            "modern": 2125419019,
-            "name": "Tower of Icy Adventures",
-            "techniques": [],
-            "type": "Tower",
-            "world": 2
-        },
-        "is_subrealm": true
+[
+    {
+        "name": "Arcane Area Tower Rush",
+        "area": "Arcane_Area",
+        "difficulty": 7.41,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
     },
-    "Ashen_Towerworks": {
-        "Ashen Towerworks Tower Rush": {
-            "area": "Ashen_Towerworks",
-            "creators": [],
-            "difficulty": 8.94,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ashen Towerworks Tower Rush",
-            "techniques": ["Wall Hopping", "Corner Clipping", "Dance Clipping", "Wedge Climbing"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of Climactic Beats": {
-            "area": "Ashen_Towerworks",
-            "creators": ["tojma07", "rogerthatx1"],
-            "difficulty": 7.06,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150140240,
-            "name": "Tower of Climactic Beats",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Corner Wedge Climbing": {
-            "area": "Ashen_Towerworks",
-            "creators": ["BaconPixx"],
-            "difficulty": 4.23,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150139931,
-            "name": "Tower of Corner Wedge Climbing",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Forever-Sleeping Flower": {
-            "area": "Ashen_Towerworks",
-            "creators": ["noob1928"],
-            "difficulty": 7.02,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150140154,
-            "name": "Tower of Forever-Sleeping Flower",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Fruity Zeal": {
-            "area": "Ashen_Towerworks",
-            "creators": ["feixfii", "Lawnslayer", "cheesiestfondue"],
-            "difficulty": 2.66,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150139836,
-            "name": "Tower of Fruity Zeal",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Largely Limited Luminance": {
-            "area": "Ashen_Towerworks",
-            "creators": ["CamronSkilIz", "hairymonkey72", "Killer818616", "LegoSteve234"],
-            "difficulty": 6.55,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2150140099,
-            "name": "Tower of Largely Limited Luminance",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Mechanical Disarray": {
-            "area": "Ashen_Towerworks",
-            "creators": ["yoshi12254"],
-            "difficulty": 7.79,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2150140190,
-            "name": "Tower of Mechanical Disarray",
-            "techniques": ["Wedge Climbing", "Emote Glitching"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Rhythm Heaven": {
-            "area": "Ashen_Towerworks",
-            "creators": ["ArmorHAD"],
-            "difficulty": 7.74,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150554134,
-            "name": "Tower of Rhythm Heaven",
-            "techniques": ["Wall Hopping", "Corner Clipping", "Emote Glitching", "Ladder Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Shadowy Radiance": {
-            "area": "Ashen_Towerworks",
-            "creators": ["atomzz24"],
-            "difficulty": 6.08,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150140037,
-            "name": "Tower of Shadowy Radiance",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Viaduct Traversing": {
-            "area": "Ashen_Towerworks",
-            "creators": ["IroidIsABeast", "blooby_jpg"],
-            "difficulty": 3.89,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150139890,
-            "name": "Tower of Viaduct Traversing",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Wanting More Time": {
-            "area": "Ashen_Towerworks",
-            "creators": ["XII_Tim"],
-            "difficulty": 5.03,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150139949,
-            "name": "Tower of Wanting More Time",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Whirl of Winds": {
-            "area": "Ashen_Towerworks",
-            "creators": ["driekondo"],
-            "difficulty": 6.42,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150140003,
-            "name": "Tower of Whirl of Winds",
-            "techniques": ["Wedge Climbing"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Whisking It All": {
-            "area": "Ashen_Towerworks",
-            "creators": ["qwertyboiboimimi5"],
-            "difficulty": 6.26,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150139994,
-            "name": "Tower of Whisking It All",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Wicked Fortress": {
-            "area": "Ashen_Towerworks",
-            "creators": ["xXDogeNgamerXx"],
-            "difficulty": 9.39,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2150140265,
-            "name": "Tower of Wicked Fortress",
-            "techniques": ["Wall Hopping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": true
+    {
+        "name": "Steeple of Astounding Sorcery",
+        "area": "Arcane_Area",
+        "difficulty": 2.53,
+        "isCanon": true,
+        "modern": 2125419030,
+        "migrated": 2124753505
     },
-    "Forgotten_Ridge": {
-        "Citadel of Weird Nostalgia": {
-            "area": "Forgotten_Ridge",
-            "creators": ["Karinriine", "t_azk", "ciel_azulsky", "3_XW"],
-            "difficulty": 6.96,
-            "isCanon": true,
-            "length": 30,
-            "migrated": 2124659783,
-            "modern": 2125416732,
-            "name": "Citadel of Weird Nostalgia",
-            "techniques": ["Emote Glitching", "Wall Hopping", "Corner Clipping"],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Forgotten Ridge Tower Rush": {
-            "area": "Forgotten_Ridge",
-            "creators": [],
-            "difficulty": 8.35,
-            "isCanon": false,
-            "length": 0,
-            "name": "Forgotten Ridge Tower Rush",
-            "techniques": [],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Steeple of Climbing": {
-            "area": "Forgotten_Ridge",
-            "creators": ["AzaZeall"],
-            "difficulty": 5.49,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659774,
-            "modern": 2125416687,
-            "name": "Steeple of Climbing",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Huge Pain": {
-            "area": "Forgotten_Ridge",
-            "creators": ["AzaZeall"],
-            "difficulty": 6.35,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659775,
-            "modern": 2125416698,
-            "name": "Steeple of Huge Pain",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Low Woe": {
-            "area": "Forgotten_Ridge",
-            "creators": ["3_XW"],
-            "difficulty": 2.78,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659770,
-            "modern": 2125416666,
-            "name": "Steeple of Low Woe",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Meaningless Decisions": {
-            "area": "Forgotten_Ridge",
-            "creators": ["TheBirbsWord", "novaskaiii"],
-            "difficulty": 1.22,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659768,
-            "modern": 2125416661,
-            "name": "Steeple of Meaningless Decisions",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Pursuit": {
-            "area": "Forgotten_Ridge",
-            "creators": ["Karinriine"],
-            "difficulty": 2.86,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659769,
-            "modern": 2125416664,
-            "name": "Steeple of Pursuit",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Towering Pillars": {
-            "area": "Forgotten_Ridge",
-            "creators": ["UttermostTree"],
-            "difficulty": 7.65,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659776,
-            "modern": 2125416704,
-            "name": "Steeple of Towering Pillars",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Uninstalling Roblox": {
-            "area": "Forgotten_Ridge",
-            "creators": ["FreeThePolarBear"],
-            "difficulty": 3.74,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659771,
-            "modern": 2125416670,
-            "name": "Steeple of Uninstalling Roblox",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Wall Punching": {
-            "area": "Forgotten_Ridge",
-            "creators": ["Paramockss"],
-            "difficulty": 4.57,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659772,
-            "modern": 2125416683,
-            "name": "Steeple of Wall Punching",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "This Is Probably A Tower": {
-            "area": "Forgotten_Ridge",
-            "creators": ["bLockerman666"],
-            "difficulty": 3.61,
-            "isCanon": false,
-            "length": 0,
-            "modern": 1359907317047556,
-            "name": "This Is Probably A Tower",
-            "techniques": ["Wall Hopping"],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Tower of Dangerous Expeditions": {
-            "area": "Forgotten_Ridge",
-            "creators": ["ObbyRobloxian3"],
-            "difficulty": 6.75,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659782,
-            "modern": 2125416731,
-            "name": "Tower of Dangerous Expeditions",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Immense Ire": {
-            "area": "Forgotten_Ridge",
-            "creators": ["wllsknwlls"],
-            "difficulty": 4.24,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659780,
-            "modern": 2125416720,
-            "name": "Tower of Immense Ire",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Increasing Stress": {
-            "area": "Forgotten_Ridge",
-            "creators": ["TheFredericChopin"],
-            "difficulty": 6.37,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659781,
-            "modern": 2125416725,
-            "name": "Tower of Increasing Stress",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Jolly Good Fun": {
-            "area": "Forgotten_Ridge",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 1.65,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659777,
-            "modern": 2125416710,
-            "name": "Tower of Jolly Good Fun",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Mind Breaking": {
-            "area": "Forgotten_Ridge",
-            "creators": ["novaskaiii"],
-            "difficulty": 8.36,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130253292,
-            "name": "Tower of Mind Breaking",
-            "techniques": ["Wall Hopping", "Dance Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Triangular Covering": {
-            "area": "Forgotten_Ridge",
-            "creators": ["Lenazz16"],
-            "difficulty": 5.0,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659779,
-            "modern": 2125416718,
-            "name": "Tower of Triangular Covering",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Versatility": {
-            "area": "Forgotten_Ridge",
-            "creators": ["Auterus"],
-            "difficulty": 4.64,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124659778,
-            "modern": 2125416714,
-            "name": "Tower of Versatility",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": true
+    {
+        "name": "Steeple of Atmospheric Powers",
+        "area": "Arcane_Area",
+        "difficulty": 3.36,
+        "isCanon": true,
+        "modern": 2125419052,
+        "migrated": 2124753515
     },
-    "Garden_of_Eeshöl": {
-        "Garden of Eeshöl Tower Rush": {
-            "area": "Garden_of_Eeshöl",
-            "creators": [],
-            "difficulty": 6.62,
-            "isCanon": false,
-            "length": 0,
-            "name": "Garden of Eeshöl Tower Rush",
-            "techniques": [],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Not Even A Flower": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["snicksnqck", "TheBirbsWord"],
-            "difficulty": 5.79,
-            "isCanon": false,
-            "length": 0,
-            "modern": 3872937943626202,
-            "name": "Not Even A Flower",
-            "techniques": [],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Steeple of Beginner's Journey": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["Emas_Gua"],
-            "difficulty": 1.11,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924309,
-            "modern": 2125416740,
-            "name": "Steeple of Beginner's Journey",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Buoyant Automations": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["DuskPyramid"],
-            "difficulty": 6.03,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924339,
-            "modern": 2125416780,
-            "name": "Steeple of Buoyant Automations",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Devil's Snare": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["MaxedUpGamer05"],
-            "difficulty": 1.54,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924311,
-            "modern": 2125416748,
-            "name": "Steeple of Devil's Snare",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Feudal Foliage": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["lolBaconHair93", "aaaronyupp"],
-            "difficulty": 3.8,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924332,
-            "modern": 2125416771,
-            "name": "Steeple of Feudal Foliage",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Flourishing Wastelands": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["staticphd", "Temmeh8274", "MikeySToH"],
-            "difficulty": 5.61,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924335,
-            "modern": 2125416775,
-            "name": "Steeple of Flourishing Wastelands",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Greenhouse Placidity": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["ReinFreD22"],
-            "difficulty": 3.7,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924326,
-            "modern": 2125416762,
-            "name": "Steeple of Greenhouse Placidity",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Infectious Foliage": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["vvenvss", "MeltyBlueJelly", "Adem_iere"],
-            "difficulty": 2.32,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924313,
-            "modern": 2125416753,
-            "name": "Steeple of Infectious Foliage",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Lost In Quiescence": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["Unorthodoxus"],
-            "difficulty": 3.84,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924321,
-            "modern": 2125416758,
-            "name": "Steeple of Lost In Quiescence",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Nightfall": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["TheFredericChopin"],
-            "difficulty": 2.81,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924315,
-            "modern": 2125416757,
-            "name": "Steeple of Nightfall",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Overgrown Ascension": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["RB3_superbosd"],
-            "difficulty": 3.16,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924323,
-            "modern": 2125416759,
-            "name": "Steeple of Overgrown Ascension",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Overgrowth": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 2.67,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924312,
-            "modern": 2125416751,
-            "name": "Steeple of Overgrowth",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Steeple of Various Vivariums": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["Kelakotana", "Cheddarbialy"],
-            "difficulty": 4.01,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924328,
-            "modern": 2125416767,
-            "name": "Steeple of Various Vivariums",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 1
-        },
-        "Tower of Perilous Antipode": {
-            "area": "Garden_of_Eeshöl",
-            "creators": ["PamperedBloxian36", "Deedo9001", "bearlyon"],
-            "difficulty": 6.0,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124924341,
-            "modern": 2125416787,
-            "name": "Tower of Perilous Antipode",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": true
+    {
+        "name": "Steeple of Biome Traversing",
+        "area": "Arcane_Area",
+        "difficulty": 2.39,
+        "isCanon": true,
+        "modern": 2125419026,
+        "migrated": 2124753504
     },
-    "Lost_River": {
-        "Citadel of Inside Situations": {
-            "area": "Lost_River",
-            "creators": ["TromTimee"],
-            "difficulty": 4.6,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2130091636,
-            "name": "Citadel of Inside Situations",
-            "techniques": [],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Lost River Tower Rush": {
-            "area": "Lost_River",
-            "creators": [],
-            "difficulty": 7.85,
-            "isCanon": false,
-            "length": 0,
-            "name": "Lost River Tower Rush",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of Compact Spaces": {
-            "area": "Lost_River",
-            "creators": ["CUGASTheLooney"],
-            "difficulty": 6.98,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2130091644,
-            "name": "Tower of Compact Spaces",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Diverging Layers": {
-            "area": "Lost_River",
-            "creators": ["sacalu006"],
-            "difficulty": 5.37,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091637,
-            "name": "Tower of Diverging Layers",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Excessive Weirdness": {
-            "area": "Lost_River",
-            "creators": ["SuperDooperHusky"],
-            "difficulty": 2.89,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091633,
-            "name": "Tower of Excessive Weirdness",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Losing Our Zeal": {
-            "area": "Lost_River",
-            "creators": ["Cletus_Yeetus0403"],
-            "difficulty": 4.86,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091635,
-            "name": "Tower of Losing Our Zeal",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Odd Odyssey": {
-            "area": "Lost_River",
-            "creators": ["Clorize"],
-            "difficulty": 5.59,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091638,
-            "name": "Tower of Odd Odyssey",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Tallying Every Mistake": {
-            "area": "Lost_River",
-            "creators": ["Temmeh8274", "phlygone", "TheBirbsWord", "SarkThe2nd"],
-            "difficulty": 7.0,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2130091645,
-            "name": "Tower of Tallying Every Mistake",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Triple Jeopardy": {
-            "area": "Lost_River",
-            "creators": ["Knighterisk"],
-            "difficulty": 7.01,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091646,
-            "name": "Tower of Triple Jeopardy",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Two Sided Troubles": {
-            "area": "Lost_River",
-            "creators": ["socalmax"],
-            "difficulty": 3.79,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091634,
-            "name": "Tower of Two Sided Troubles",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Unsettling Heights": {
-            "area": "Lost_River",
-            "creators": ["T3mpl4te"],
-            "difficulty": 8.19,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091648,
-            "name": "Tower of Unsettling Heights",
-            "techniques": ["Wall Hopping", "Lodging"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Witchcraft and Wizardry": {
-            "area": "Lost_River",
-            "creators": ["KEVBloxTime"],
-            "difficulty": 6.74,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2130091642,
-            "name": "Tower of Witchcraft and Wizardry",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": true
+    {
+        "name": "Steeple of Crystal Ascension",
+        "area": "Arcane_Area",
+        "difficulty": 5.24,
+        "isCanon": true,
+        "modern": 2125419033,
+        "migrated": 2124753506
     },
-    "Paradise_Atoll": {
-        "Citadel of Victory": {
-            "area": "Paradise_Atoll",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 4.25,
-            "isCanon": true,
-            "length": 45,
-            "modern": 3615836876088083,
-            "name": "Citadel of Victory",
-            "techniques": [],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Paradise Atoll Tower Rush": {
-            "area": "Paradise_Atoll",
-            "creators": [],
-            "difficulty": 7.09,
-            "isCanon": false,
-            "length": 0,
-            "name": "Paradise Atoll Tower Rush",
-            "techniques": ["Key Follow Settings", "Wedge Climbing"],
-            "type": "Tower Rush",
-            "world": 2
-        },
-        "Possibly A Tower": {
-            "area": "Paradise_Atoll",
-            "creators": ["uuuuuuuurchinnnnnnnn"],
-            "difficulty": 1.54,
-            "isCanon": false,
-            "length": 0,
-            "migrated": 2124776627,
-            "modern": 2125419004,
-            "name": "Possibly A Tower",
-            "techniques": [],
-            "type": "Mini Tower",
-            "world": 2
-        },
-        "Steeple of Abyssal Upturn": {
-            "area": "Paradise_Atoll",
-            "creators": ["bowtoad"],
-            "difficulty": 3.94,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776625,
-            "modern": 2125419000,
-            "name": "Steeple of Abyssal Upturn",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Aquatic Rallies": {
-            "area": "Paradise_Atoll",
-            "creators": ["Lenazz16", "diskinserted", "aetrnalis", "xdn_tt", "zeDo_k", "superlagostao421", "franchun04"],
-            "difficulty": 4.34,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776624,
-            "modern": 2125418997,
-            "name": "Steeple of Aquatic Rallies",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Cliffside Falls": {
-            "area": "Paradise_Atoll",
-            "creators": ["LetsPlaySumRoblox", "Devin_Darksword"],
-            "difficulty": 5.83,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776613,
-            "modern": 2125418955,
-            "name": "Steeple of Cliffside Falls",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Desolate Isles": {
-            "area": "Paradise_Atoll",
-            "creators": ["uuuuuuuurchinnnnnnnn", "Torchic000", "megakirbyyy"],
-            "difficulty": 5.28,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776616,
-            "modern": 2125418969,
-            "name": "Steeple of Desolate Isles",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Dusty Dunes": {
-            "area": "Paradise_Atoll",
-            "creators": ["Typ1_ca1"],
-            "difficulty": 6.32,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776626,
-            "modern": 2125419001,
-            "name": "Steeple of Dusty Dunes",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Hallucinatory Spectacles": {
-            "area": "Paradise_Atoll",
-            "creators": ["Temmeh8274", "novaskaiii"],
-            "difficulty": 4.8,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776619,
-            "modern": 2125418989,
-            "name": "Steeple of Hallucinatory Spectacles",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Mystical Marine": {
-            "area": "Paradise_Atoll",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 1.76,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776615,
-            "modern": 2125418964,
-            "name": "Steeple of Mystical Marine",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Sunny Island Shenanigans": {
-            "area": "Paradise_Atoll",
-            "creators": ["Mario_123456", "StormT1989"],
-            "difficulty": 4.03,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776622,
-            "modern": 2125418995,
-            "name": "Steeple of Sunny Island Shenanigans",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Underlying Breezes": {
-            "area": "Paradise_Atoll",
-            "creators": ["Zentiquent"],
-            "difficulty": 6.54,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776614,
-            "modern": 2125418958,
-            "name": "Steeple of Underlying Breezes",
-            "techniques": ["Wedge Climbing"],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Undersea Voyage": {
-            "area": "Paradise_Atoll",
-            "creators": ["phatphol2", "hermark", "hearttadri"],
-            "difficulty": 2.74,
-            "isCanon": true,
-            "length": 0,
-            "modern": 204425668269319,
-            "name": "Steeple of Undersea Voyage",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Upright Cliffs": {
-            "area": "Paradise_Atoll",
-            "creators": ["Isxzter"],
-            "difficulty": 5.78,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776620,
-            "modern": 2125418991,
-            "name": "Steeple of Upright Cliffs",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Steeple of Waterfall": {
-            "area": "Paradise_Atoll",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 3.24,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2621972218525980,
-            "name": "Steeple of Waterfall",
-            "techniques": [],
-            "type": "Steeple",
-            "world": 2
-        },
-        "Tower of Call It A Day": {
-            "area": "Paradise_Atoll",
-            "creators": ["socfcrimsonrblx"],
-            "difficulty": 3.59,
-            "isCanon": true,
-            "length": 20,
-            "modern": 1169770390109959,
-            "name": "Tower of Call It A Day",
-            "techniques": [],
-            "type": "Tower",
-            "world": 2
-        },
-        "Tower of Cyclonic Isles": {
-            "area": "Paradise_Atoll",
-            "creators": ["RougeAvery", "kitkatkayo"],
-            "difficulty": 5.76,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776617,
-            "modern": 2125418973,
-            "name": "Tower of Cyclonic Isles",
-            "techniques": ["Key Follow Settings"],
-            "type": "Tower",
-            "world": 2
-        },
-        "Tower of High Power": {
-            "area": "Paradise_Atoll",
-            "creators": ["vvenvss"],
-            "difficulty": 4.77,
-            "isCanon": true,
-            "length": 20,
-            "modern": 3109245217942913,
-            "name": "Tower of High Power",
-            "techniques": [],
-            "type": "Tower",
-            "world": 2
-        },
-        "Tower of Traversing The Tropics": {
-            "area": "Paradise_Atoll",
-            "creators": ["treeknighterr", "RageFurious"],
-            "difficulty": 6.06,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124776618,
-            "modern": 2125418976,
-            "name": "Tower of Traversing The Tropics",
-            "techniques": ["Wedge Climbing", "Key Follow Settings"],
-            "type": "Tower",
-            "world": 2
-        },
-        "is_subrealm": true
+    {
+        "name": "Steeple of Magical Collaborations",
+        "area": "Arcane_Area",
+        "difficulty": 6.22,
+        "isCanon": true,
+        "modern": 2125419035,
+        "migrated": 2124753507
     },
-    "Ring_0": {
-        "Purgatorio Tower Rush": {
-            "area": "Ring_0",
-            "creators": [],
-            "difficulty": 5.41,
-            "isCanon": false,
-            "length": 0,
-            "name": "Purgatorio Tower Rush",
-            "techniques": ["Key Follow Settings", "Corner Clipping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower Not Found": {
-            "area": "Ring_0",
-            "creators": ["TheBirbsWord"],
-            "difficulty": 3.11,
-            "isCanon": false,
-            "length": 0,
-            "modern": 2479940534323983,
-            "name": "Tower Not Found",
-            "techniques": ["Corner Clipping", "Wall Hopping", "Emote Glitching", "Lodging", "Flinging"],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Tower of Boost Mayhem": {
-            "area": "Ring_0",
-            "creators": ["RisenArtemis"],
-            "difficulty": 2.0,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2424222337564254,
-            "name": "Tower of Boost Mayhem",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Buttons": {
-            "area": "Ring_0",
-            "creators": ["t_azk", "3_XW"],
-            "difficulty": 1.48,
-            "isCanon": true,
-            "length": 0,
-            "modern": 1792274219914148,
-            "name": "Tower of Buttons",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Critical Damage": {
-            "area": "Ring_0",
-            "creators": ["novaskaiii", "ciel_azulsky"],
-            "difficulty": 1.93,
-            "isCanon": true,
-            "length": 0,
-            "modern": 1985325594898930,
-            "name": "Tower of Critical Damage",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Dancing All Night": {
-            "area": "Ring_0",
-            "creators": ["zachwro21"],
-            "difficulty": 3.35,
-            "isCanon": true,
-            "length": 0,
-            "modern": 3557168381486575,
-            "name": "Tower of Dancing All Night",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Genesis": {
-            "area": "Ring_0",
-            "creators": ["aetrnalis"],
-            "difficulty": 1.0,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2998040866283977,
-            "name": "Tower of Genesis",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Keys To Success": {
-            "area": "Ring_0",
-            "creators": ["DispensableArray", "theultimatedianite"],
-            "difficulty": 3.0,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2557966395367805,
-            "name": "Tower of Keys To Success",
-            "techniques": ["Key Follow Settings"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Kinetic Potential": {
-            "area": "Ring_0",
-            "creators": ["arx_drahbea", "emflamed", "Adem_iere"],
-            "difficulty": 2.54,
-            "isCanon": true,
-            "length": 0,
-            "modern": 3190118081857963,
-            "name": "Tower of Kinetic Potential",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Motion Evolution": {
-            "area": "Ring_0",
-            "creators": ["Gammattor"],
-            "difficulty": 1.46,
-            "isCanon": true,
-            "length": 0,
-            "modern": 1180657673680675,
-            "name": "Tower of Motion Evolution",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of No Strings Attached": {
-            "area": "Ring_0",
-            "creators": ["zanychrome", "bLockerman666", "aamo_s"],
-            "difficulty": 2.79,
-            "isCanon": true,
-            "length": 0,
-            "modern": 1406264843938633,
-            "name": "Tower of No Strings Attached",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Various Pressures": {
-            "area": "Ring_0",
-            "creators": ["Lizarpiz"],
-            "difficulty": 2.44,
-            "isCanon": true,
-            "length": 0,
-            "modern": 3194046165949700,
-            "name": "Tower of Various Pressures",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": false
+    {
+        "name": "Steeple of Magical Elements",
+        "area": "Arcane_Area",
+        "difficulty": 4.81,
+        "isCanon": true,
+        "modern": 2125419038,
+        "migrated": 2124753510
     },
-    "Ring_1": {
-        "Citadel of Laptop Splitting": {
-            "area": "Ring_1",
-            "creators": ["Karinriine"],
-            "difficulty": 6.5,
-            "isCanon": true,
-            "ktoh": 2124442987,
-            "length": 30,
-            "migrated": 2124457514,
-            "modern": 2125364319,
-            "name": "Citadel of Laptop Splitting",
-            "techniques": [],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Not Even A Tower": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune"],
-            "difficulty": 1.11,
-            "isCanon": false,
-            "ktoh": 2124440686,
-            "length": 0,
-            "migrated": 2124457516,
-            "modern": 2125364331,
-            "name": "Not Even A Tower",
-            "techniques": [],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Ring 1 Tower Rush": {
-            "area": "Ring_1",
-            "creators": [],
-            "difficulty": 7.83,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ring 1 Tower Rush",
-            "techniques": ["Emote Glitching", "Corner Clipping", "Wall Hopping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of A Simple Time": {
-            "area": "Ring_1",
-            "creators": ["plant9seeds"],
-            "difficulty": 1.25,
-            "isCanon": true,
-            "ktoh": 2124454721,
-            "length": 0,
-            "migrated": 2124457509,
-            "modern": 2125364300,
-            "name": "Tower of A Simple Time",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Anger": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune", "dreamyallyy"],
-            "difficulty": 1.5,
-            "isCanon": true,
-            "ktoh": 2124424027,
-            "length": 0,
-            "migrated": 2124457501,
-            "modern": 2125364239,
-            "name": "Tower of Anger",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Hecc": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune"],
-            "difficulty": 3.3,
-            "isCanon": true,
-            "ktoh": 1436935835,
-            "length": 0,
-            "migrated": 2124457496,
-            "modern": 2125363409,
-            "name": "Tower of Hecc",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Impossible Expectations": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune", "awesomecoolpop"],
-            "difficulty": 6.01,
-            "isCanon": true,
-            "ktoh": 2124421906,
-            "length": 0,
-            "migrated": 2124457498,
-            "modern": 2125364211,
-            "name": "Tower of Impossible Expectations",
-            "techniques": ["Dance Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Infinity Gauntlet": {
-            "area": "Ring_1",
-            "creators": ["ciel_azulsky", "aetrnalis"],
-            "difficulty": 8.23,
-            "isCanon": true,
-            "length": 20,
-            "modern": 2125364309,
-            "name": "Tower of Infinity Gauntlet",
-            "techniques": ["Wall Hopping", "Corner Clipping", "Dance Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Keyboard Yeeting": {
-            "area": "Ring_1",
-            "creators": ["p00ks1"],
-            "difficulty": 4.1,
-            "isCanon": true,
-            "ktoh": 2124424960,
-            "length": 0,
-            "migrated": 2124457505,
-            "modern": 2125364279,
-            "name": "Tower of Keyboard Yeeting",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Killjoys": {
-            "area": "Ring_1",
-            "creators": ["Karinriine", "ciel_azulsky"],
-            "difficulty": 3.47,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124457515,
-            "modern": 2125364325,
-            "name": "Tower of Killjoys",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Madness": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune", "Gammattor", "TheBirbsWord"],
-            "difficulty": 2.12,
-            "isCanon": true,
-            "ktoh": 2124424026,
-            "length": 0,
-            "migrated": 2124457502,
-            "modern": 2125364247,
-            "name": "Tower of Madness",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Noticeable Infuriation": {
-            "area": "Ring_1",
-            "creators": ["Gammattor", "TheBirbsWord"],
-            "difficulty": 2.8,
-            "isCanon": true,
-            "length": 0,
-            "modern": 2125394398,
-            "name": "Tower of Noticeable Infuriation",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Rage": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune", "novaskaiii", "t_azk"],
-            "difficulty": 5.58,
-            "isCanon": true,
-            "ktoh": 2124421909,
-            "length": 0,
-            "migrated": 2124457499,
-            "modern": 2125364213,
-            "name": "Tower of Rage",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Screen Punching": {
-            "area": "Ring_1",
-            "creators": ["ObrenTune"],
-            "difficulty": 5.2,
-            "isCanon": true,
-            "ktoh": 2124421905,
-            "length": 0,
-            "migrated": 2124457497,
-            "modern": 2125364203,
-            "name": "Tower of Screen Punching",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Stress": {
-            "area": "Ring_1",
-            "creators": ["Hat_Rox", "zanychrome", "T3mpl4te"],
-            "difficulty": 4.88,
-            "isCanon": true,
-            "ktoh": 2124424964,
-            "length": 0,
-            "migrated": 2124457506,
-            "modern": 2125364284,
-            "name": "Tower of Stress",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of True Skill": {
-            "area": "Ring_1",
-            "creators": ["Feodoric"],
-            "difficulty": 7.09,
-            "isCanon": true,
-            "ktoh": 2124424031,
-            "length": 0,
-            "migrated": 2124457504,
-            "modern": 2125364257,
-            "name": "Tower of True Skill",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": false
+    {
+        "name": "Steeple of Realm Odyssey",
+        "area": "Arcane_Area",
+        "difficulty": 3.99,
+        "isCanon": true,
+        "modern": 2125419042,
+        "migrated": 2124753511
     },
-    "Ring_2": {
-        "Citadel of Wacky Strategy": {
-            "area": "Ring_2",
-            "creators": ["Karinriine", "ciel_azulsky", "bLockerman666", "Professor_Skittles", "logicchecks", "aamo_s", "uuuuuuuurchinnnnnnnn", "AzaZeall"],
-            "difficulty": 7.96,
-            "isCanon": true,
-            "length": 45,
-            "migrated": 2124470872,
-            "modern": 2125365166,
-            "name": "Citadel of Wacky Strategy",
-            "techniques": ["Corner ClippingWall Hopping"],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Maybe A Tower": {
-            "area": "Ring_2",
-            "creators": ["ObrenTune"],
-            "difficulty": 1.07,
-            "isCanon": false,
-            "length": 0,
-            "migrated": 2124574951,
-            "modern": 2125365096,
-            "name": "Maybe A Tower",
-            "techniques": [],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Ring 2 Tower Rush": {
-            "area": "Ring_2",
-            "creators": [],
-            "difficulty": 8.98,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ring 2 Tower Rush",
-            "techniques": ["Tower Crossing", "Corner Clipping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of Big Hole": {
-            "area": "Ring_2",
-            "creators": ["AzaZeall"],
-            "difficulty": 3.4,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124852152,
-            "modern": 2125365136,
-            "name": "Tower of Big Hole",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Cold Hands": {
-            "area": "Ring_2",
-            "creators": ["HilmNoobly", "ObrenTune"],
-            "difficulty": 4.0,
-            "isCanon": true,
-            "ktoh": 2124425466,
-            "length": 0,
-            "migrated": 2124457640,
-            "modern": 2125365092,
-            "name": "Tower of Cold Hands",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Deep Darkness": {
-            "area": "Ring_2",
-            "creators": ["Karinriine", "ciel_azulsky", "Cll0y"],
-            "difficulty": 5.8,
-            "isCanon": true,
-            "length": 30,
-            "migrated": 2124457656,
-            "modern": 2125365155,
-            "name": "Tower of Deep Darkness",
-            "techniques": ["Corner Clipping", "Tower Crossing"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Difficulty Chart": {
-            "area": "Ring_2",
-            "creators": ["It_Near", "Lightsynth", "Cll0y"],
-            "difficulty": 8.03,
-            "isCanon": true,
-            "ktoh": 2124440860,
-            "length": 0,
-            "migrated": 2124457657,
-            "modern": 2125365158,
-            "name": "Tower of Difficulty Chart",
-            "techniques": ["Dance Clipping", "Corner Clipping", "Lodging"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Eternal Suffering": {
-            "area": "Ring_2",
-            "creators": ["tintom495[a]"],
-            "difficulty": 7.5,
-            "isCanon": true,
-            "ktoh": 2124425467,
-            "length": 0,
-            "migrated": 2124457641,
-            "modern": 2125365108,
-            "name": "Tower of Eternal Suffering",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Falling and Failing": {
-            "area": "Ring_2",
-            "creators": ["Hat_Rox"],
-            "difficulty": 5.61,
-            "isCanon": true,
-            "ktoh": 2124425472,
-            "length": 0,
-            "migrated": 2124457647,
-            "modern": 2125365147,
-            "name": "Tower of Falling and Failing",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Overcoming Hatred": {
-            "area": "Ring_2",
-            "creators": ["plant9seeds", "hearttadri", "It_Near"],
-            "difficulty": 3.73,
-            "isCanon": true,
-            "ktoh": 2124425469,
-            "length": 0,
-            "migrated": 2124457643,
-            "modern": 2125365125,
-            "name": "Tower of Overcoming Hatred",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Phone Snapping": {
-            "area": "Ring_2",
-            "creators": ["Gammattor"],
-            "difficulty": 2.76,
-            "isCanon": true,
-            "length": 0,
-            "migrated": 2124852151,
-            "modern": 2125365118,
-            "name": "Tower of Phone Snapping",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Shattered Dreams": {
-            "area": "Ring_2",
-            "creators": ["Fauxyde"],
-            "difficulty": 5.84,
-            "isCanon": true,
-            "ktoh": 2124425468,
-            "length": 0,
-            "migrated": 2124457642,
-            "modern": 2125365112,
-            "name": "Tower of Shattered Dreams",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Table Flipping": {
-            "area": "Ring_2",
-            "creators": ["IceNsalt"],
-            "difficulty": 6.44,
-            "isCanon": true,
-            "ktoh": 2124425470,
-            "length": 0,
-            "migrated": 2124457644,
-            "modern": 2125365132,
-            "name": "Tower of Table Flipping",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Traps": {
-            "area": "Ring_2",
-            "creators": ["Gammattor", "Paramockss", "Karinriine", "Lightsynth", "Paramockss", "Paramockss"],
-            "difficulty": 5.71,
-            "isCanon": true,
-            "ktoh": 2124425471,
-            "length": 0,
-            "migrated": 2124457646,
-            "modern": 2125365144,
-            "name": "Tower of Traps",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": false
+    {
+        "name": "Steeple of Twisted Crystals",
+        "area": "Arcane_Area",
+        "difficulty": 4.15,
+        "isCanon": true,
+        "modern": 2125419045,
+        "migrated": 2124753512
     },
-    "Ring_3": {
-        "Citadel of Heights and Depths": {
-            "area": "Ring_3",
-            "creators": ["Karinriine", "ciel_azulsky", "Gammattor", "punkynil", "uuuuuuuurchinnnnnnnn"],
-            "difficulty": 6.13,
-            "isCanon": true,
-            "length": 60,
-            "migrated": 2124891682,
-            "modern": 2125365543,
-            "name": "Citadel of Heights and Depths",
-            "techniques": ["Tower Crossing"],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Ring 3 Tower Rush": {
-            "area": "Ring_3",
-            "creators": [],
-            "difficulty": 6.89,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ring 3 Tower Rush",
-            "techniques": [],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Totally A Tower": {
-            "area": "Ring_3",
-            "creators": ["bLockerman666", "aamo_s"],
-            "difficulty": 6.99,
-            "isCanon": false,
-            "length": 0,
-            "migrated": 2124609985,
-            "modern": 2125365536,
-            "name": "Totally A Tower",
-            "techniques": ["Wall Hopping"],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Tower of Ancient Trickery": {
-            "area": "Ring_3",
-            "creators": ["Coatesultimate1"],
-            "difficulty": 2.62,
-            "isCanon": true,
-            "ktoh": 2124440857,
-            "length": 0,
-            "migrated": 2124457793,
-            "modern": 2125365520,
-            "name": "Tower of Ancient Trickery",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Confusion": {
-            "area": "Ring_3",
-            "creators": ["It_Near"],
-            "difficulty": 8.94,
-            "isCanon": true,
-            "ktoh": 2124421907,
-            "length": 0,
-            "migrated": 2124457794,
-            "modern": 2125365521,
-            "name": "Tower of Confusion",
-            "techniques": ["Dance Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Deep Sighing": {
-            "area": "Ring_3",
-            "creators": ["Gammattor"],
-            "difficulty": 2.83,
-            "isCanon": true,
-            "ktoh": 2124440688,
-            "length": 0,
-            "migrated": 2124457786,
-            "modern": 2125365453,
-            "name": "Tower of Deep Sighing",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Despair": {
-            "area": "Ring_3",
-            "creators": ["thenamesJEFF2", "TromTimee"],
-            "difficulty": 5.29,
-            "isCanon": true,
-            "ktoh": 2124440854,
-            "length": 0,
-            "migrated": 2124457791,
-            "modern": 2125365496,
-            "name": "Tower of Despair",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Fatness": {
-            "area": "Ring_3",
-            "creators": ["latomludo"],
-            "difficulty": 3.54,
-            "isCanon": true,
-            "ktoh": 2124440847,
-            "length": 0,
-            "migrated": 2124457787,
-            "modern": 2125365461,
-            "name": "Tower of Fatness",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Funny Thoughts": {
-            "area": "Ring_3",
-            "creators": ["plant9seeds", "hearttadri", "It_Near"],
-            "difficulty": 1.7,
-            "isCanon": true,
-            "ktoh": 2124440851,
-            "length": 0,
-            "migrated": 2124457789,
-            "modern": 2125365471,
-            "name": "Tower of Funny Thoughts",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Inverted Colors": {
-            "area": "Ring_3",
-            "creators": ["ciel_azulsky"],
-            "difficulty": 2.09,
-            "isCanon": true,
-            "ktoh": 2124456169,
-            "length": 0,
-            "migrated": 2124457795,
-            "modern": 2125365525,
-            "name": "Tower of Inverted Colors",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Lotsa Damage": {
-            "area": "Ring_3",
-            "creators": ["LuckyTux", "Salveritie", "latomludo(uncredited)", "Feodoric(uncredited)"],
-            "difficulty": 4.61,
-            "isCanon": true,
-            "ktoh": 2124440853,
-            "length": 0,
-            "migrated": 2124457790,
-            "modern": 2125365494,
-            "name": "Tower of Lotsa Damage",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Slight Inconvenience": {
-            "area": "Ring_3",
-            "creators": ["Figurized", "Hat_Rox", "lazy_imp"],
-            "difficulty": 4.01,
-            "isCanon": true,
-            "ktoh": 2124440848,
-            "length": 0,
-            "migrated": 2124457788,
-            "modern": 2125365464,
-            "name": "Tower of Slight Inconvenience",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Wall Hugging": {
-            "area": "Ring_3",
-            "creators": ["ObrenTune"],
-            "difficulty": 4.37,
-            "isCanon": true,
-            "ktoh": 2124440856,
-            "length": 0,
-            "migrated": 2124457792,
-            "modern": 2125365515,
-            "name": "Tower of Wall Hugging",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Winning Every Run": {
-            "area": "Ring_3",
-            "creators": ["Karinriine"],
-            "difficulty": 3.55,
-            "isCanon": true,
-            "ktoh": 2124440687,
-            "length": 0,
-            "migrated": 2124457785,
-            "modern": 2125365451,
-            "name": "Tower of Winning Every Run",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "is_subrealm": false
+    {
+        "name": "Steeple of Witch Calamity",
+        "area": "Arcane_Area",
+        "difficulty": 5.82,
+        "isCanon": true,
+        "modern": 2125419048,
+        "migrated": 2124753513
     },
-    "Ring_4": {
-        "Citadel of Uneasiness": {
-            "area": "Ring_4",
-            "creators": ["AzaZeall"],
-            "difficulty": 6.8,
-            "isCanon": true,
-            "length": 20,
-            "migrated": 2124580592,
-            "modern": 2125383807,
-            "name": "Citadel of Uneasiness",
-            "techniques": [],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Ring 4 Tower Rush": {
-            "area": "Ring_4",
-            "creators": [],
-            "difficulty": 8.12,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ring 4 Tower Rush",
-            "techniques": ["Corner Clipping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of Corrupted Nightmares": {
-            "area": "Ring_4",
-            "creators": ["Fauxyde"],
-            "difficulty": 7.95,
-            "isCanon": true,
-            "ktoh": 2124446153,
-            "length": 0,
-            "migrated": 2124457913,
-            "modern": 2125383775,
-            "name": "Tower of Corrupted Nightmares",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Dust and Decay": {
-            "area": "Ring_4",
-            "creators": ["IceNsalt"],
-            "difficulty": 5.22,
-            "isCanon": true,
-            "ktoh": 2124442996,
-            "length": 0,
-            "migrated": 2124457884,
-            "modern": 2125383771,
-            "name": "Tower of Dust and Decay",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Elysium": {
-            "area": "Ring_4",
-            "creators": ["Maplejavas"],
-            "difficulty": 3.92,
-            "isCanon": true,
-            "ktoh": 2124446155,
-            "length": 0,
-            "migrated": 2124457915,
-            "modern": 2125383779,
-            "name": "Tower of Elysium",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Getting Gnomed": {
-            "area": "Ring_4",
-            "creators": ["ObrenTune"],
-            "difficulty": 2.84,
-            "isCanon": true,
-            "ktoh": 2124442995,
-            "length": 0,
-            "migrated": 2124457883,
-            "modern": 2125383766,
-            "name": "Tower of Getting Gnomed",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Holy Flip": {
-            "area": "Ring_4",
-            "creators": ["lazy_imp"],
-            "difficulty": 6.45,
-            "isCanon": true,
-            "ktoh": 2124442994,
-            "length": 0,
-            "migrated": 2124457921,
-            "modern": 2125383842,
-            "name": "Tower of Holy Flip",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Inception": {
-            "area": "Ring_4",
-            "creators": ["It_Near"],
-            "difficulty": 10.87,
-            "isCanon": true,
-            "ktoh": 2124449193,
-            "length": 20,
-            "migrated": 2124457917,
-            "modern": 2125383801,
-            "name": "Tower of Inception",
-            "techniques": ["Dance Clipping", "Corner Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Leaning Ledges": {
-            "area": "Ring_4",
-            "creators": ["Goose4000", "Cll0y"],
-            "difficulty": 4.7,
-            "isCanon": true,
-            "ktoh": 2124449191,
-            "length": 0,
-            "migrated": 2124457916,
-            "modern": 2125383785,
-            "name": "Tower of Leaning Ledges",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Linonophobia": {
-            "area": "Ring_4",
-            "creators": ["ciel_azulsky"],
-            "difficulty": 4.5,
-            "isCanon": true,
-            "ktoh": 2124449195,
-            "length": 0,
-            "migrated": 2124457919,
-            "modern": 2125383837,
-            "name": "Tower of Linonophobia",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Nonsensical Platforms": {
-            "area": "Ring_4",
-            "creators": ["thenamesJEFF2", "TromTimee", "Salveritie"],
-            "difficulty": 7.08,
-            "isCanon": true,
-            "ktoh": 2124442997,
-            "length": 0,
-            "migrated": 2124457885,
-            "modern": 2125383773,
-            "name": "Tower of Nonsensical Platforms",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Oblivion": {
-            "area": "Ring_4",
-            "creators": ["Karinriine[a]"],
-            "difficulty": 6.97,
-            "isCanon": true,
-            "length": 60,
-            "modern": 2144113169,
-            "name": "Tower of Oblivion",
-            "techniques": ["Corner Clipping", "Tower Crossing"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Spiralling Heights": {
-            "area": "Ring_4",
-            "creators": ["Cll0y", "aamo_s", "IceNsalt", "Logan_ISL"],
-            "difficulty": 1.9,
-            "isCanon": true,
-            "ktoh": 2124449194,
-            "length": 0,
-            "migrated": 2124457918,
-            "modern": 2125383817,
-            "name": "Tower of Spiralling Heights",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Terrible Mondays": {
-            "area": "Ring_4",
-            "creators": ["Gammattor"],
-            "difficulty": 3.6,
-            "isCanon": true,
-            "ktoh": 2124449196,
-            "length": 0,
-            "migrated": 2124457920,
-            "modern": 2125383841,
-            "name": "Tower of Terrible Mondays",
-            "techniques": ["Dance Clipping"],
-            "type": "Tower",
-            "world": 1
-        },
-        "Tower of Vivid Sections": {
-            "area": "Ring_4",
-            "creators": ["t_azk"],
-            "difficulty": 8.72,
-            "isCanon": true,
-            "length": 0,
-            "modern": 1702092531030865,
-            "name": "Tower of Vivid Sections",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        },
-        "Will Be A Tower": {
-            "area": "Ring_4",
-            "creators": ["Gammattor"],
-            "difficulty": 5.01,
-            "isCanon": false,
-            "length": 0,
-            "migrated": 2124700551,
-            "modern": 2125383846,
-            "name": "Will Be A Tower",
-            "techniques": ["Corner Clipping"],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "is_subrealm": false
+    {
+        "name": "Tower of Icy Adventures",
+        "area": "Arcane_Area",
+        "difficulty": 7.03,
+        "isCanon": true,
+        "modern": 2125419019,
+        "migrated": 2124546744
     },
-    "Ring_5": {
-        "Citadel of Contrasting Regions": {
-            "area": "Ring_5",
-            "creators": ["ciel_azulsky"],
-            "difficulty": 7.57,
-            "isCanon": true,
-            "length": 20,
-            "migrated": 2124469989,
-            "modern": 2125383986,
-            "name": "Citadel of Contrasting Regions",
-            "techniques": [],
-            "type": "Citadel",
-            "world": 1
-        },
-        "Likely A Tower": {
-            "area": "Ring_5",
-            "creators": ["Temmeh8274", "t_azk"],
-            "difficulty": 4.04,
-            "isCanon": false,
-            "length": 0,
-            "modern": 2125383958,
-            "name": "Likely A Tower",
-            "techniques": [],
-            "type": "Mini Tower",
-            "world": 1
-        },
-        "Ring 5 Tower Rush": {
-            "area": "Ring_5",
-            "creators": [],
-            "difficulty": 9.07,
-            "isCanon": false,
-            "length": 0,
-            "name": "Ring 5 Tower Rush",
-            "techniques": ["Corner Clipping", "Emote Glitching", "Wall Hopping"],
-            "type": "Tower Rush",
-            "world": 1
-        },
-        "Tower of Downward Mobility": {
-            "area": "Ring_5",
-            "creators": ["Fivalen", "NotRealzo"],
-            "difficulty": 5.17,
-            "isCanon": true,
-            "ktoh": 2124456159,
-            "length": 0,
-            "migrated": 2124457932,
-            "modern": 2125383947,
-            "name": "Tower of Downward Mobility",
-            "techniques": [],
-            "type": "Tower",
-            "world": 1
-        }
+    {
+        "name": "Ashen Towerworks Tower Rush",
+        "area": "Ashen_Towerworks",
+        "difficulty": 8.94,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Climactic Beats",
+        "area": "Ashen_Towerworks",
+        "difficulty": 7.06,
+        "isCanon": true,
+        "modern": 2150140240,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Corner Wedge Climbing",
+        "area": "Ashen_Towerworks",
+        "difficulty": 4.23,
+        "isCanon": true,
+        "modern": 2150139931,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Forever-Sleeping Flower",
+        "area": "Ashen_Towerworks",
+        "difficulty": 7.02,
+        "isCanon": true,
+        "modern": 2150140154,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Fruity Zeal",
+        "area": "Ashen_Towerworks",
+        "difficulty": 2.66,
+        "isCanon": true,
+        "modern": 2150139836,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Largely Limited Luminance",
+        "area": "Ashen_Towerworks",
+        "difficulty": 6.55,
+        "isCanon": true,
+        "modern": 2150140099,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Mechanical Disarray",
+        "area": "Ashen_Towerworks",
+        "difficulty": 7.79,
+        "isCanon": true,
+        "modern": 2150140190,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rhythm Heaven",
+        "area": "Ashen_Towerworks",
+        "difficulty": 7.74,
+        "isCanon": true,
+        "modern": 2150554134,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Shadowy Radiance",
+        "area": "Ashen_Towerworks",
+        "difficulty": 6.08,
+        "isCanon": true,
+        "modern": 2150140037,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Viaduct Traversing",
+        "area": "Ashen_Towerworks",
+        "difficulty": 3.89,
+        "isCanon": true,
+        "modern": 2150139890,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Wanting More Time",
+        "area": "Ashen_Towerworks",
+        "difficulty": 5.03,
+        "isCanon": true,
+        "modern": 2150139949,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Whirl of Winds",
+        "area": "Ashen_Towerworks",
+        "difficulty": 6.42,
+        "isCanon": true,
+        "modern": 2150140003,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Whisking It All",
+        "area": "Ashen_Towerworks",
+        "difficulty": 6.26,
+        "isCanon": true,
+        "modern": 2150139994,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Wicked Fortress",
+        "area": "Ashen_Towerworks",
+        "difficulty": 9.39,
+        "isCanon": true,
+        "modern": 2150140265,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Weird Nostalgia",
+        "area": "Forgotten_Ridge",
+        "difficulty": 6.96,
+        "isCanon": true,
+        "modern": 2125416732,
+        "migrated": 2124659783
+    },
+    {
+        "name": "Forgotten Ridge Tower Rush",
+        "area": "Forgotten_Ridge",
+        "difficulty": 8.35,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Climbing",
+        "area": "Forgotten_Ridge",
+        "difficulty": 5.49,
+        "isCanon": true,
+        "modern": 2125416687,
+        "migrated": 2124659774
+    },
+    {
+        "name": "Steeple of Huge Pain",
+        "area": "Forgotten_Ridge",
+        "difficulty": 6.35,
+        "isCanon": true,
+        "modern": 2125416698,
+        "migrated": 2124659775
+    },
+    {
+        "name": "Steeple of Low Woe",
+        "area": "Forgotten_Ridge",
+        "difficulty": 2.78,
+        "isCanon": true,
+        "modern": 2125416666,
+        "migrated": 2124659770
+    },
+    {
+        "name": "Steeple of Meaningless Decisions",
+        "area": "Forgotten_Ridge",
+        "difficulty": 1.22,
+        "isCanon": true,
+        "modern": 2125416661,
+        "migrated": 2124659768
+    },
+    {
+        "name": "Steeple of Pursuit",
+        "area": "Forgotten_Ridge",
+        "difficulty": 2.86,
+        "isCanon": true,
+        "modern": 2125416664,
+        "migrated": 2124659769
+    },
+    {
+        "name": "Steeple of Towering Pillars",
+        "area": "Forgotten_Ridge",
+        "difficulty": 7.65,
+        "isCanon": true,
+        "modern": 2125416704,
+        "migrated": 2124659776
+    },
+    {
+        "name": "Steeple of Uninstalling Roblox",
+        "area": "Forgotten_Ridge",
+        "difficulty": 3.74,
+        "isCanon": true,
+        "modern": 2125416670,
+        "migrated": 2124659771
+    },
+    {
+        "name": "Steeple of Wall Punching",
+        "area": "Forgotten_Ridge",
+        "difficulty": 4.57,
+        "isCanon": true,
+        "modern": 2125416683,
+        "migrated": 2124659772
+    },
+    {
+        "name": "This Is Probably A Tower",
+        "area": "Forgotten_Ridge",
+        "difficulty": 3.61,
+        "isCanon": false,
+        "modern": 1359907317047556,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Dangerous Expeditions",
+        "area": "Forgotten_Ridge",
+        "difficulty": 6.75,
+        "isCanon": true,
+        "modern": 2125416731,
+        "migrated": 2124659782
+    },
+    {
+        "name": "Tower of Immense Ire",
+        "area": "Forgotten_Ridge",
+        "difficulty": 4.24,
+        "isCanon": true,
+        "modern": 2125416720,
+        "migrated": 2124659780
+    },
+    {
+        "name": "Tower of Increasing Stress",
+        "area": "Forgotten_Ridge",
+        "difficulty": 6.37,
+        "isCanon": true,
+        "modern": 2125416725,
+        "migrated": 2124659781
+    },
+    {
+        "name": "Tower of Jolly Good Fun",
+        "area": "Forgotten_Ridge",
+        "difficulty": 1.65,
+        "isCanon": true,
+        "modern": 2125416710,
+        "migrated": 2124659777
+    },
+    {
+        "name": "Tower of Mind Breaking",
+        "area": "Forgotten_Ridge",
+        "difficulty": 8.36,
+        "isCanon": true,
+        "modern": 2130253292,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Triangular Covering",
+        "area": "Forgotten_Ridge",
+        "difficulty": 5.0,
+        "isCanon": true,
+        "modern": 2125416718,
+        "migrated": 2124659779
+    },
+    {
+        "name": "Tower of Versatility",
+        "area": "Forgotten_Ridge",
+        "difficulty": 4.64,
+        "isCanon": true,
+        "modern": 2125416714,
+        "migrated": 2124659778
+    },
+    {
+        "name": "Garden of Eesh\u00f6l Tower Rush",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 6.62,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Not Even A Flower",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 5.79,
+        "isCanon": false,
+        "modern": 3872937943626202,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Beginner's Journey",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 1.11,
+        "isCanon": true,
+        "modern": 2125416740,
+        "migrated": 2124924309
+    },
+    {
+        "name": "Steeple of Buoyant Automations",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 6.03,
+        "isCanon": true,
+        "modern": 2125416780,
+        "migrated": 2124924339
+    },
+    {
+        "name": "Steeple of Devil's Snare",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 1.54,
+        "isCanon": true,
+        "modern": 2125416748,
+        "migrated": 2124924311
+    },
+    {
+        "name": "Steeple of Feudal Foliage",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 3.8,
+        "isCanon": true,
+        "modern": 2125416771,
+        "migrated": 2124924332
+    },
+    {
+        "name": "Steeple of Flourishing Wastelands",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 5.61,
+        "isCanon": true,
+        "modern": 2125416775,
+        "migrated": 2124924335
+    },
+    {
+        "name": "Steeple of Greenhouse Placidity",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 3.7,
+        "isCanon": true,
+        "modern": 2125416762,
+        "migrated": 2124924326
+    },
+    {
+        "name": "Steeple of Infectious Foliage",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 2.32,
+        "isCanon": true,
+        "modern": 2125416753,
+        "migrated": 2124924313
+    },
+    {
+        "name": "Steeple of Lost In Quiescence",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 3.84,
+        "isCanon": true,
+        "modern": 2125416758,
+        "migrated": 2124924321
+    },
+    {
+        "name": "Steeple of Nightfall",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 2.81,
+        "isCanon": true,
+        "modern": 2125416757,
+        "migrated": 2124924315
+    },
+    {
+        "name": "Steeple of Overgrown Ascension",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 3.16,
+        "isCanon": true,
+        "modern": 2125416759,
+        "migrated": 2124924323
+    },
+    {
+        "name": "Steeple of Overgrowth",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 2.67,
+        "isCanon": true,
+        "modern": 2125416751,
+        "migrated": 2124924312
+    },
+    {
+        "name": "Steeple of Various Vivariums",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 4.01,
+        "isCanon": true,
+        "modern": 2125416767,
+        "migrated": 2124924328
+    },
+    {
+        "name": "Tower of Perilous Antipode",
+        "area": "Garden_of_Eesh\u00f6l",
+        "difficulty": 6.0,
+        "isCanon": true,
+        "modern": 2125416787,
+        "migrated": 2124924341
+    },
+    {
+        "name": "Citadel of Inside Situations",
+        "area": "Lost_River",
+        "difficulty": 4.6,
+        "isCanon": true,
+        "modern": 2130091636,
+        "migrated": null
+    },
+    {
+        "name": "Lost River Tower Rush",
+        "area": "Lost_River",
+        "difficulty": 7.85,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Compact Spaces",
+        "area": "Lost_River",
+        "difficulty": 6.98,
+        "isCanon": true,
+        "modern": 2130091644,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Diverging Layers",
+        "area": "Lost_River",
+        "difficulty": 5.37,
+        "isCanon": true,
+        "modern": 2130091637,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Excessive Weirdness",
+        "area": "Lost_River",
+        "difficulty": 2.89,
+        "isCanon": true,
+        "modern": 2130091633,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Losing Our Zeal",
+        "area": "Lost_River",
+        "difficulty": 4.86,
+        "isCanon": true,
+        "modern": 2130091635,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Odd Odyssey",
+        "area": "Lost_River",
+        "difficulty": 5.59,
+        "isCanon": true,
+        "modern": 2130091638,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Tallying Every Mistake",
+        "area": "Lost_River",
+        "difficulty": 7.0,
+        "isCanon": true,
+        "modern": 2130091645,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Triple Jeopardy",
+        "area": "Lost_River",
+        "difficulty": 7.01,
+        "isCanon": true,
+        "modern": 2130091646,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Two Sided Troubles",
+        "area": "Lost_River",
+        "difficulty": 3.79,
+        "isCanon": true,
+        "modern": 2130091634,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Unsettling Heights",
+        "area": "Lost_River",
+        "difficulty": 8.19,
+        "isCanon": true,
+        "modern": 2130091648,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Witchcraft and Wizardry",
+        "area": "Lost_River",
+        "difficulty": 6.74,
+        "isCanon": true,
+        "modern": 2130091642,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Victory",
+        "area": "Paradise_Atoll",
+        "difficulty": 4.25,
+        "isCanon": true,
+        "modern": 3615836876088083,
+        "migrated": null
+    },
+    {
+        "name": "Paradise Atoll Tower Rush",
+        "area": "Paradise_Atoll",
+        "difficulty": 7.09,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Possibly A Tower",
+        "area": "Paradise_Atoll",
+        "difficulty": 1.54,
+        "isCanon": false,
+        "modern": 2125419004,
+        "migrated": 2124776627
+    },
+    {
+        "name": "Steeple of Abyssal Upturn",
+        "area": "Paradise_Atoll",
+        "difficulty": 3.94,
+        "isCanon": true,
+        "modern": 2125419000,
+        "migrated": 2124776625
+    },
+    {
+        "name": "Steeple of Aquatic Rallies",
+        "area": "Paradise_Atoll",
+        "difficulty": 4.34,
+        "isCanon": true,
+        "modern": 2125418997,
+        "migrated": 2124776624
+    },
+    {
+        "name": "Steeple of Cliffside Falls",
+        "area": "Paradise_Atoll",
+        "difficulty": 5.83,
+        "isCanon": true,
+        "modern": 2125418955,
+        "migrated": 2124776613
+    },
+    {
+        "name": "Steeple of Desolate Isles",
+        "area": "Paradise_Atoll",
+        "difficulty": 5.28,
+        "isCanon": true,
+        "modern": 2125418969,
+        "migrated": 2124776616
+    },
+    {
+        "name": "Steeple of Dusty Dunes",
+        "area": "Paradise_Atoll",
+        "difficulty": 6.32,
+        "isCanon": true,
+        "modern": 2125419001,
+        "migrated": 2124776626
+    },
+    {
+        "name": "Steeple of Hallucinatory Spectacles",
+        "area": "Paradise_Atoll",
+        "difficulty": 4.8,
+        "isCanon": true,
+        "modern": 2125418989,
+        "migrated": 2124776619
+    },
+    {
+        "name": "Steeple of Mystical Marine",
+        "area": "Paradise_Atoll",
+        "difficulty": 1.76,
+        "isCanon": true,
+        "modern": 2125418964,
+        "migrated": 2124776615
+    },
+    {
+        "name": "Steeple of Sunny Island Shenanigans",
+        "area": "Paradise_Atoll",
+        "difficulty": 4.03,
+        "isCanon": true,
+        "modern": 2125418995,
+        "migrated": 2124776622
+    },
+    {
+        "name": "Steeple of Underlying Breezes",
+        "area": "Paradise_Atoll",
+        "difficulty": 6.54,
+        "isCanon": true,
+        "modern": 2125418958,
+        "migrated": 2124776614
+    },
+    {
+        "name": "Steeple of Undersea Voyage",
+        "area": "Paradise_Atoll",
+        "difficulty": 2.74,
+        "isCanon": true,
+        "modern": 204425668269319,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Upright Cliffs",
+        "area": "Paradise_Atoll",
+        "difficulty": 5.78,
+        "isCanon": true,
+        "modern": 2125418991,
+        "migrated": 2124776620
+    },
+    {
+        "name": "Steeple of Waterfall",
+        "area": "Paradise_Atoll",
+        "difficulty": 3.24,
+        "isCanon": true,
+        "modern": 2621972218525980,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Call It A Day",
+        "area": "Paradise_Atoll",
+        "difficulty": 3.59,
+        "isCanon": true,
+        "modern": 1169770390109959,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Cyclonic Isles",
+        "area": "Paradise_Atoll",
+        "difficulty": 5.76,
+        "isCanon": true,
+        "modern": 2125418973,
+        "migrated": 2124776617
+    },
+    {
+        "name": "Tower of High Power",
+        "area": "Paradise_Atoll",
+        "difficulty": 4.77,
+        "isCanon": true,
+        "modern": 3109245217942913,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Traversing The Tropics",
+        "area": "Paradise_Atoll",
+        "difficulty": 6.06,
+        "isCanon": true,
+        "modern": 2125418976,
+        "migrated": 2124776618
+    },
+    {
+        "name": "Purgatorio Tower Rush",
+        "area": "Ring_0",
+        "difficulty": 5.41,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower Not Found",
+        "area": "Ring_0",
+        "difficulty": 3.11,
+        "isCanon": false,
+        "modern": 2479940534323983,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Boost Mayhem",
+        "area": "Ring_0",
+        "difficulty": 2.0,
+        "isCanon": true,
+        "modern": 2424222337564254,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Buttons",
+        "area": "Ring_0",
+        "difficulty": 1.48,
+        "isCanon": true,
+        "modern": 1792274219914148,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Critical Damage",
+        "area": "Ring_0",
+        "difficulty": 1.93,
+        "isCanon": true,
+        "modern": 1985325594898930,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Dancing All Night",
+        "area": "Ring_0",
+        "difficulty": 3.35,
+        "isCanon": true,
+        "modern": 3557168381486575,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Genesis",
+        "area": "Ring_0",
+        "difficulty": 1.0,
+        "isCanon": true,
+        "modern": 2998040866283977,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Keys To Success",
+        "area": "Ring_0",
+        "difficulty": 3.0,
+        "isCanon": true,
+        "modern": 2557966395367805,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Kinetic Potential",
+        "area": "Ring_0",
+        "difficulty": 2.54,
+        "isCanon": true,
+        "modern": 3190118081857963,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Motion Evolution",
+        "area": "Ring_0",
+        "difficulty": 1.46,
+        "isCanon": true,
+        "modern": 1180657673680675,
+        "migrated": null
+    },
+    {
+        "name": "Tower of No Strings Attached",
+        "area": "Ring_0",
+        "difficulty": 2.79,
+        "isCanon": true,
+        "modern": 1406264843938633,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Various Pressures",
+        "area": "Ring_0",
+        "difficulty": 2.44,
+        "isCanon": true,
+        "modern": 3194046165949700,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Laptop Splitting",
+        "area": "Ring_1",
+        "difficulty": 6.5,
+        "isCanon": true,
+        "modern": 2125364319,
+        "migrated": 2124457514
+    },
+    {
+        "name": "Not Even A Tower",
+        "area": "Ring_1",
+        "difficulty": 1.11,
+        "isCanon": false,
+        "modern": 2125364331,
+        "migrated": 2124457516
+    },
+    {
+        "name": "Ring 1 Tower Rush",
+        "area": "Ring_1",
+        "difficulty": 7.83,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of A Simple Time",
+        "area": "Ring_1",
+        "difficulty": 1.25,
+        "isCanon": true,
+        "modern": 2125364300,
+        "migrated": 2124457509
+    },
+    {
+        "name": "Tower of Anger",
+        "area": "Ring_1",
+        "difficulty": 1.5,
+        "isCanon": true,
+        "modern": 2125364239,
+        "migrated": 2124457501
+    },
+    {
+        "name": "Tower of Hecc",
+        "area": "Ring_1",
+        "difficulty": 3.3,
+        "isCanon": true,
+        "modern": 2125363409,
+        "migrated": 2124457496
+    },
+    {
+        "name": "Tower of Impossible Expectations",
+        "area": "Ring_1",
+        "difficulty": 6.01,
+        "isCanon": true,
+        "modern": 2125364211,
+        "migrated": 2124457498
+    },
+    {
+        "name": "Tower of Infinity Gauntlet",
+        "area": "Ring_1",
+        "difficulty": 8.23,
+        "isCanon": true,
+        "modern": 2125364309,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Keyboard Yeeting",
+        "area": "Ring_1",
+        "difficulty": 4.1,
+        "isCanon": true,
+        "modern": 2125364279,
+        "migrated": 2124457505
+    },
+    {
+        "name": "Tower of Killjoys",
+        "area": "Ring_1",
+        "difficulty": 3.47,
+        "isCanon": true,
+        "modern": 2125364325,
+        "migrated": 2124457515
+    },
+    {
+        "name": "Tower of Madness",
+        "area": "Ring_1",
+        "difficulty": 2.12,
+        "isCanon": true,
+        "modern": 2125364247,
+        "migrated": 2124457502
+    },
+    {
+        "name": "Tower of Noticeable Infuriation",
+        "area": "Ring_1",
+        "difficulty": 2.8,
+        "isCanon": true,
+        "modern": 2125394398,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rage",
+        "area": "Ring_1",
+        "difficulty": 5.58,
+        "isCanon": true,
+        "modern": 2125364213,
+        "migrated": 2124457499
+    },
+    {
+        "name": "Tower of Screen Punching",
+        "area": "Ring_1",
+        "difficulty": 5.2,
+        "isCanon": true,
+        "modern": 2125364203,
+        "migrated": 2124457497
+    },
+    {
+        "name": "Tower of Stress",
+        "area": "Ring_1",
+        "difficulty": 4.88,
+        "isCanon": true,
+        "modern": 2125364284,
+        "migrated": 2124457506
+    },
+    {
+        "name": "Tower of True Skill",
+        "area": "Ring_1",
+        "difficulty": 7.09,
+        "isCanon": true,
+        "modern": 2125364257,
+        "migrated": 2124457504
+    },
+    {
+        "name": "Citadel of Wacky Strategy",
+        "area": "Ring_2",
+        "difficulty": 7.96,
+        "isCanon": true,
+        "modern": 2125365166,
+        "migrated": 2124470872
+    },
+    {
+        "name": "Maybe A Tower",
+        "area": "Ring_2",
+        "difficulty": 1.07,
+        "isCanon": false,
+        "modern": 2125365096,
+        "migrated": 2124574951
+    },
+    {
+        "name": "Ring 2 Tower Rush",
+        "area": "Ring_2",
+        "difficulty": 8.98,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Big Hole",
+        "area": "Ring_2",
+        "difficulty": 3.4,
+        "isCanon": true,
+        "modern": 2125365136,
+        "migrated": 2124852152
+    },
+    {
+        "name": "Tower of Cold Hands",
+        "area": "Ring_2",
+        "difficulty": 4.0,
+        "isCanon": true,
+        "modern": 2125365092,
+        "migrated": 2124457640
+    },
+    {
+        "name": "Tower of Deep Darkness",
+        "area": "Ring_2",
+        "difficulty": 5.8,
+        "isCanon": true,
+        "modern": 2125365155,
+        "migrated": 2124457656
+    },
+    {
+        "name": "Tower of Difficulty Chart",
+        "area": "Ring_2",
+        "difficulty": 8.03,
+        "isCanon": true,
+        "modern": 2125365158,
+        "migrated": 2124457657
+    },
+    {
+        "name": "Tower of Eternal Suffering",
+        "area": "Ring_2",
+        "difficulty": 7.5,
+        "isCanon": true,
+        "modern": 2125365108,
+        "migrated": 2124457641
+    },
+    {
+        "name": "Tower of Falling and Failing",
+        "area": "Ring_2",
+        "difficulty": 5.61,
+        "isCanon": true,
+        "modern": 2125365147,
+        "migrated": 2124457647
+    },
+    {
+        "name": "Tower of Overcoming Hatred",
+        "area": "Ring_2",
+        "difficulty": 3.73,
+        "isCanon": true,
+        "modern": 2125365125,
+        "migrated": 2124457643
+    },
+    {
+        "name": "Tower of Phone Snapping",
+        "area": "Ring_2",
+        "difficulty": 2.76,
+        "isCanon": true,
+        "modern": 2125365118,
+        "migrated": 2124852151
+    },
+    {
+        "name": "Tower of Shattered Dreams",
+        "area": "Ring_2",
+        "difficulty": 5.84,
+        "isCanon": true,
+        "modern": 2125365112,
+        "migrated": 2124457642
+    },
+    {
+        "name": "Tower of Table Flipping",
+        "area": "Ring_2",
+        "difficulty": 6.44,
+        "isCanon": true,
+        "modern": 2125365132,
+        "migrated": 2124457644
+    },
+    {
+        "name": "Tower of Traps",
+        "area": "Ring_2",
+        "difficulty": 5.71,
+        "isCanon": true,
+        "modern": 2125365144,
+        "migrated": 2124457646
+    },
+    {
+        "name": "Citadel of Heights and Depths",
+        "area": "Ring_3",
+        "difficulty": 6.13,
+        "isCanon": true,
+        "modern": 2125365543,
+        "migrated": 2124891682
+    },
+    {
+        "name": "Ring 3 Tower Rush",
+        "area": "Ring_3",
+        "difficulty": 6.89,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Totally A Tower",
+        "area": "Ring_3",
+        "difficulty": 6.99,
+        "isCanon": false,
+        "modern": 2125365536,
+        "migrated": 2124609985
+    },
+    {
+        "name": "Tower of Ancient Trickery",
+        "area": "Ring_3",
+        "difficulty": 2.62,
+        "isCanon": true,
+        "modern": 2125365520,
+        "migrated": 2124457793
+    },
+    {
+        "name": "Tower of Confusion",
+        "area": "Ring_3",
+        "difficulty": 8.94,
+        "isCanon": true,
+        "modern": 2125365521,
+        "migrated": 2124457794
+    },
+    {
+        "name": "Tower of Deep Sighing",
+        "area": "Ring_3",
+        "difficulty": 2.83,
+        "isCanon": true,
+        "modern": 2125365453,
+        "migrated": 2124457786
+    },
+    {
+        "name": "Tower of Despair",
+        "area": "Ring_3",
+        "difficulty": 5.29,
+        "isCanon": true,
+        "modern": 2125365496,
+        "migrated": 2124457791
+    },
+    {
+        "name": "Tower of Fatness",
+        "area": "Ring_3",
+        "difficulty": 3.54,
+        "isCanon": true,
+        "modern": 2125365461,
+        "migrated": 2124457787
+    },
+    {
+        "name": "Tower of Funny Thoughts",
+        "area": "Ring_3",
+        "difficulty": 1.7,
+        "isCanon": true,
+        "modern": 2125365471,
+        "migrated": 2124457789
+    },
+    {
+        "name": "Tower of Inverted Colors",
+        "area": "Ring_3",
+        "difficulty": 2.09,
+        "isCanon": true,
+        "modern": 2125365525,
+        "migrated": 2124457795
+    },
+    {
+        "name": "Tower of Lotsa Damage",
+        "area": "Ring_3",
+        "difficulty": 4.61,
+        "isCanon": true,
+        "modern": 2125365494,
+        "migrated": 2124457790
+    },
+    {
+        "name": "Tower of Slight Inconvenience",
+        "area": "Ring_3",
+        "difficulty": 4.01,
+        "isCanon": true,
+        "modern": 2125365464,
+        "migrated": 2124457788
+    },
+    {
+        "name": "Tower of Wall Hugging",
+        "area": "Ring_3",
+        "difficulty": 4.37,
+        "isCanon": true,
+        "modern": 2125365515,
+        "migrated": 2124457792
+    },
+    {
+        "name": "Tower of Winning Every Run",
+        "area": "Ring_3",
+        "difficulty": 3.55,
+        "isCanon": true,
+        "modern": 2125365451,
+        "migrated": 2124457785
+    },
+    {
+        "name": "Citadel of Uneasiness",
+        "area": "Ring_4",
+        "difficulty": 6.8,
+        "isCanon": true,
+        "modern": 2125383807,
+        "migrated": 2124580592
+    },
+    {
+        "name": "Ring 4 Tower Rush",
+        "area": "Ring_4",
+        "difficulty": 8.12,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Corrupted Nightmares",
+        "area": "Ring_4",
+        "difficulty": 7.95,
+        "isCanon": true,
+        "modern": 2125383775,
+        "migrated": 2124457913
+    },
+    {
+        "name": "Tower of Dust and Decay",
+        "area": "Ring_4",
+        "difficulty": 5.22,
+        "isCanon": true,
+        "modern": 2125383771,
+        "migrated": 2124457884
+    },
+    {
+        "name": "Tower of Elysium",
+        "area": "Ring_4",
+        "difficulty": 3.92,
+        "isCanon": true,
+        "modern": 2125383779,
+        "migrated": 2124457915
+    },
+    {
+        "name": "Tower of Getting Gnomed",
+        "area": "Ring_4",
+        "difficulty": 2.84,
+        "isCanon": true,
+        "modern": 2125383766,
+        "migrated": 2124457883
+    },
+    {
+        "name": "Tower of Holy Flip",
+        "area": "Ring_4",
+        "difficulty": 6.45,
+        "isCanon": true,
+        "modern": 2125383842,
+        "migrated": 2124457921
+    },
+    {
+        "name": "Tower of Inception",
+        "area": "Ring_4",
+        "difficulty": 10.87,
+        "isCanon": true,
+        "modern": 2125383801,
+        "migrated": 2124457917
+    },
+    {
+        "name": "Tower of Leaning Ledges",
+        "area": "Ring_4",
+        "difficulty": 4.7,
+        "isCanon": true,
+        "modern": 2125383785,
+        "migrated": 2124457916
+    },
+    {
+        "name": "Tower of Linonophobia",
+        "area": "Ring_4",
+        "difficulty": 4.5,
+        "isCanon": true,
+        "modern": 2125383837,
+        "migrated": 2124457919
+    },
+    {
+        "name": "Tower of Nonsensical Platforms",
+        "area": "Ring_4",
+        "difficulty": 7.08,
+        "isCanon": true,
+        "modern": 2125383773,
+        "migrated": 2124457885
+    },
+    {
+        "name": "Tower of Oblivion",
+        "area": "Ring_4",
+        "difficulty": 6.97,
+        "isCanon": true,
+        "modern": 2144113169,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Spiralling Heights",
+        "area": "Ring_4",
+        "difficulty": 1.9,
+        "isCanon": true,
+        "modern": 2125383817,
+        "migrated": 2124457918
+    },
+    {
+        "name": "Tower of Terrible Mondays",
+        "area": "Ring_4",
+        "difficulty": 3.6,
+        "isCanon": true,
+        "modern": 2125383841,
+        "migrated": 2124457920
+    },
+    {
+        "name": "Tower of Vivid Sections",
+        "area": "Ring_4",
+        "difficulty": 8.72,
+        "isCanon": true,
+        "modern": 1702092531030865,
+        "migrated": null
+    },
+    {
+        "name": "Will Be A Tower",
+        "area": "Ring_4",
+        "difficulty": 5.01,
+        "isCanon": false,
+        "modern": 2125383846,
+        "migrated": 2124700551
+    },
+    {
+        "name": "Citadel of Contrasting Regions",
+        "area": "Ring_5",
+        "difficulty": 7.57,
+        "isCanon": true,
+        "modern": 2125383986,
+        "migrated": 2124469989
+    },
+    {
+        "name": "Likely A Tower",
+        "area": "Ring_5",
+        "difficulty": 4.04,
+        "isCanon": false,
+        "modern": 2125383958,
+        "migrated": null
+    },
+    {
+        "name": "Ring 5 Tower Rush",
+        "area": "Ring_5",
+        "difficulty": 9.07,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Downward Mobility",
+        "area": "Ring_5",
+        "difficulty": 5.17,
+        "isCanon": true,
+        "modern": 2125383947,
+        "migrated": 2124457932
+    },
+    {
+        "name": "Tower of Extraordinary Adventures",
+        "area": "Ring_5",
+        "difficulty": 6.12,
+        "isCanon": true,
+        "modern": 2125383938,
+        "migrated": 2124457931
+    },
+    {
+        "name": "Tower of Floral Fury",
+        "area": "Ring_5",
+        "difficulty": 6.05,
+        "isCanon": true,
+        "modern": 2125383919,
+        "migrated": 2124457926
+    },
+    {
+        "name": "Tower of Fractured Obstacles",
+        "area": "Ring_5",
+        "difficulty": 7.31,
+        "isCanon": true,
+        "modern": 2125383955,
+        "migrated": 2124457935
+    },
+    {
+        "name": "Tower of Frightening Nightmares",
+        "area": "Ring_5",
+        "difficulty": 10.14,
+        "isCanon": true,
+        "modern": 2125383912,
+        "migrated": 2124457925
+    },
+    {
+        "name": "Tower of Glitching and Healing",
+        "area": "Ring_5",
+        "difficulty": 7.05,
+        "isCanon": true,
+        "modern": 2125383949,
+        "migrated": 2124457933
+    },
+    {
+        "name": "Tower of Icy Blizzards",
+        "area": "Ring_5",
+        "difficulty": 8.47,
+        "isCanon": true,
+        "modern": 2125383934,
+        "migrated": 2124891611
+    },
+    {
+        "name": "Tower of Nice Views",
+        "area": "Ring_5",
+        "difficulty": 2.85,
+        "isCanon": true,
+        "modern": 2125383930,
+        "migrated": 2124457930
+    },
+    {
+        "name": "Tower of Obvious Chaos",
+        "area": "Ring_5",
+        "difficulty": 5.72,
+        "isCanon": true,
+        "modern": 2125383952,
+        "migrated": 2124457934
+    },
+    {
+        "name": "Tower of Rigid Success",
+        "area": "Ring_5",
+        "difficulty": 4.36,
+        "isCanon": true,
+        "modern": 2125383920,
+        "migrated": 2124457927
+    },
+    {
+        "name": "Tower of Tokyo Heights",
+        "area": "Ring_5",
+        "difficulty": 6.46,
+        "isCanon": true,
+        "modern": 2125383923,
+        "migrated": 2124457928
+    },
+    {
+        "name": "Tower of Trivial Resentment",
+        "area": "Ring_5",
+        "difficulty": 4.11,
+        "isCanon": true,
+        "modern": 2125383926,
+        "migrated": 2124457929
+    },
+    {
+        "name": "Citadel of Scythe Recognition",
+        "area": "Ring_6",
+        "difficulty": 7.34,
+        "isCanon": true,
+        "modern": 2125384265,
+        "migrated": 2124489282
+    },
+    {
+        "name": "Fortunately Not A Tower",
+        "area": "Ring_6",
+        "difficulty": 6.76,
+        "isCanon": false,
+        "modern": 2125384279,
+        "migrated": null
+    },
+    {
+        "name": "Ring 6 Tower Rush",
+        "area": "Ring_6",
+        "difficulty": 8.45,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of A Depressing Future",
+        "area": "Ring_6",
+        "difficulty": 6.12,
+        "isCanon": true,
+        "modern": 2125384235,
+        "migrated": 2124459805
+    },
+    {
+        "name": "Tower of Dispersed Rooms",
+        "area": "Ring_6",
+        "difficulty": 6.68,
+        "isCanon": true,
+        "modern": 2125384245,
+        "migrated": 2124459806
+    },
+    {
+        "name": "Tower of Environmental Pain",
+        "area": "Ring_6",
+        "difficulty": 4.4,
+        "isCanon": true,
+        "modern": 2125384021,
+        "migrated": 2124459803
+    },
+    {
+        "name": "Tower of Flustering Sections",
+        "area": "Ring_6",
+        "difficulty": 6.71,
+        "isCanon": true,
+        "modern": 2125384255,
+        "migrated": 2124459810
+    },
+    {
+        "name": "Tower of Friendly Jumps",
+        "area": "Ring_6",
+        "difficulty": 3.03,
+        "isCanon": true,
+        "modern": 2125384025,
+        "migrated": 2124459804
+    },
+    {
+        "name": "Tower of Impossible Movement",
+        "area": "Ring_6",
+        "difficulty": 10.1,
+        "isCanon": true,
+        "modern": 2125384270,
+        "migrated": 2124459813
+    },
+    {
+        "name": "Tower of Intense Solar Chaos",
+        "area": "Ring_6",
+        "difficulty": 6.3,
+        "isCanon": true,
+        "modern": 2125384272,
+        "migrated": 2124459814
+    },
+    {
+        "name": "Tower of Niflheim",
+        "area": "Ring_6",
+        "difficulty": 7.1,
+        "isCanon": true,
+        "modern": 2125384258,
+        "migrated": 2124459812
+    },
+    {
+        "name": "Tower of Radiant Realms",
+        "area": "Ring_6",
+        "difficulty": 4.52,
+        "isCanon": true,
+        "modern": 2125384251,
+        "migrated": 2124459809
+    },
+    {
+        "name": "Tower of Strategic Mechanics",
+        "area": "Ring_6",
+        "difficulty": 9.46,
+        "isCanon": true,
+        "modern": 2125384017,
+        "migrated": 2124459802
+    },
+    {
+        "name": "Tower of Twisted Inquisition",
+        "area": "Ring_6",
+        "difficulty": 5.45,
+        "isCanon": true,
+        "modern": 2125384250,
+        "migrated": 2124459808
+    },
+    {
+        "name": "Citadel of True Exasperation",
+        "area": "Ring_7",
+        "difficulty": 7.66,
+        "isCanon": true,
+        "modern": 2125394342,
+        "migrated": 2124525327
+    },
+    {
+        "name": "Far From A Surprising Tower",
+        "area": "Ring_7",
+        "difficulty": 4.79,
+        "isCanon": false,
+        "modern": 4089026193358070,
+        "migrated": null
+    },
+    {
+        "name": "Ring 7 Tower Rush",
+        "area": "Ring_7",
+        "difficulty": 8.78,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Collective Collaboration",
+        "area": "Ring_7",
+        "difficulty": 5.46,
+        "isCanon": true,
+        "modern": 2125394315,
+        "migrated": 2124496382
+    },
+    {
+        "name": "Tower of Distorted Aerodynamics",
+        "area": "Ring_7",
+        "difficulty": 5.85,
+        "isCanon": true,
+        "modern": 2125394317,
+        "migrated": 2124496383
+    },
+    {
+        "name": "Tower of Elongated Runs",
+        "area": "Ring_7",
+        "difficulty": 11.85,
+        "isCanon": true,
+        "modern": 2125394329,
+        "migrated": 2124496385
+    },
+    {
+        "name": "Tower of Extreme Hell",
+        "area": "Ring_7",
+        "difficulty": 8.17,
+        "isCanon": true,
+        "modern": 2125394321,
+        "migrated": 2124496384
+    },
+    {
+        "name": "Tower of Feeling Lazy",
+        "area": "Ring_7",
+        "difficulty": 5.6,
+        "isCanon": true,
+        "modern": 2125394352,
+        "migrated": 2124496386
+    },
+    {
+        "name": "Tower of Never Ending Dizziness",
+        "area": "Ring_7",
+        "difficulty": 7.18,
+        "isCanon": true,
+        "modern": 2125394357,
+        "migrated": 2124496387
+    },
+    {
+        "name": "Tower of Never Giving Up, Ever",
+        "area": "Ring_7",
+        "difficulty": 6.54,
+        "isCanon": true,
+        "modern": 2125394365,
+        "migrated": 2124496388
+    },
+    {
+        "name": "Tower of Orientating Oscillating Opinions",
+        "area": "Ring_7",
+        "difficulty": 6.29,
+        "isCanon": true,
+        "modern": 2125394368,
+        "migrated": 2124496389
+    },
+    {
+        "name": "Tower of Rushed Building",
+        "area": "Ring_7",
+        "difficulty": 4.58,
+        "isCanon": true,
+        "modern": 2125394373,
+        "migrated": 2124496390
+    },
+    {
+        "name": "Tower of Terrifying Beauty",
+        "area": "Ring_7",
+        "difficulty": 9.43,
+        "isCanon": true,
+        "modern": 2125394390,
+        "migrated": 2124496470
+    },
+    {
+        "name": "Tower of Ultraviolet",
+        "area": "Ring_7",
+        "difficulty": 7.55,
+        "isCanon": true,
+        "modern": 2125394379,
+        "migrated": 2124496391
+    },
+    {
+        "name": "Tower of Yearning Victory",
+        "area": "Ring_7",
+        "difficulty": 7.67,
+        "isCanon": true,
+        "modern": 2125394384,
+        "migrated": 2124496392
+    },
+    {
+        "name": "Citadel of Constant Heart Stopping",
+        "area": "Ring_8",
+        "difficulty": 6.49,
+        "isCanon": true,
+        "modern": 2125416477,
+        "migrated": 2124535612
+    },
+    {
+        "name": "Ring 8 Tower Rush",
+        "area": "Ring_8",
+        "difficulty": 9.05,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Aamos' Anger",
+        "area": "Ring_8",
+        "difficulty": 5.75,
+        "isCanon": true,
+        "modern": 2125416501,
+        "migrated": 2124535622
+    },
+    {
+        "name": "Tower of Externalizing Insanity",
+        "area": "Ring_8",
+        "difficulty": 9.95,
+        "isCanon": true,
+        "modern": 2125416481,
+        "migrated": 2124535616
+    },
+    {
+        "name": "Tower of Generation Failure",
+        "area": "Ring_8",
+        "difficulty": 11.17,
+        "isCanon": true,
+        "modern": 2125416507,
+        "migrated": 2124535623
+    },
+    {
+        "name": "Tower of Insanely Innovative Ideas",
+        "area": "Ring_8",
+        "difficulty": 6.99,
+        "isCanon": true,
+        "modern": 2125416498,
+        "migrated": 2124535621
+    },
+    {
+        "name": "Tower of Mean Tasks",
+        "area": "Ring_8",
+        "difficulty": 7.69,
+        "isCanon": true,
+        "modern": 2125416487,
+        "migrated": 2124535618
+    },
+    {
+        "name": "Tower of Needing Basic Aptitude",
+        "area": "Ring_8",
+        "difficulty": 3.9,
+        "isCanon": true,
+        "modern": 2125416489,
+        "migrated": 2124535619
+    },
+    {
+        "name": "Tower of Somewhat Simple Scaling",
+        "area": "Ring_8",
+        "difficulty": 2.38,
+        "isCanon": true,
+        "modern": 2125416493,
+        "migrated": 2124535620
+    },
+    {
+        "name": "Tower of Suffering Outside",
+        "area": "Ring_8",
+        "difficulty": 9.53,
+        "isCanon": true,
+        "modern": 2125416523,
+        "migrated": 2124535629
+    },
+    {
+        "name": "Tower of Uneasy Scaling",
+        "area": "Ring_8",
+        "difficulty": 6.66,
+        "isCanon": true,
+        "modern": 2125416517,
+        "migrated": 2124535627
+    },
+    {
+        "name": "Tower of Verdant Entropy",
+        "area": "Ring_8",
+        "difficulty": 7.56,
+        "isCanon": true,
+        "modern": 2125416520,
+        "migrated": 2124535628
+    },
+    {
+        "name": "Tower of Vibrant Adventures",
+        "area": "Ring_8",
+        "difficulty": 5.6,
+        "isCanon": true,
+        "modern": 2125416514,
+        "migrated": 2124535626
+    },
+    {
+        "name": "Tower of Voluminous Framework",
+        "area": "Ring_8",
+        "difficulty": 5.25,
+        "isCanon": true,
+        "modern": 2125416511,
+        "migrated": 2124535624
+    },
+    {
+        "name": "Citadel of Lethargy",
+        "area": "Ring_9",
+        "difficulty": 7.68,
+        "isCanon": true,
+        "modern": 2125416621,
+        "migrated": 2124698839
+    },
+    {
+        "name": "Ring 9 Tower Rush",
+        "area": "Ring_9",
+        "difficulty": 8.28,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Augmented Misery",
+        "area": "Ring_9",
+        "difficulty": 11.0,
+        "isCanon": true,
+        "modern": 2125416602,
+        "migrated": 2124698836
+    },
+    {
+        "name": "Tower of Beat Block Berserk",
+        "area": "Ring_9",
+        "difficulty": 7.03,
+        "isCanon": true,
+        "modern": 2125416595,
+        "migrated": 2124698835
+    },
+    {
+        "name": "Tower of Bent Trauma",
+        "area": "Ring_9",
+        "difficulty": 8.21,
+        "isCanon": true,
+        "modern": 2125416549,
+        "migrated": 2124698829
+    },
+    {
+        "name": "Tower of Bloodthirsty Kenos",
+        "area": "Ring_9",
+        "difficulty": 9.08,
+        "isCanon": true,
+        "modern": 2125416575,
+        "migrated": 2124698832
+    },
+    {
+        "name": "Tower of Champion's Road",
+        "area": "Ring_9",
+        "difficulty": 11.71,
+        "isCanon": true,
+        "modern": 2125416609,
+        "migrated": 2124698837
+    },
+    {
+        "name": "Tower of Cruel Punishment",
+        "area": "Ring_9",
+        "difficulty": 11.99,
+        "isCanon": true,
+        "modern": 2125416545,
+        "migrated": 2124698827
+    },
+    {
+        "name": "Tower of Curved Ascent",
+        "area": "Ring_9",
+        "difficulty": 8.46,
+        "isCanon": true,
+        "modern": 2125416566,
+        "migrated": 2124698831
+    },
+    {
+        "name": "Tower of Frightening and Confusing Trials",
+        "area": "Ring_9",
+        "difficulty": 9.05,
+        "isCanon": true,
+        "modern": 2125416543,
+        "migrated": 2124698826
+    },
+    {
+        "name": "Tower of Great Overcomings",
+        "area": "Ring_9",
+        "difficulty": 6.49,
+        "isCanon": true,
+        "modern": 2125416546,
+        "migrated": 2124698828
+    },
+    {
+        "name": "Tower of High Adrenaline",
+        "area": "Ring_9",
+        "difficulty": 8.14,
+        "isCanon": true,
+        "modern": 2125416583,
+        "migrated": 2124698833
+    },
+    {
+        "name": "Tower of Journey's End",
+        "area": "Ring_9",
+        "difficulty": 10.5,
+        "isCanon": true,
+        "modern": 2125416646,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Nervous Sweating",
+        "area": "Ring_9",
+        "difficulty": 10.6,
+        "isCanon": true,
+        "modern": 2125416613,
+        "migrated": 2124698838
+    },
+    {
+        "name": "Tower of Pastel Pillars",
+        "area": "Ring_9",
+        "difficulty": 7.87,
+        "isCanon": true,
+        "modern": 2125416587,
+        "migrated": 2124698834
+    },
+    {
+        "name": "Tower of Questionable Trials",
+        "area": "Ring_9",
+        "difficulty": 7.23,
+        "isCanon": true,
+        "modern": 2125416555,
+        "migrated": 2124698830
+    },
+    {
+        "name": "Silent Abyss Tower Rush",
+        "area": "Silent_Abyss",
+        "difficulty": 8.15,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Descendance",
+        "area": "Silent_Abyss",
+        "difficulty": 5.15,
+        "isCanon": true,
+        "modern": 2143764044,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Guiding Lights",
+        "area": "Silent_Abyss",
+        "difficulty": 5.66,
+        "isCanon": true,
+        "modern": 2143764056,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Involuntary Isolation",
+        "area": "Silent_Abyss",
+        "difficulty": 6.71,
+        "isCanon": true,
+        "modern": 2143764118,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Malignant Blight",
+        "area": "Silent_Abyss",
+        "difficulty": 7.45,
+        "isCanon": true,
+        "modern": 2143764143,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Midnight Acropolis",
+        "area": "Silent_Abyss",
+        "difficulty": 7.34,
+        "isCanon": true,
+        "modern": 2143764150,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Resort In Stasis",
+        "area": "Silent_Abyss",
+        "difficulty": 4.71,
+        "isCanon": true,
+        "modern": 2143764006,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Ruinous Abate",
+        "area": "Silent_Abyss",
+        "difficulty": 4.87,
+        "isCanon": true,
+        "modern": 2143764028,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Wicked Grotto",
+        "area": "Silent_Abyss",
+        "difficulty": 6.02,
+        "isCanon": true,
+        "modern": 2143764075,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Xenial Abyss",
+        "area": "Silent_Abyss",
+        "difficulty": 5.9,
+        "isCanon": true,
+        "modern": 2143764064,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Ancestral Interference",
+        "area": "Silent_Abyss",
+        "difficulty": 4.99,
+        "isCanon": true,
+        "modern": 2143764022,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Shallow Waters",
+        "area": "Silent_Abyss",
+        "difficulty": 6.64,
+        "isCanon": true,
+        "modern": 2143764094,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Tenebrous Depths",
+        "area": "Silent_Abyss",
+        "difficulty": 6.9,
+        "isCanon": true,
+        "modern": 2143764125,
+        "migrated": null
+    },
+    {
+        "name": "Tower of There Is No Tower",
+        "area": "Silent_Abyss",
+        "difficulty": 5.42,
+        "isCanon": true,
+        "modern": 2143764050,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Treachery",
+        "area": "Steelspire_Horizon",
+        "difficulty": 6.95,
+        "isCanon": true,
+        "modern": 3805471735939366,
+        "migrated": null
+    },
+    {
+        "name": "Steelspire Horizon Tower Rush",
+        "area": "Steelspire_Horizon",
+        "difficulty": 8.57,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Bad Cable Management",
+        "area": "Steelspire_Horizon",
+        "difficulty": 4.65,
+        "isCanon": true,
+        "modern": 1898816351102274,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Dungeon Runner",
+        "area": "Steelspire_Horizon",
+        "difficulty": 5.09,
+        "isCanon": true,
+        "modern": 2701617455954789,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Golf Course",
+        "area": "Steelspire_Horizon",
+        "difficulty": 1.86,
+        "isCanon": true,
+        "modern": 3899085920365526,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Sunken Kingdoms",
+        "area": "Steelspire_Horizon",
+        "difficulty": 5.79,
+        "isCanon": true,
+        "modern": 3659539682222668,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Zip Zap Pop!",
+        "area": "Steelspire_Horizon",
+        "difficulty": 1.43,
+        "isCanon": true,
+        "modern": 3796638866066915,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Calm Before The Storm",
+        "area": "Steelspire_Horizon",
+        "difficulty": 3.77,
+        "isCanon": true,
+        "modern": 191323548486651,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Fixture Park",
+        "area": "Steelspire_Horizon",
+        "difficulty": 6.3,
+        "isCanon": true,
+        "modern": 753369958334298,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Fly High",
+        "area": "Steelspire_Horizon",
+        "difficulty": 3.1,
+        "isCanon": true,
+        "modern": 1796543950477853,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Geometric Kinetics",
+        "area": "Steelspire_Horizon",
+        "difficulty": 7.33,
+        "isCanon": true,
+        "modern": 2034712695514165,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Nerves of Steel",
+        "area": "Steelspire_Horizon",
+        "difficulty": 6.66,
+        "isCanon": true,
+        "modern": 1213659987351943,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Quantum Rhythm",
+        "area": "Steelspire_Horizon",
+        "difficulty": 2.72,
+        "isCanon": true,
+        "modern": 3149645911475376,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Speeding Right Through",
+        "area": "Steelspire_Horizon",
+        "difficulty": 8.39,
+        "isCanon": true,
+        "modern": 3607887245561763,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Steel and Thunder",
+        "area": "Steelspire_Horizon",
+        "difficulty": 2.85,
+        "isCanon": true,
+        "modern": 3037871458495832,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Sunshower Lambent",
+        "area": "Steelspire_Horizon",
+        "difficulty": 2.55,
+        "isCanon": true,
+        "modern": 3888765538122811,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Ten Floors Challenge",
+        "area": "Steelspire_Horizon",
+        "difficulty": 3.85,
+        "isCanon": true,
+        "modern": 1990803915387174,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Weird Energy",
+        "area": "Steelspire_Horizon",
+        "difficulty": 5.12,
+        "isCanon": true,
+        "modern": 1627135012828323,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of After-Life Detention",
+        "area": "The_Starlit_Archives",
+        "difficulty": 5.26,
+        "isCanon": true,
+        "modern": 2634745481559417,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Balloon Commune",
+        "area": "The_Starlit_Archives",
+        "difficulty": 5.63,
+        "isCanon": true,
+        "modern": 53740875259774,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Cheesy Vengeance",
+        "area": "The_Starlit_Archives",
+        "difficulty": 7.69,
+        "isCanon": true,
+        "modern": 1358487401757254,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Forlorn Blizzard",
+        "area": "The_Starlit_Archives",
+        "difficulty": 7.64,
+        "isCanon": true,
+        "modern": 1391896070846757,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Itsy Bitsy",
+        "area": "The_Starlit_Archives",
+        "difficulty": 6.4,
+        "isCanon": true,
+        "modern": 391052562773885,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of The Manufactured Monstrosity",
+        "area": "The_Starlit_Archives",
+        "difficulty": 5.92,
+        "isCanon": true,
+        "modern": 2763253159461072,
+        "migrated": null
+    },
+    {
+        "name": "Steeple of Two Minute Noodles",
+        "area": "The_Starlit_Archives",
+        "difficulty": 5.89,
+        "isCanon": true,
+        "modern": 3730347966032771,
+        "migrated": null
+    },
+    {
+        "name": "The Starlit Archives Tower Rush",
+        "area": "The_Starlit_Archives",
+        "difficulty": 9.77,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Tower of A Disillusioned Existence",
+        "area": "The_Starlit_Archives",
+        "difficulty": 6.57,
+        "isCanon": true,
+        "modern": 491118547215153,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Fleeing From Everything Ending",
+        "area": "The_Starlit_Archives",
+        "difficulty": 7.32,
+        "isCanon": true,
+        "modern": 2919301511601152,
+        "migrated": null
+    },
+    {
+        "name": "Tower of House Without Home",
+        "area": "The_Starlit_Archives",
+        "difficulty": 7.35,
+        "isCanon": true,
+        "modern": 4114801218397975,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Infiltrated Ruins",
+        "area": "The_Starlit_Archives",
+        "difficulty": 6.36,
+        "isCanon": true,
+        "modern": 4465046116074335,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Lethean Recollection",
+        "area": "The_Starlit_Archives",
+        "difficulty": 4.13,
+        "isCanon": true,
+        "modern": 1289207222729699,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Pursuit Led Astray",
+        "area": "The_Starlit_Archives",
+        "difficulty": 4.96,
+        "isCanon": true,
+        "modern": 2766842373955971,
+        "migrated": null
+    },
+    {
+        "name": "Tower of The Umbrella, The User",
+        "area": "The_Starlit_Archives",
+        "difficulty": 6.32,
+        "isCanon": true,
+        "modern": 165330479439546,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Warranted Retribution",
+        "area": "The_Starlit_Archives",
+        "difficulty": 6.75,
+        "isCanon": true,
+        "modern": 2122020127306477,
+        "migrated": null
+    },
+    {
+        "name": "Tower of You're Late For Work",
+        "area": "The_Starlit_Archives",
+        "difficulty": 4.73,
+        "isCanon": true,
+        "modern": 3753365954140761,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Peril",
+        "area": "Zone_1",
+        "difficulty": 7.95,
+        "isCanon": true,
+        "modern": 2125416858,
+        "migrated": 2124470873
+    },
+    {
+        "name": "Somewhat A Tower",
+        "area": "Zone_1",
+        "difficulty": 5.53,
+        "isCanon": false,
+        "modern": 2574993269501011,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Absolute Vexation",
+        "area": "Zone_1",
+        "difficulty": 5.21,
+        "isCanon": true,
+        "modern": 2125416816,
+        "migrated": 2124470866
+    },
+    {
+        "name": "Tower of Atlantic Depths",
+        "area": "Zone_1",
+        "difficulty": 2.65,
+        "isCanon": true,
+        "modern": 2125416834,
+        "migrated": 2124470870
+    },
+    {
+        "name": "Tower of Contractual Obligations",
+        "area": "Zone_1",
+        "difficulty": 4.46,
+        "isCanon": true,
+        "modern": 2125416881,
+        "migrated": 2124470901
+    },
+    {
+        "name": "Tower of Extreme Dystopia",
+        "area": "Zone_1",
+        "difficulty": 7.12,
+        "isCanon": true,
+        "modern": 2125416830,
+        "migrated": 2124470869
+    },
+    {
+        "name": "Tower of Hands Sweating",
+        "area": "Zone_1",
+        "difficulty": 3.48,
+        "isCanon": true,
+        "modern": 2125416818,
+        "migrated": 2124470867
+    },
+    {
+        "name": "Tower of Mirrored Hecc",
+        "area": "Zone_1",
+        "difficulty": 3.91,
+        "isCanon": true,
+        "modern": 2125416877,
+        "migrated": 2124470900
+    },
+    {
+        "name": "Tower of Peace",
+        "area": "Zone_1",
+        "difficulty": 3.26,
+        "isCanon": true,
+        "modern": 2125416895,
+        "migrated": 2124470903
+    },
+    {
+        "name": "Tower of Peaceful Happiness and Tranquility",
+        "area": "Zone_1",
+        "difficulty": 1.55,
+        "isCanon": true,
+        "modern": 2125416824,
+        "migrated": 2124470868
+    },
+    {
+        "name": "Tower of Really Nasty Ideas",
+        "area": "Zone_1",
+        "difficulty": 7.19,
+        "isCanon": true,
+        "modern": 2125416850,
+        "migrated": 2124470871
+    },
+    {
+        "name": "Tower of Thinning Layers",
+        "area": "Zone_1",
+        "difficulty": 8.48,
+        "isCanon": true,
+        "modern": 2125416865,
+        "migrated": 2124470876
+    },
+    {
+        "name": "Tower of Ultimately Terrifying",
+        "area": "Zone_1",
+        "difficulty": 6.23,
+        "isCanon": true,
+        "modern": 2125416814,
+        "migrated": 2124470865
+    },
+    {
+        "name": "Tower of Wanting Extra Levels",
+        "area": "Zone_1",
+        "difficulty": 5.91,
+        "isCanon": true,
+        "modern": 2125416812,
+        "migrated": 2124470864
+    },
+    {
+        "name": "Tower of Yearning Success",
+        "area": "Zone_1",
+        "difficulty": 4.92,
+        "isCanon": true,
+        "modern": 2125416861,
+        "migrated": 2124470874
+    },
+    {
+        "name": "Tower of Zero Disturbances",
+        "area": "Zone_1",
+        "difficulty": 1.15,
+        "isCanon": true,
+        "modern": 2125416899,
+        "migrated": 2124471080
+    },
+    {
+        "name": "Tower of Zespluz",
+        "area": "Zone_1",
+        "difficulty": 7.97,
+        "isCanon": true,
+        "modern": 2125416883,
+        "migrated": 2124470902
+    },
+    {
+        "name": "Zone 1 Tower Rush",
+        "area": "Zone_1",
+        "difficulty": 10.16,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Overcoming The World's Imperfections",
+        "area": "Zone_10",
+        "difficulty": 7.99,
+        "isCanon": true,
+        "modern": 2507199611553026,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Blast Power",
+        "area": "Zone_10",
+        "difficulty": 9.6,
+        "isCanon": true,
+        "modern": 355685079411731,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Clandestine Zones",
+        "area": "Zone_10",
+        "difficulty": 5.05,
+        "isCanon": true,
+        "modern": 3272958117661218,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Complexity and Volatility",
+        "area": "Zone_10",
+        "difficulty": 10.15,
+        "isCanon": true,
+        "modern": 3257215550818295,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Expecting The Unexpected",
+        "area": "Zone_10",
+        "difficulty": 6.79,
+        "isCanon": true,
+        "modern": 107230483116768,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Interstellar Terrarium",
+        "area": "Zone_10",
+        "difficulty": 5.63,
+        "isCanon": true,
+        "modern": 336549132922735,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Mach Nine",
+        "area": "Zone_10",
+        "difficulty": 6.99,
+        "isCanon": true,
+        "modern": 3391647603337289,
+        "migrated": null
+    },
+    {
+        "name": "Tower of One Two Three Four",
+        "area": "Zone_10",
+        "difficulty": 7.12,
+        "isCanon": true,
+        "modern": 700401771595466,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Power Laws",
+        "area": "Zone_10",
+        "difficulty": 7.86,
+        "isCanon": true,
+        "modern": 4169473905789944,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Prismatic Instability",
+        "area": "Zone_10",
+        "difficulty": 7.52,
+        "isCanon": true,
+        "modern": 2326507854403116,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Raging Tempest",
+        "area": "Zone_10",
+        "difficulty": 11.64,
+        "isCanon": true,
+        "modern": 340419315411712,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rain on My World",
+        "area": "Zone_10",
+        "difficulty": 8.88,
+        "isCanon": true,
+        "modern": 1977424686097217,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Resonant Landscapes",
+        "area": "Zone_10",
+        "difficulty": 5.32,
+        "isCanon": true,
+        "modern": 3402148860296470,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Tee Hee Time",
+        "area": "Zone_10",
+        "difficulty": 8.92,
+        "isCanon": true,
+        "modern": 312790140010623,
+        "migrated": null
+    },
+    {
+        "name": "Tower of The Despondent Fortress",
+        "area": "Zone_10",
+        "difficulty": 7.24,
+        "isCanon": true,
+        "modern": 3798209650683082,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Valiant Verges",
+        "area": "Zone_10",
+        "difficulty": 5.95,
+        "isCanon": true,
+        "modern": 679296910866412,
+        "migrated": null
+    },
+    {
+        "name": "Zone 10 Tower Rush",
+        "area": "Zone_10",
+        "difficulty": 10.46,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Green Stuff",
+        "area": "Zone_2",
+        "difficulty": 6.39,
+        "isCanon": true,
+        "modern": 2125418384,
+        "migrated": 2124479690
+    },
+    {
+        "name": "Tower of Arcanium Zenturing",
+        "area": "Zone_2",
+        "difficulty": 6.76,
+        "isCanon": true,
+        "modern": 2125418287,
+        "migrated": 2124479675
+    },
+    {
+        "name": "Tower of Chaotic Moments",
+        "area": "Zone_2",
+        "difficulty": 7.25,
+        "isCanon": true,
+        "modern": 2125418342,
+        "migrated": 2125203294
+    },
+    {
+        "name": "Tower of Double Trouble",
+        "area": "Zone_2",
+        "difficulty": 8.0,
+        "isCanon": true,
+        "modern": 2125418381,
+        "migrated": 2124479689
+    },
+    {
+        "name": "Tower of Dreams and Caverns",
+        "area": "Zone_2",
+        "difficulty": 4.91,
+        "isCanon": true,
+        "modern": 2125418292,
+        "migrated": 2124479679
+    },
+    {
+        "name": "Tower of Extraterrestrial Enchantment",
+        "area": "Zone_2",
+        "difficulty": 6.49,
+        "isCanon": true,
+        "modern": 2125418299,
+        "migrated": 2124479680
+    },
+    {
+        "name": "Tower of Great Displeasure",
+        "area": "Zone_2",
+        "difficulty": 7.17,
+        "isCanon": true,
+        "modern": 2125418305,
+        "migrated": 2124479681
+    },
+    {
+        "name": "Tower of Ground Level Ascension",
+        "area": "Zone_2",
+        "difficulty": 3.57,
+        "isCanon": true,
+        "modern": 2125418311,
+        "migrated": 2124479682
+    },
+    {
+        "name": "Tower of Pleasant Fantasies",
+        "area": "Zone_2",
+        "difficulty": 5.62,
+        "isCanon": true,
+        "modern": 2125418326,
+        "migrated": 2124479683
+    },
+    {
+        "name": "Tower of Slanted Anticipation",
+        "area": "Zone_2",
+        "difficulty": 2.98,
+        "isCanon": true,
+        "modern": 2125418346,
+        "migrated": 2124479684
+    },
+    {
+        "name": "Tower of Slipping and Sliding",
+        "area": "Zone_2",
+        "difficulty": 5.74,
+        "isCanon": true,
+        "modern": 2125418349,
+        "migrated": 2124479686
+    },
+    {
+        "name": "Tower of Triangular Terror",
+        "area": "Zone_2",
+        "difficulty": 6.98,
+        "isCanon": true,
+        "modern": 2125418297,
+        "migrated": 2124513818
+    },
+    {
+        "name": "Tower of Troublesome Adventures",
+        "area": "Zone_2",
+        "difficulty": 4.05,
+        "isCanon": true,
+        "modern": 2125418352,
+        "migrated": 2124479687
+    },
+    {
+        "name": "Tower of Unearthed Discoveries",
+        "area": "Zone_2",
+        "difficulty": 4.21,
+        "isCanon": true,
+        "modern": 2125418354,
+        "migrated": 2124479688
+    },
+    {
+        "name": "Tower of Venomous Resonance",
+        "area": "Zone_2",
+        "difficulty": 2.68,
+        "isCanon": true,
+        "modern": 2125418290,
+        "migrated": 2124479678
+    },
+    {
+        "name": "Zone 2 Tower Rush",
+        "area": "Zone_2",
+        "difficulty": 8.84,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Tricky Situations",
+        "area": "Zone_3",
+        "difficulty": 4.98,
+        "isCanon": true,
+        "modern": 2125418491,
+        "migrated": 2124516375
+    },
+    {
+        "name": "Tower of Broken Bricks",
+        "area": "Zone_3",
+        "difficulty": 2.07,
+        "isCanon": true,
+        "modern": 2125418444,
+        "migrated": 2124516345
+    },
+    {
+        "name": "Tower of Client Object Frenzy",
+        "area": "Zone_3",
+        "difficulty": 2.87,
+        "isCanon": true,
+        "modern": 2125418463,
+        "migrated": 2124516367
+    },
+    {
+        "name": "Tower of Cogs and Steam",
+        "area": "Zone_3",
+        "difficulty": 4.66,
+        "isCanon": true,
+        "modern": 2125418452,
+        "migrated": 2124516357
+    },
+    {
+        "name": "Tower of Cracked, Crushed Cubes",
+        "area": "Zone_3",
+        "difficulty": 3.58,
+        "isCanon": true,
+        "modern": 2125418441,
+        "migrated": 2124516343
+    },
+    {
+        "name": "Tower of Cruel and Unusual Punishment",
+        "area": "Zone_3",
+        "difficulty": 6.46,
+        "isCanon": true,
+        "modern": 2125418481,
+        "migrated": 2124516370
+    },
+    {
+        "name": "Tower of Dimensional Hopping",
+        "area": "Zone_3",
+        "difficulty": 4.38,
+        "isCanon": true,
+        "modern": 2125418455,
+        "migrated": 2124516361
+    },
+    {
+        "name": "Tower of Hopeless Hell",
+        "area": "Zone_3",
+        "difficulty": 9.36,
+        "isCanon": true,
+        "modern": 2125418485,
+        "migrated": 2124516373
+    },
+    {
+        "name": "Tower of Infuriating Obstacles",
+        "area": "Zone_3",
+        "difficulty": 6.32,
+        "isCanon": true,
+        "modern": 2125418432,
+        "migrated": 2124516340
+    },
+    {
+        "name": "Tower of Menacing Creations",
+        "area": "Zone_3",
+        "difficulty": 5.56,
+        "isCanon": true,
+        "modern": 2125418490,
+        "migrated": 2124516374
+    },
+    {
+        "name": "Tower of Mild Agitation",
+        "area": "Zone_3",
+        "difficulty": 4.59,
+        "isCanon": true,
+        "modern": 2125418450,
+        "migrated": 2124516352
+    },
+    {
+        "name": "Tower of Overestimating Difficulty",
+        "area": "Zone_3",
+        "difficulty": 1.99,
+        "isCanon": true,
+        "modern": 2125418437,
+        "migrated": 2124516342
+    },
+    {
+        "name": "Tower of Quirky Contraptions",
+        "area": "Zone_3",
+        "difficulty": 6.18,
+        "isCanon": true,
+        "modern": 2125418461,
+        "migrated": 2124516366
+    },
+    {
+        "name": "Tower of Requiring Critical Help",
+        "area": "Zone_3",
+        "difficulty": 4.98,
+        "isCanon": true,
+        "modern": 2125418458,
+        "migrated": 2124516363
+    },
+    {
+        "name": "Tower of Six Feet Under",
+        "area": "Zone_3",
+        "difficulty": 1.05,
+        "isCanon": true,
+        "modern": 2125418434,
+        "migrated": 2124516341
+    },
+    {
+        "name": "Tower of Xanthophobia",
+        "area": "Zone_3",
+        "difficulty": 3.81,
+        "isCanon": true,
+        "modern": 2125418479,
+        "migrated": 2124516368
+    },
+    {
+        "name": "Zone 3 Tower Rush",
+        "area": "Zone_3",
+        "difficulty": 7.16,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Quadrilaterals",
+        "area": "Zone_4",
+        "difficulty": 7.85,
+        "isCanon": true,
+        "modern": 2125418563,
+        "migrated": 2124603904
+    },
+    {
+        "name": "Tower of Aquatic Contemplation",
+        "area": "Zone_4",
+        "difficulty": 2.95,
+        "isCanon": true,
+        "modern": 2125418569,
+        "migrated": 2124603906
+    },
+    {
+        "name": "Tower of Astronomically Aimless Annoyances",
+        "area": "Zone_4",
+        "difficulty": 9.25,
+        "isCanon": true,
+        "modern": 2125418565,
+        "migrated": 2124603905
+    },
+    {
+        "name": "Tower of Dance Dance Destruction",
+        "area": "Zone_4",
+        "difficulty": 7.13,
+        "isCanon": true,
+        "modern": 2125418559,
+        "migrated": 2124603902
+    },
+    {
+        "name": "Tower of Elevator Travelling",
+        "area": "Zone_4",
+        "difficulty": 4.51,
+        "isCanon": true,
+        "modern": 2125418556,
+        "migrated": 2124603901
+    },
+    {
+        "name": "Tower of Fairly Simple Challenges",
+        "area": "Zone_4",
+        "difficulty": 1.58,
+        "isCanon": true,
+        "modern": 2125418571,
+        "migrated": 2124603907
+    },
+    {
+        "name": "Tower of Fun and Simple Trials",
+        "area": "Zone_4",
+        "difficulty": 3.29,
+        "isCanon": true,
+        "modern": 2125418562,
+        "migrated": 2124603903
+    },
+    {
+        "name": "Tower of Funky Grooves",
+        "area": "Zone_4",
+        "difficulty": 7.29,
+        "isCanon": true,
+        "modern": 2125418552,
+        "migrated": 2124603899
+    },
+    {
+        "name": "Tower of Inevitable Failure",
+        "area": "Zone_4",
+        "difficulty": 8.45,
+        "isCanon": true,
+        "modern": 2125418537,
+        "migrated": 2124603895
+    },
+    {
+        "name": "Tower of Mechanically Induced Mayhem",
+        "area": "Zone_4",
+        "difficulty": 6.02,
+        "isCanon": true,
+        "modern": 2125418546,
+        "migrated": 2124603896
+    },
+    {
+        "name": "Tower of Pure Chroma",
+        "area": "Zone_4",
+        "difficulty": 5.82,
+        "isCanon": true,
+        "modern": 2125418532,
+        "migrated": 2124603892
+    },
+    {
+        "name": "Tower of Shifting Slopes",
+        "area": "Zone_4",
+        "difficulty": 6.8,
+        "isCanon": true,
+        "modern": 2125418554,
+        "migrated": 2124603900
+    },
+    {
+        "name": "Tower of Tornado Vehemence",
+        "area": "Zone_4",
+        "difficulty": 7.98,
+        "isCanon": true,
+        "modern": 2125418551,
+        "migrated": 2124603898
+    },
+    {
+        "name": "Tower of Up Is Down",
+        "area": "Zone_4",
+        "difficulty": 3.56,
+        "isCanon": true,
+        "modern": 2125418547,
+        "migrated": 2124603897
+    },
+    {
+        "name": "Tower of Wicked Wedges",
+        "area": "Zone_4",
+        "difficulty": 4.69,
+        "isCanon": true,
+        "modern": 2125418529,
+        "migrated": 2124603890
+    },
+    {
+        "name": "Zone 4 Tower Rush",
+        "area": "Zone_4",
+        "difficulty": 9.06,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Corporate Enterprise",
+        "area": "Zone_5",
+        "difficulty": 6.79,
+        "isCanon": true,
+        "modern": 2125418631,
+        "migrated": 2124827046
+    },
+    {
+        "name": "Tower of Alien Radiance",
+        "area": "Zone_5",
+        "difficulty": 10.33,
+        "isCanon": true,
+        "modern": 2125418638,
+        "migrated": 2124827048
+    },
+    {
+        "name": "Tower of Anticlimactic Outcomes",
+        "area": "Zone_5",
+        "difficulty": 6.96,
+        "isCanon": true,
+        "modern": 2125418620,
+        "migrated": 2124827041
+    },
+    {
+        "name": "Tower of Bright Serenity",
+        "area": "Zone_5",
+        "difficulty": 4.75,
+        "isCanon": true,
+        "modern": 2125418602,
+        "migrated": 2124827038
+    },
+    {
+        "name": "Tower of Brutal and Bizarre Torment",
+        "area": "Zone_5",
+        "difficulty": 7.61,
+        "isCanon": true,
+        "modern": 2125418625,
+        "migrated": 2124827044
+    },
+    {
+        "name": "Tower of Fractal Volution",
+        "area": "Zone_5",
+        "difficulty": 4.52,
+        "isCanon": true,
+        "modern": 2125418599,
+        "migrated": 2124827037
+    },
+    {
+        "name": "Tower of Guided Trials",
+        "area": "Zone_5",
+        "difficulty": 6.52,
+        "isCanon": true,
+        "modern": 2125418608,
+        "migrated": 2124827040
+    },
+    {
+        "name": "Tower of Heiwana Kaze",
+        "area": "Zone_5",
+        "difficulty": 6.33,
+        "isCanon": true,
+        "modern": 2125418597,
+        "migrated": 2124827036
+    },
+    {
+        "name": "Tower of Horrifying Experiences",
+        "area": "Zone_5",
+        "difficulty": 6.33,
+        "isCanon": true,
+        "modern": 2125418624,
+        "migrated": 2124827043
+    },
+    {
+        "name": "Tower of Polychromatic Zero",
+        "area": "Zone_5",
+        "difficulty": 8.77,
+        "isCanon": true,
+        "modern": 2125418633,
+        "migrated": 2124827047
+    },
+    {
+        "name": "Tower of Sovereign Traveling",
+        "area": "Zone_5",
+        "difficulty": 3.4,
+        "isCanon": true,
+        "modern": 2125418587,
+        "migrated": 2124827033
+    },
+    {
+        "name": "Tower of Stairs To Spare",
+        "area": "Zone_5",
+        "difficulty": 5.31,
+        "isCanon": true,
+        "modern": 2125418593,
+        "migrated": 2124827035
+    },
+    {
+        "name": "Tower of Super Stupid Security Systems",
+        "area": "Zone_5",
+        "difficulty": 3.91,
+        "isCanon": true,
+        "modern": 2125418588,
+        "migrated": 2124827034
+    },
+    {
+        "name": "Tower of Unhealthy Escalation",
+        "area": "Zone_5",
+        "difficulty": 5.99,
+        "isCanon": true,
+        "modern": 2125418605,
+        "migrated": 2124827039
+    },
+    {
+        "name": "Tower of Zany Architecture",
+        "area": "Zone_5",
+        "difficulty": 7.94,
+        "isCanon": true,
+        "modern": 2125418628,
+        "migrated": 2124827045
+    },
+    {
+        "name": "Zone 5 Tower Rush",
+        "area": "Zone_5",
+        "difficulty": 8.21,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Twists and Weirdness",
+        "area": "Zone_6",
+        "difficulty": 6.06,
+        "isCanon": true,
+        "modern": 2125418913,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Angled Scenery",
+        "area": "Zone_6",
+        "difficulty": 5.54,
+        "isCanon": true,
+        "modern": 2125418718,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Break It, Buy It",
+        "area": "Zone_6",
+        "difficulty": 5.38,
+        "isCanon": true,
+        "modern": 2125418817,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Brief Challenges",
+        "area": "Zone_6",
+        "difficulty": 7.56,
+        "isCanon": true,
+        "modern": 2125418858,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Conflicting Frontiers",
+        "area": "Zone_6",
+        "difficulty": 5.19,
+        "isCanon": true,
+        "modern": 2125418658,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Foreign Domains",
+        "area": "Zone_6",
+        "difficulty": 3.64,
+        "isCanon": true,
+        "modern": 2125418711,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Hazardous Laddering",
+        "area": "Zone_6",
+        "difficulty": 6.25,
+        "isCanon": true,
+        "modern": 2125418727,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Hefty Magnitude",
+        "area": "Zone_6",
+        "difficulty": 5.88,
+        "isCanon": true,
+        "modern": 2125418764,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Massive Overheating",
+        "area": "Zone_6",
+        "difficulty": 7.42,
+        "isCanon": true,
+        "modern": 2125418841,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Micro Management",
+        "area": "Zone_6",
+        "difficulty": 10.33,
+        "isCanon": true,
+        "modern": 2125418865,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Petrichor Resentment",
+        "area": "Zone_6",
+        "difficulty": 7.47,
+        "isCanon": true,
+        "modern": 1904632231520807,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rock Climbing",
+        "area": "Zone_6",
+        "difficulty": 4.67,
+        "isCanon": true,
+        "modern": 2125418742,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Sakura Bloom",
+        "area": "Zone_6",
+        "difficulty": 7.07,
+        "isCanon": true,
+        "modern": 2125418733,
+        "migrated": null
+    },
+    {
+        "name": "Tower of The Dripping Amalgam",
+        "area": "Zone_6",
+        "difficulty": 9.55,
+        "isCanon": true,
+        "modern": 2125418850,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Watts",
+        "area": "Zone_6",
+        "difficulty": 6.4,
+        "isCanon": true,
+        "modern": 2125418748,
+        "migrated": null
+    },
+    {
+        "name": "Zone 6 Tower Rush",
+        "area": "Zone_6",
+        "difficulty": 8.23,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of A Cruel Tale",
+        "area": "Zone_7",
+        "difficulty": 7.77,
+        "isCanon": true,
+        "modern": 2127628655,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Bygone Relic",
+        "area": "Zone_7",
+        "difficulty": 4.49,
+        "isCanon": true,
+        "modern": 2127628626,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Cone Mesh Climbing",
+        "area": "Zone_7",
+        "difficulty": 6.48,
+        "isCanon": true,
+        "modern": 2127628592,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Cylindrical Extensions",
+        "area": "Zone_7",
+        "difficulty": 5.61,
+        "isCanon": true,
+        "modern": 2127628515,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Destructive Fever",
+        "area": "Zone_7",
+        "difficulty": 4.72,
+        "isCanon": true,
+        "modern": 2127628615,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Fractured Memories",
+        "area": "Zone_7",
+        "difficulty": 10.0,
+        "isCanon": true,
+        "modern": 2127628633,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Growing Madness",
+        "area": "Zone_7",
+        "difficulty": 5.07,
+        "isCanon": true,
+        "modern": 2127628496,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Jazz",
+        "area": "Zone_7",
+        "difficulty": 2.75,
+        "isCanon": true,
+        "modern": 2127628644,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rough Waters",
+        "area": "Zone_7",
+        "difficulty": 3.23,
+        "isCanon": true,
+        "modern": 2127628452,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Sweet Victory",
+        "area": "Zone_7",
+        "difficulty": 3.72,
+        "isCanon": true,
+        "modern": 2127628469,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Swift and Precise Sections",
+        "area": "Zone_7",
+        "difficulty": 6.78,
+        "isCanon": true,
+        "modern": 2127628598,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Uncanny Agony",
+        "area": "Zone_7",
+        "difficulty": 10.76,
+        "isCanon": true,
+        "modern": 2127628604,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Uncontrollable Ire",
+        "area": "Zone_7",
+        "difficulty": 7.71,
+        "isCanon": true,
+        "modern": 2127628708,
+        "migrated": null
+    },
+    {
+        "name": "Tower of White Space",
+        "area": "Zone_7",
+        "difficulty": 5.88,
+        "isCanon": true,
+        "modern": 2127628476,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Yore",
+        "area": "Zone_7",
+        "difficulty": 6.27,
+        "isCanon": true,
+        "modern": 2127628573,
+        "migrated": null
+    },
+    {
+        "name": "Zone 7 Tower Rush",
+        "area": "Zone_7",
+        "difficulty": 8.06,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Pyramid Escapades",
+        "area": "Zone_8",
+        "difficulty": 7.07,
+        "isCanon": true,
+        "modern": 2143542080,
+        "migrated": null
+    },
+    {
+        "name": "Tower of A Tetromino Disaster",
+        "area": "Zone_8",
+        "difficulty": 4.78,
+        "isCanon": true,
+        "modern": 2143540994,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Astral Eclipse",
+        "area": "Zone_8",
+        "difficulty": 9.0,
+        "isCanon": true,
+        "modern": 2144100719,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Cosmic Tides",
+        "area": "Zone_8",
+        "difficulty": 3.93,
+        "isCanon": true,
+        "modern": 2143540875,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Descent Into Exile",
+        "area": "Zone_8",
+        "difficulty": 11.36,
+        "isCanon": true,
+        "modern": 2144100780,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Flame Restoration",
+        "area": "Zone_8",
+        "difficulty": 5.96,
+        "isCanon": true,
+        "modern": 2143541590,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Galactic Voyage",
+        "area": "Zone_8",
+        "difficulty": 5.18,
+        "isCanon": true,
+        "modern": 2143541572,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Manic Lows",
+        "area": "Zone_8",
+        "difficulty": 6.78,
+        "isCanon": true,
+        "modern": 2143541678,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Melons In Time",
+        "area": "Zone_8",
+        "difficulty": 3.76,
+        "isCanon": true,
+        "modern": 2143540746,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Never Ending Fun",
+        "area": "Zone_8",
+        "difficulty": 6.65,
+        "isCanon": true,
+        "modern": 2143541637,
+        "migrated": null
+    },
+    {
+        "name": "Tower of No Return",
+        "area": "Zone_8",
+        "difficulty": 7.73,
+        "isCanon": true,
+        "modern": 2143541971,
+        "migrated": null
+    },
+    {
+        "name": "Tower of One Nine",
+        "area": "Zone_8",
+        "difficulty": 6.33,
+        "isCanon": true,
+        "modern": 2143541631,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Overbearing Vertigo",
+        "area": "Zone_8",
+        "difficulty": 7.04,
+        "isCanon": true,
+        "modern": 2143541757,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Rough Endoplasmic Reticulum",
+        "area": "Zone_8",
+        "difficulty": 8.89,
+        "isCanon": true,
+        "modern": 2144100620,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Time and Space Manipulation",
+        "area": "Zone_8",
+        "difficulty": 7.38,
+        "isCanon": true,
+        "modern": 2143541820,
+        "migrated": null
+    },
+    {
+        "name": "Tower of X Madness",
+        "area": "Zone_8",
+        "difficulty": 4.96,
+        "isCanon": true,
+        "modern": 2143541564,
+        "migrated": null
+    },
+    {
+        "name": "Zone 8 Tower Rush",
+        "area": "Zone_8",
+        "difficulty": 8.96,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
+    },
+    {
+        "name": "Citadel of Increasing Claustrophobia",
+        "area": "Zone_9",
+        "difficulty": 7.83,
+        "isCanon": true,
+        "modern": 1742639288936563,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Arrantly Bodeful Cavern Depths",
+        "area": "Zone_9",
+        "difficulty": 4.95,
+        "isCanon": true,
+        "modern": 4383427940994188,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Big Blocky Beefy Buttons",
+        "area": "Zone_9",
+        "difficulty": 7.7,
+        "isCanon": true,
+        "modern": 4389120601205327,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Bonus Level",
+        "area": "Zone_9",
+        "difficulty": 5.68,
+        "isCanon": true,
+        "modern": 867780291093825,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Dusk To Dawn",
+        "area": "Zone_9",
+        "difficulty": 5.14,
+        "isCanon": true,
+        "modern": 2235944988275806,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Empty Meaningless Patterns",
+        "area": "Zone_9",
+        "difficulty": 11.42,
+        "isCanon": true,
+        "modern": 4430474450821596,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Eye Candy",
+        "area": "Zone_9",
+        "difficulty": 7.01,
+        "isCanon": true,
+        "modern": 2767230538134444,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Falling Up",
+        "area": "Zone_9",
+        "difficulty": 6.93,
+        "isCanon": true,
+        "modern": 102463356765927,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Furious Chicken Brawl",
+        "area": "Zone_9",
+        "difficulty": 6.86,
+        "isCanon": true,
+        "modern": 99466740900675,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Hollow Reformations",
+        "area": "Zone_9",
+        "difficulty": 8.7,
+        "isCanon": true,
+        "modern": 2973042954665200,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Latest Sensation",
+        "area": "Zone_9",
+        "difficulty": 5.27,
+        "isCanon": true,
+        "modern": 638953684386833,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Minus Facility",
+        "area": "Zone_9",
+        "difficulty": 7.75,
+        "isCanon": true,
+        "modern": 255869244267909,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Nothing New",
+        "area": "Zone_9",
+        "difficulty": 6.73,
+        "isCanon": true,
+        "modern": 1374272096142771,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Panelling Barricades",
+        "area": "Zone_9",
+        "difficulty": 9.16,
+        "isCanon": true,
+        "modern": 2313981453629893,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Sugar Rush Deluxe",
+        "area": "Zone_9",
+        "difficulty": 6.01,
+        "isCanon": true,
+        "modern": 1585190986741794,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Voyaging Into The Earth",
+        "area": "Zone_9",
+        "difficulty": 7.92,
+        "isCanon": true,
+        "modern": 3380646432774718,
+        "migrated": null
+    },
+    {
+        "name": "Tower of Wildly Wacky Wonders",
+        "area": "Zone_9",
+        "difficulty": 10.66,
+        "isCanon": true,
+        "modern": 3562618091140628,
+        "migrated": null
+    },
+    {
+        "name": "Zone 9 Tower Rush",
+        "area": "Zone_9",
+        "difficulty": 9.89,
+        "isCanon": false,
+        "modern": null,
+        "migrated": null
     }
-}
+]
