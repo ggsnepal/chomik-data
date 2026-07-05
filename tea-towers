@@ -16,7 +16,7 @@
                     "skitsuna",
                     "mrgamingpotato1"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.10,
                 "isCanon": true,
                 "length": 60,
                 "name": "Citadel of Infinite Void",
@@ -97,7 +97,7 @@
                 "creators": [
                     "Nosav"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.20,
                 "isCanon": true,
                 "length": 30,
                 "name": "Tower of Blind Fate",
@@ -413,7 +413,7 @@
                 "creators": [
                     "Macloux"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.18,
                 "isCanon": true,
                 "length": 0,
                 "name": "Tower of Paradise",
@@ -558,7 +558,7 @@
                 "creators": [
                     "ciel_azulsky"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.28,
                 "isCanon": true,
                 "length": 20,
                 "name": "Tower of Spiralling Fates",
@@ -573,7 +573,7 @@
                     "WaterMakeer",
                     "CosmikChaos"
                 ],
-                "difficulty": 12,
+                "difficulty": 13.00,
                 "isCanon": true,
                 "length": 0,
                 "name": "Tower of Sudden Death",
@@ -775,7 +775,7 @@
                 "creators": [
                     "Higherthanblox"
                 ],
-                "difficulty": 12,
+                "difficulty": 13.06,
                 "isCanon": true,
                 "length": 0,
                 "name": "Ukraine Tower",
@@ -1432,7 +1432,7 @@
                 "creators": [
                     "ZePlayerSlayer"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.12,
                 "isCanon": true,
                 "length": 90,
                 "name": "Citadel of The Eternal Calamity",
@@ -1445,13 +1445,30 @@
                 "type": "Citadel",
                 "world": 1
             },
+            "Citadel of Cold Blooded Fatality": {
+                "area": "The_Eternal_Abyss",
+                "badge": 4021687728368554,
+                "creators": [
+                    "a6iq1",
+                    "1n_rtex"
+                ],
+                "difficulty": 13.26,
+                "isCanon": true,
+                "length": 60,
+                "name": "Citadel of The Eternal Calamity",
+                "techniques": [
+                    "Skibidi Toilet"
+                ],
+                "type": "Citadel",
+                "world": 1
+            },
             "S.T.O.N.E": {
                 "area": "The_Eternal_Abyss",
                 "creators": [
                     "IceNsalt",
                     "7Zakki1"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.46,
                 "isCanon": true,
                 "length": 45,
                 "name": "S.T.O.N.E",
@@ -1663,7 +1680,7 @@
                     "Nerve2X",
                     "Demolisher_11"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.40,
                 "isCanon": true,
                 "length": 90,
                 "name": "Tower of Impending Doom",
@@ -1718,7 +1735,7 @@
                     "ZePlayerSlayer",
                     "7Zakki1"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.50,
                 "isCanon": true,
                 "length": 45,
                 "name": "Tower of It Never Ends",
@@ -1787,7 +1804,7 @@
                     "tweet2a",
                     "danyaI082009"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.43,
                 "isCanon": true,
                 "length": 20,
                 "name": "Tower of Monochromatic Haze",
@@ -1824,7 +1841,7 @@
                     "Pynuose",
                     "BFFPikachu"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.30,
                 "isCanon": true,
                 "length": 45,
                 "name": "Tower of My Inner Hatred",
@@ -1925,7 +1942,7 @@
                 "creators": [
                     "PurpIe_BaconHair"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.08,
                 "isCanon": true,
                 "length": 20,
                 "name": "Tower of Qwerty Uiop",
@@ -2116,7 +2133,7 @@
                     "ScorpioexLOLez",
                     "kkdpracticeacc"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.35,
                 "isCanon": true,
                 "length": 0,
                 "name": "Tower of Wigglecore",
@@ -2133,7 +2150,7 @@
                     "Livingonmycouch",
                     "Fabvil3"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.14,
                 "isCanon": true,
                 "length": 0,
                 "name": "Tower of Withered Consensus",
@@ -2148,7 +2165,7 @@
                     "ciel_azulsky",
                     "skitsuna"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.03,
                 "isCanon": true,
                 "length": 0,
                 "name": "Tower of Zen Surplus",
@@ -2260,7 +2277,7 @@
                     "CamronSkilIz",
                     "Killer818616"
                 ],
-                "difficulty": 13,
+                "difficulty": 13.24,
                 "isCanon": true,
                 "length": 120,
                 "name": "Obelisk of Unrealistic Sightings",
