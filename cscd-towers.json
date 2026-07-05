@@ -1,716 +1,1121 @@
-[
-    {
-        "area": "Lush_Colosseum",
-        "type": "Mini Tower",
-        "name": "Certainly A Tower",
-        "difficulty": 10.6,
-        "is_canon": false
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Citadel",
-        "name": "Citadel of Descent Into Exile",
-        "difficulty": 11.85,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Citadel",
-        "name": "Citadel of The Final Destination",
-        "difficulty": 13.05,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower Rush",
-        "name": "Lush Colosseum Tower Rush",
-        "difficulty": 12.75,
-        "is_canon": false
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Against All Odds",
-        "difficulty": 10.4,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Cascading Uncertainty",
-        "difficulty": 9.55,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Devilish Judgements",
-        "difficulty": 11.1,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Elegant Purism",
-        "difficulty": 8.95,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Endless Spreading Bane",
-        "difficulty": 11.55,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Every End",
-        "difficulty": 13.3,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Flattened Uprising",
-        "difficulty": 8.15,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Fragile Salvation",
-        "difficulty": 10.25,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Holding Back Tears",
-        "difficulty": 12.65,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Lethal Blunders",
-        "difficulty": 12.85,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Lethal Countdown",
-        "difficulty": 11.7,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Lethal Weapon",
-        "difficulty": 13.2,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Luminous Reflections",
-        "difficulty": 12.45,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Malevolent Maelstrom",
-        "difficulty": 12.7,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of No More Teleporters",
-        "difficulty": 9.05,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Prolific Gardens",
-        "difficulty": 10.05,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Qwerty Uiop",
-        "difficulty": 13.1,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Thinning Vengeance",
-        "difficulty": 8.45,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Thje Corner",
-        "difficulty": 10.55,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Under The Limit",
-        "difficulty": 9.2,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Unfair Punishment",
-        "difficulty": 9.45,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower",
-        "name": "Tower of Vermillion Convolution",
-        "difficulty": 9.75,
-        "is_canon": true
-    },
-    {
-        "area": "Lush_Colosseum",
-        "type": "Tower Rush",
-        "name": "True Lush Colosseum Tower Rush",
-        "difficulty": 13.65,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_1",
-        "type": "Citadel",
-        "name": "Citadel of The Eternal Calamity",
-        "difficulty": 13.1,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Nokia Tower",
-        "difficulty": 13.75,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Mini Tower",
-        "name": "Not Even Fun",
-        "difficulty": 8.85,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower Rush",
-        "name": "Scope 1 Tower Rush",
-        "difficulty": 12.55,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Swedish Meatballs Tower",
-        "difficulty": 12.99,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Circuits and Lasers",
-        "difficulty": 9.05,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Clean Glass",
-        "difficulty": 9.2,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Cliffside Madness",
-        "difficulty": 10.75,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Colossal Crossroad Climbing",
-        "difficulty": 10.6,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Head Quarters",
-        "difficulty": 12.76,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Inferno Galore",
-        "difficulty": 11.0,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Intricate Precision",
-        "difficulty": 10.0,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Lucas Penteado",
-        "difficulty": 12.55,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Pulsating Ambition",
-        "difficulty": 11.65,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Reddish Monolith",
-        "difficulty": 8.0,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Ruthless Royal Architecture",
-        "difficulty": 11.3,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Sleek Keels",
-        "difficulty": 10.5,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of The Roof\\u0027s Pique",
-        "difficulty": 12.45,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Two To One",
-        "difficulty": 8.8,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Underlying Grief",
-        "difficulty": 9.5,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Unsettling Heights",
-        "difficulty": 8.4,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Vacant Hindrances",
-        "difficulty": 11.98,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower",
-        "name": "Tower of Yonder Wisterias",
-        "difficulty": 9.05,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_1",
-        "type": "Tower Rush",
-        "name": "True Scope 1 Tower Rush",
-        "difficulty": 14.05,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Sadistically Terrifying Overachieving Neglectful Enragement Facility",
-        "difficulty": 11.55,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower Rush",
-        "name": "Scope 2 Tower Rush",
-        "difficulty": 12.4,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Agonizing Demise",
-        "difficulty": 10.3,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Blueish Monolith",
-        "difficulty": 9.3,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Difficulty Breezing",
-        "difficulty": 8.05,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Futile Perusal",
-        "difficulty": 12.35,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Gelidity",
-        "difficulty": 11.2,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Increasing Intensity",
-        "difficulty": 8.65,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Lavish Thrones",
-        "difficulty": 10.55,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Leap Impairment",
-        "difficulty": 9.1,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Lunar Expansion",
-        "difficulty": 10.05,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Minimal Obstacles",
-        "difficulty": 8.45,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Necrotic Incantation",
-        "difficulty": 11.5,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Paradise",
-        "difficulty": 13.2,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Shattered Resolve",
-        "difficulty": 9.9,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of The Curve\\u0027s Desire",
-        "difficulty": 12.75,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of The Homefinder",
-        "difficulty": 12.0,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Two Sided Misery",
-        "difficulty": 10.4,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Uttermost Antagonism",
-        "difficulty": 9.5,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower",
-        "name": "Tower of Vague Luminescence",
-        "difficulty": 14.8,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_2",
-        "type": "Mini Tower",
-        "name": "Treacherous Extremist Ascension Neat",
-        "difficulty": 11.15,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_2",
-        "type": "Tower Rush",
-        "name": "True Scope 2 Tower Rush",
-        "difficulty": 14.9,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_3",
-        "type": "Mini Tower",
-        "name": "Not Even In Ruins",
-        "difficulty": 9.5,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower Rush",
-        "name": "Scope 3 Tower Rush",
-        "difficulty": 12.7,
-        "is_canon": false
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Abysmal Wrath",
-        "difficulty": 9.15,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Baleful Impedes",
-        "difficulty": 9.1,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Diabolical Stratagem",
-        "difficulty": 14.35,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Hellish Rouge",
-        "difficulty": 8.2,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Insensible Distress",
-        "difficulty": 10.3,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Jabberwock Jagger",
-        "difficulty": 12.05,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Jocundigluey",
-        "difficulty": 11.55,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Mauve Attestations",
-        "difficulty": 10.85,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Panelling Barricades",
-        "difficulty": 9.85,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Raspy Cascades",
-        "difficulty": 9.7,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Sudden Death",
-        "difficulty": 13.15,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of THE FOREBODING WALL",
-        "difficulty": 9.9,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Thin Mints",
-        "difficulty": 11.6,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Thje Wall",
-        "difficulty": 12.25,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Unorthodoxy",
-        "difficulty": 11.4,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower",
-        "name": "Tower of Wayward Venture",
-        "difficulty": 10.9,
-        "is_canon": true
-    },
-    {
-        "area": "Scope_3",
-        "type": "Tower Rush",
-        "name": "True Scope 3 Tower Rush",
-        "difficulty": 14.55,
-        "is_canon": false
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Citadel",
-        "name": "Citadel of Void",
-        "difficulty": 14.95,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower Rush",
-        "name": "Citadel of Void Tower Rush",
-        "difficulty": 15.25,
-        "is_canon": false
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Citadel",
-        "name": "Citadel of Wicked Boogers",
-        "difficulty": 14.4,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower Rush",
-        "name": "Nil Zone Tower Rush",
-        "difficulty": 14.85,
-        "is_canon": false
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower",
-        "name": "Popsicle Tower",
-        "difficulty": 14.0,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Great Citadel",
-        "name": "The Great Centurial",
-        "difficulty": 14.99,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower",
-        "name": "Tower of Existential Crisis",
-        "difficulty": 14.7,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower",
-        "name": "Tower of Spiraling Fates",
-        "difficulty": 14.0,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower",
-        "name": "Tower of The Drive Towards Human Limits",
-        "difficulty": 14.2,
-        "is_canon": true
-    },
-    {
-        "area": "The_Nil_Zone",
-        "type": "Tower Rush",
-        "name": "True Nil Zone Tower Rush",
-        "difficulty": 15.05,
-        "is_canon": false
+{
+    "Lush_Colosseum": {
+        "Certainly A Tower": {
+            "aj": 2686276173512806,
+            "area": "Lush_Colosseum",
+            "badge": 3289928422515180,
+            "difficulty": 10.6,
+            "isCanon": false,
+            "length": 0,
+            "name": "Certainly A Tower",
+            "type": "Mini Tower",
+            "world": 1
+        },
+        "Citadel of Descent Into Exile": {
+            "aj": 2284745248912886,
+            "area": "Lush_Colosseum",
+            "badge": 2618310821471712,
+            "difficulty": 11.85,
+            "isCanon": true,
+            "length": 20,
+            "name": "Citadel of Descent Into Exile",
+            "type": "Citadel",
+            "world": 1
+        },
+        "Citadel of The Final Destination": {
+            "aj": 521929632688591,
+            "area": "Lush_Colosseum",
+            "badge": 1027369579496114,
+            "difficulty": 13.05,
+            "isCanon": true,
+            "length": 90,
+            "name": "Citadel of The Final Destination",
+            "type": "Citadel",
+            "world": 1
+        },
+        "Lush Colosseum Tower Rush": {
+            "aj": 3862542403307488,
+            "area": "Lush_Colosseum",
+            "badge": 3989716256930579,
+            "difficulty": 12.75,
+            "isCanon": false,
+            "length": 90,
+            "name": "Lush Colosseum Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Tower of Against All Odds": {
+            "aj": 799307220759617,
+            "area": "Lush_Colosseum",
+            "badge": 2069021611959413,
+            "difficulty": 10.4,
+            "isCanon": true,
+            "length": 60,
+            "name": "Tower of Against All Odds",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Cascading Uncertainty": {
+            "aj": 4107258892982562,
+            "area": "Lush_Colosseum",
+            "badge": 2297188660656166,
+            "difficulty": 9.55,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Cascading Uncertainty",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Devilish Judgements": {
+            "aj": 1582175735913068,
+            "area": "Lush_Colosseum",
+            "badge": 3443057797257650,
+            "difficulty": 11.1,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Devilish Judgements",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Elegant Purism": {
+            "aj": 20903790449238,
+            "area": "Lush_Colosseum",
+            "badge": 4401540448380238,
+            "difficulty": 8.95,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Elegant Purism",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Endless Spreading Bane": {
+            "aj": 3464567798704235,
+            "area": "Lush_Colosseum",
+            "badge": 2584640478059517,
+            "difficulty": 11.55,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Endless Spreading Bane",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Every End": {
+            "aj": 3623423146500345,
+            "area": "Lush_Colosseum",
+            "badge": 2414958903311318,
+            "difficulty": 13.3,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Every End",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Flattened Uprising": {
+            "area": "Lush_Colosseum",
+            "badge": 2879157447302734,
+            "difficulty": 8.15,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Flattened Uprising",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Fragile Salvation": {
+            "aj": 4011855822975280,
+            "area": "Lush_Colosseum",
+            "badge": 2908070736263661,
+            "difficulty": 10.25,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Fragile Salvation",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Holding Back Tears": {
+            "aj": 2236135730537784,
+            "area": "Lush_Colosseum",
+            "badge": 3365941991563251,
+            "difficulty": 12.65,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Holding Back Tears",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lethal Blunders": {
+            "aj": 719471135983755,
+            "area": "Lush_Colosseum",
+            "badge": 96888260014266,
+            "difficulty": 12.85,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Lethal Blunders",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lethal Countdown": {
+            "aj": 2219915911990690,
+            "area": "Lush_Colosseum",
+            "badge": 2363348322015769,
+            "difficulty": 11.7,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Lethal Countdown",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lethal Weapon": {
+            "aj": 2003240329995247,
+            "area": "Lush_Colosseum",
+            "badge": 1242966725915641,
+            "difficulty": 13.2,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Lethal Weapon",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Luminous Reflections": {
+            "aj": 3562264632057955,
+            "area": "Lush_Colosseum",
+            "badge": 3478253695667904,
+            "difficulty": 12.45,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Luminous Reflections",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Malevolent Maelstrom": {
+            "aj": 451184221634103,
+            "area": "Lush_Colosseum",
+            "badge": 1984623497353730,
+            "difficulty": 12.7,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Malevolent Maelstrom",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of No More Teleporters": {
+            "aj": 2822516976336228,
+            "area": "Lush_Colosseum",
+            "badge": 3207551386964777,
+            "difficulty": 9.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of No More Teleporters",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Prolific Gardens": {
+            "aj": 4489183300388811,
+            "area": "Lush_Colosseum",
+            "badge": 2636377737248933,
+            "difficulty": 10.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Prolific Gardens",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Qwerty Uiop": {
+            "aj": 2836520639026242,
+            "area": "Lush_Colosseum",
+            "badge": 1270043885446020,
+            "difficulty": 13.1,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Qwerty Uiop",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Thinning Vengeance": {
+            "aj": 64310269886624,
+            "area": "Lush_Colosseum",
+            "badge": 3856577346024307,
+            "difficulty": 8.45,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Thinning Vengeance",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Thje Corner": {
+            "aj": 153941176005247,
+            "area": "Lush_Colosseum",
+            "badge": 1382910652521002,
+            "difficulty": 10.55,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Thje Corner",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Under The Limit": {
+            "aj": 3822944564914842,
+            "area": "Lush_Colosseum",
+            "badge": 1738865740926729,
+            "difficulty": 9.2,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Under The Limit",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Unfair Punishment": {
+            "aj": 3339887031299449,
+            "area": "Lush_Colosseum",
+            "badge": 722964256781924,
+            "difficulty": 9.45,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Unfair Punishment",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Vermillion Convolution": {
+            "aj": 3333557236770585,
+            "area": "Lush_Colosseum",
+            "badge": 3934728446918857,
+            "difficulty": 9.75,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Vermillion Convolution",
+            "type": "Tower",
+            "world": 1
+        },
+        "True Lush Colosseum Tower Rush": {
+            "aj": 3701104892647394,
+            "area": "Lush_Colosseum",
+            "difficulty": 13.65,
+            "isCanon": false,
+            "length": 90,
+            "name": "True Lush Colosseum Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "is_subrealm": true
+    },
+    "Scope_1": {
+        "Citadel of The Eternal Calamity": {
+            "aj": 2434113593463414,
+            "area": "Scope_1",
+            "badge": 3864557467287625,
+            "difficulty": 13.1,
+            "isCanon": true,
+            "length": 90,
+            "name": "Citadel of The Eternal Calamity",
+            "type": "Citadel",
+            "world": 1
+        },
+        "Nokia Tower": {
+            "aj": 4039635714060011,
+            "area": "Scope_1",
+            "badge": 2323452170496743,
+            "difficulty": 13.75,
+            "isCanon": true,
+            "length": 20,
+            "name": "Nokia Tower",
+            "type": "Tower",
+            "world": 1
+        },
+        "Not Even Fun": {
+            "aj": 1916281710052285,
+            "area": "Scope_1",
+            "badge": 2128797637,
+            "difficulty": 8.85,
+            "isCanon": false,
+            "length": 0,
+            "name": "Not Even Fun",
+            "type": "Mini Tower",
+            "world": 1
+        },
+        "Scope 1 Tower Rush": {
+            "aj": 4233238176476297,
+            "area": "Scope_1",
+            "badge": 3793267460855186,
+            "difficulty": 12.55,
+            "isCanon": false,
+            "length": 90,
+            "name": "Scope 1 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Swedish Meatballs Tower": {
+            "aj": 2127594632,
+            "area": "Scope_1",
+            "badge": 3460734415331269,
+            "difficulty": 12.99,
+            "isCanon": true,
+            "length": 0,
+            "name": "Swedish Meatballs Tower",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Circuits and Lasers": {
+            "aj": 2127861401,
+            "area": "Scope_1",
+            "badge": 2127568717,
+            "difficulty": 9.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Circuits and Lasers",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Clean Glass": {
+            "aj": 2127861380,
+            "area": "Scope_1",
+            "badge": 2127568737,
+            "difficulty": 9.2,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Clean Glass",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Cliffside Madness": {
+            "aj": 2127867799,
+            "area": "Scope_1",
+            "badge": 2127568758,
+            "difficulty": 10.75,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Cliffside Madness",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Colossal Crossroad Climbing": {
+            "aj": 115110864950740,
+            "area": "Scope_1",
+            "badge": 2778602718331812,
+            "difficulty": 10.6,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Colossal Crossroad Climbing",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Head Quarters": {
+            "aj": 1446229935190040,
+            "area": "Scope_1",
+            "badge": 3784373185773109,
+            "difficulty": 12.76,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Head Quarters",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Inferno Galore": {
+            "aj": 60738816289419,
+            "area": "Scope_1",
+            "badge": 1832678071278480,
+            "difficulty": 11.0,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Inferno Galore",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Intricate Precision": {
+            "aj": 2127867813,
+            "area": "Scope_1",
+            "badge": 2127568786,
+            "difficulty": 10.0,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Intricate Precision",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lucas Penteado": {
+            "aj": 2127893620,
+            "area": "Scope_1",
+            "badge": 2127568838,
+            "difficulty": 12.55,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Lucas Penteado",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Pulsating Ambition": {
+            "aj": 2127867839,
+            "area": "Scope_1",
+            "badge": 2127568875,
+            "difficulty": 11.65,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Pulsating Ambition",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Reddish Monolith": {
+            "aj": 2127861337,
+            "area": "Scope_1",
+            "badge": 2127568700,
+            "difficulty": 8.0,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Reddish Monolith",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Ruthless Royal Architecture": {
+            "aj": 2127867827,
+            "area": "Scope_1",
+            "badge": 2127568688,
+            "difficulty": 11.3,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Ruthless Royal Architecture",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Sleek Keels": {
+            "aj": 3056096700710698,
+            "area": "Scope_1",
+            "badge": 4405143501312570,
+            "difficulty": 10.5,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Sleek Keels",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of The Roof's Pique": {
+            "aj": 2127893612,
+            "area": "Scope_1",
+            "badge": 2127568910,
+            "difficulty": 12.45,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of The Roof's Pique",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Two To One": {
+            "aj": 2127861374,
+            "area": "Scope_1",
+            "badge": 2127568994,
+            "difficulty": 8.8,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Two To One",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Underlying Grief": {
+            "aj": 2127867804,
+            "area": "Scope_1",
+            "badge": 2127569136,
+            "difficulty": 9.5,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Underlying Grief",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Unsettling Heights": {
+            "aj": 2127861370,
+            "area": "Scope_1",
+            "badge": 2127569209,
+            "difficulty": 8.4,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Unsettling Heights",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Vacant Hindrances": {
+            "aj": 2127893609,
+            "area": "Scope_1",
+            "badge": 2127569225,
+            "difficulty": 11.98,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Vacant Hindrances",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Yonder Wisterias": {
+            "aj": 2597454813789139,
+            "area": "Scope_1",
+            "badge": 3269054723419874,
+            "difficulty": 9.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Yonder Wisterias",
+            "type": "Tower",
+            "world": 1
+        },
+        "True Scope 1 Tower Rush": {
+            "aj": 2925585058424624,
+            "area": "Scope_1",
+            "difficulty": 14.05,
+            "isCanon": false,
+            "length": 90,
+            "name": "True Scope 1 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "is_subrealm": false
+    },
+    "Scope_2": {
+        "Sadistically Terrifying Overachieving Neglectful Enragement Facility": {
+            "aj": 2128763131,
+            "area": "Scope_2",
+            "badge": 2128669722,
+            "difficulty": 11.55,
+            "isCanon": true,
+            "length": 20,
+            "name": "Sadistically Terrifying Overachieving Neglectful Enragement Facility",
+            "type": "Tower",
+            "world": 1
+        },
+        "Scope 2 Tower Rush": {
+            "aj": 3925101787760704,
+            "area": "Scope_2",
+            "badge": 2314197376972551,
+            "difficulty": 12.4,
+            "isCanon": false,
+            "length": 90,
+            "name": "Scope 2 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Tower of Agonizing Demise": {
+            "aj": 2128762857,
+            "area": "Scope_2",
+            "badge": 2128661524,
+            "difficulty": 10.3,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Agonizing Demise",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Blueish Monolith": {
+            "aj": 200674015580768,
+            "area": "Scope_2",
+            "badge": 1193842730772445,
+            "difficulty": 9.3,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Blueish Monolith",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Difficulty Breezing": {
+            "aj": 2128701406,
+            "area": "Scope_2",
+            "badge": 2128572228,
+            "difficulty": 8.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Difficulty Breezing",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Futile Perusal": {
+            "aj": 2128787233,
+            "area": "Scope_2",
+            "badge": 2128700457,
+            "difficulty": 12.35,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Futile Perusal",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Gelidity": {
+            "aj": 2128762954,
+            "area": "Scope_2",
+            "badge": 2128669714,
+            "difficulty": 11.2,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Gelidity",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Increasing Intensity": {
+            "aj": 2128701427,
+            "area": "Scope_2",
+            "badge": 2128572232,
+            "difficulty": 8.65,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Increasing Intensity",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lavish Thrones": {
+            "aj": 2128763068,
+            "area": "Scope_2",
+            "badge": 2128669717,
+            "difficulty": 10.55,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of Lavish Thrones",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Leap Impairment": {
+            "aj": 2454959324272999,
+            "area": "Scope_2",
+            "badge": 1120445112132017,
+            "difficulty": 9.1,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Leap Impairment",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Lunar Expansion": {
+            "aj": 2128741492,
+            "area": "Scope_2",
+            "badge": 2128654696,
+            "difficulty": 10.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Lunar Expansion",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Minimal Obstacles": {
+            "aj": 2128741477,
+            "area": "Scope_2",
+            "badge": 2128572242,
+            "difficulty": 8.45,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Minimal Obstacles",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Necrotic Incantation": {
+            "aj": 2128763139,
+            "area": "Scope_2",
+            "badge": 2128669732,
+            "difficulty": 11.5,
+            "isCanon": true,
+            "length": 30,
+            "name": "Tower of Necrotic Incantation",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Paradise": {
+            "aj": 2128787235,
+            "area": "Scope_2",
+            "badge": 2128700496,
+            "difficulty": 13.2,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Paradise",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Shattered Resolve": {
+            "aj": 2128741489,
+            "area": "Scope_2",
+            "badge": 2128572259,
+            "difficulty": 9.9,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Shattered Resolve",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of The Curve's Desire": {
+            "aj": 3447825544973998,
+            "area": "Scope_2",
+            "badge": 2560993180422152,
+            "difficulty": 12.75,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of The Curve's Desire",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of The Homefinder": {
+            "area": "Scope_2",
+            "badge": 1002460966341672,
+            "difficulty": 12.0,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of The Homefinder",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Two Sided Misery": {
+            "aj": 2128741494,
+            "area": "Scope_2",
+            "badge": 2128654698,
+            "difficulty": 10.4,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Two Sided Misery",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Uttermost Antagonism": {
+            "aj": 2128741487,
+            "area": "Scope_2",
+            "badge": 2128572258,
+            "difficulty": 9.5,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Uttermost Antagonism",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Vague Luminescence": {
+            "aj": 4232665843560118,
+            "area": "Scope_2",
+            "difficulty": 14.8,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Vague Luminescence",
+            "type": "Tower",
+            "world": 1
+        },
+        "Treacherous Extremist Ascension Neat": {
+            "aj": 3812609734728262,
+            "area": "Scope_2",
+            "badge": 2128797633,
+            "difficulty": 11.15,
+            "isCanon": false,
+            "length": 0,
+            "name": "Treacherous Extremist Ascension Neat",
+            "type": "Mini Tower",
+            "world": 1
+        },
+        "True Scope 2 Tower Rush": {
+            "aj": 3111477293207149,
+            "area": "Scope_2",
+            "difficulty": 14.9,
+            "isCanon": false,
+            "length": 90,
+            "name": "True Scope 2 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "is_subrealm": false
+    },
+    "Scope_3": {
+        "Not Even In Ruins": {
+            "aj": 2663956361015140,
+            "area": "Scope_3",
+            "badge": 2340264067083741,
+            "difficulty": 9.5,
+            "isCanon": false,
+            "length": 0,
+            "name": "Not Even In Ruins",
+            "type": "Mini Tower",
+            "world": 1
+        },
+        "Scope 3 Tower Rush": {
+            "aj": 2733843042059144,
+            "area": "Scope_3",
+            "badge": 383485879149557,
+            "difficulty": 12.7,
+            "isCanon": false,
+            "length": 90,
+            "name": "Scope 3 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Tower of Abysmal Wrath": {
+            "aj": 332080226589976,
+            "area": "Scope_3",
+            "badge": 3603973457651317,
+            "difficulty": 9.15,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Abysmal Wrath",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Baleful Impedes": {
+            "aj": 1191854163968200,
+            "area": "Scope_3",
+            "badge": 2924295602180080,
+            "difficulty": 9.1,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Baleful Impedes",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Diabolical Stratagem": {
+            "aj": 2707002154329175,
+            "area": "Scope_3",
+            "difficulty": 14.35,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Diabolical Stratagem",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Hellish Rouge": {
+            "aj": 4315495154819918,
+            "area": "Scope_3",
+            "badge": 1877218905548021,
+            "difficulty": 8.2,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Hellish Rouge",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Insensible Distress": {
+            "aj": 1819267689089177,
+            "area": "Scope_3",
+            "badge": 4038332393541399,
+            "difficulty": 10.3,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Insensible Distress",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Jabberwock Jagger": {
+            "aj": 3056648445406434,
+            "area": "Scope_3",
+            "badge": 3344560568769543,
+            "difficulty": 12.05,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Jabberwock Jagger",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Jocundigluey": {
+            "aj": 4371776419894163,
+            "area": "Scope_3",
+            "badge": 537040337691797,
+            "difficulty": 11.55,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Jocundigluey",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Mauve Attestations": {
+            "aj": 60496899255310,
+            "area": "Scope_3",
+            "badge": 656926553889731,
+            "difficulty": 10.85,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Mauve Attestations",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Panelling Barricades": {
+            "aj": 1015250793123061,
+            "area": "Scope_3",
+            "badge": 1711399116035951,
+            "difficulty": 9.85,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Panelling Barricades",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Raspy Cascades": {
+            "aj": 1682186556417656,
+            "area": "Scope_3",
+            "badge": 2387401143030353,
+            "difficulty": 9.7,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Raspy Cascades",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Sudden Death": {
+            "aj": 1577858010904272,
+            "area": "Scope_3",
+            "badge": 3124456789152859,
+            "difficulty": 13.15,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Sudden Death",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of THE FOREBODING WALL": {
+            "aj": 3159370129146866,
+            "area": "Scope_3",
+            "badge": 397348731669465,
+            "difficulty": 9.9,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of THE FOREBODING WALL",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Thin Mints": {
+            "aj": 1771037360700355,
+            "area": "Scope_3",
+            "badge": 4094181494057517,
+            "difficulty": 11.6,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Thin Mints",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Thje Wall": {
+            "aj": 1313247666011031,
+            "area": "Scope_3",
+            "badge": 3987978410190376,
+            "difficulty": 12.25,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Thje Wall",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Unorthodoxy": {
+            "aj": 2956629804317792,
+            "area": "Scope_3",
+            "badge": 3259454251106143,
+            "difficulty": 11.4,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Unorthodoxy",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Wayward Venture": {
+            "aj": 2911538118431751,
+            "area": "Scope_3",
+            "badge": 825652691531497,
+            "difficulty": 10.9,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Wayward Venture",
+            "type": "Tower",
+            "world": 1
+        },
+        "True Scope 3 Tower Rush": {
+            "aj": 3665000915397170,
+            "area": "Scope_3",
+            "difficulty": 14.55,
+            "isCanon": false,
+            "length": 90,
+            "name": "True Scope 3 Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "is_subrealm": false
+    },
+    "The_Nil_Zone": {
+        "Citadel of Void": {
+            "aj": 2147858699,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.95,
+            "isCanon": true,
+            "length": 90,
+            "name": "Citadel of Void",
+            "type": "Citadel",
+            "world": 1
+        },
+        "Citadel of Void Tower Rush": {
+            "aj": 2659929495815241,
+            "area": "The_Nil_Zone",
+            "difficulty": 15.25,
+            "isCanon": false,
+            "length": 90,
+            "name": "Citadel of Void Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Citadel of Wicked Boogers": {
+            "aj": 1261720641867715,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.4,
+            "isCanon": true,
+            "length": 120,
+            "name": "Citadel of Wicked Boogers",
+            "type": "Citadel",
+            "world": 1
+        },
+        "Nil Zone Tower Rush": {
+            "aj": 3810257093855616,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.85,
+            "isCanon": false,
+            "length": 90,
+            "name": "Nil Zone Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        },
+        "Popsicle Tower": {
+            "aj": 3122060007771106,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.0,
+            "isCanon": true,
+            "length": 0,
+            "name": "Popsicle Tower",
+            "type": "Tower",
+            "world": 1
+        },
+        "The Great Centurial": {
+            "aj": 3953077684910206,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.99,
+            "isCanon": true,
+            "length": 90,
+            "name": "The Great Centurial",
+            "type": "Great Citadel",
+            "world": 1
+        },
+        "Tower of Existential Crisis": {
+            "aj": 2147858850,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.7,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Existential Crisis",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of Spiraling Fates": {
+            "aj": 2147858840,
+            "area": "The_Nil_Zone",
+            "difficulty": 14.0,
+            "isCanon": true,
+            "length": 0,
+            "name": "Tower of Spiraling Fates",
+            "type": "Tower",
+            "world": 1
+        },
+        "Tower of The Drive Towards Human Limits": {
+            "aj": 2147858830,
+            "area": "The_Nil_Zone",
+            "badge": 1116384571907471,
+            "difficulty": 14.2,
+            "isCanon": true,
+            "length": 20,
+            "name": "Tower of The Drive Towards Human Limits",
+            "type": "Tower",
+            "world": 1
+        },
+        "True Nil Zone Tower Rush": {
+            "aj": 2147858871,
+            "area": "The_Nil_Zone",
+            "difficulty": 15.05,
+            "isCanon": false,
+            "length": 90,
+            "name": "True Nil Zone Tower Rush",
+            "type": "Tower Rush",
+            "world": 1
+        }
     }
-]
+}
