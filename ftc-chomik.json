@@ -1,0 +1,3921 @@
+{
+    "tower_info": {
+        "Main_Realm_(Apartment)": {
+            "Angelik": {
+                "abbreviation": "Angelik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869704,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Angelik",
+                "type": "Puzzle"
+            },
+            "Apartmik": {
+                "abbreviation": "Apartmik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124903441,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Apartmik",
+                "type": "Puzzle"
+            },
+            "Banned Chomik": {
+                "abbreviation": "Banned",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124791196,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Banned Chomik",
+                "type": "Puzzle"
+            },
+            "Beach Chomik": {
+                "abbreviation": "Beach",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124882062,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Beach Chomik",
+                "type": "Puzzle"
+            },
+            "Broken Signal Chomik": {
+                "abbreviation": "Broken Signal",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2152748732,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Broken Signal Chomik",
+                "type": "Puzzle"
+            },
+            "Camo Chomik": {
+                "abbreviation": "Camo",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124791093,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Camo Chomik",
+                "type": "Puzzle"
+            },
+            "Candy Chomik": {
+                "abbreviation": "Candy",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124805213,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Candy Chomik",
+                "type": "Puzzle"
+            },
+            "Chock-a-Doodle Doo": {
+                "abbreviation": "Chock-a-Doodle Doo",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124882066,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chock-a-Doodle Doo",
+                "type": "Puzzle"
+            },
+            "Chocolate Wrapped Chomik": {
+                "abbreviation": "Chocolate Wrapped",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869729,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chocolate Wrapped Chomik",
+                "type": "Puzzle"
+            },
+            "Chom on the Cob": {
+                "abbreviation": "Chom on the Cob",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124804531,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chom on the Cob",
+                "type": "Puzzle"
+            },
+            "Chomcoin Investor": {
+                "abbreviation": "Chomcoin Investor",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124991557,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomcoin Investor",
+                "type": "Puzzle"
+            },
+            "Chomik at 3 AM": {
+                "abbreviation": "Chomik at 3 AM",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124791316,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomik at 3 AM",
+                "type": "Puzzle"
+            },
+            "Choompa Loompa": {
+                "abbreviation": "Choompa Loompa",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124882063,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Choompa Loompa",
+                "type": "Puzzle"
+            },
+            "Cowik": {
+                "abbreviation": "Cowik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124859123,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Cowik",
+                "type": "Puzzle"
+            },
+            "DIY Chomik": {
+                "abbreviation": "DIY",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124810363,
+                "difficulty": 2,
+                "length": "0",
+                "name": "DIY Chomik",
+                "type": "Puzzle"
+            },
+            "Demonik": {
+                "abbreviation": "Demonik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869701,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Demonik",
+                "type": "Puzzle"
+            },
+            "Flowerpot Chomik": {
+                "abbreviation": "Flowerpot",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124803833,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Flowerpot Chomik",
+                "type": "Puzzle"
+            },
+            "Funky Chomik": {
+                "abbreviation": "Funky",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124791995,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Funky Chomik",
+                "type": "Puzzle"
+            },
+            "Golfing Chomik": {
+                "abbreviation": "Golfing",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2125819559,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Golfing Chomik",
+                "type": "Puzzle"
+            },
+            "Goobmik": {
+                "abbreviation": "Goobmik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2126248191,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Goobmik",
+                "type": "Puzzle"
+            },
+            "Graffitik": {
+                "abbreviation": "Graffitik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124803838,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Graffitik",
+                "type": "Puzzle"
+            },
+            "Grandma Chomik": {
+                "abbreviation": "Grandma",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124858269,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Grandma Chomik",
+                "type": "Puzzle"
+            },
+            "Happy Homik": {
+                "abbreviation": "Happy",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124826915,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Happy Homik",
+                "type": "Puzzle"
+            },
+            "Ill Chomik": {
+                "abbreviation": "Ill",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869751,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Ill Chomik",
+                "type": "Puzzle"
+            },
+            "Impik": {
+                "abbreviation": "Impik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124805210,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Impik",
+                "type": "Puzzle"
+            },
+            "Island Chomik": {
+                "abbreviation": "Island",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124798309,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Island Chomik",
+                "type": "Puzzle"
+            },
+            "Lil Baby Chomik": {
+                "abbreviation": "Lil Baby",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124858257,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Lil Baby Chomik",
+                "type": "Puzzle"
+            },
+            "Lovely Chomik": {
+                "abbreviation": "Lovely",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2126253784,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Lovely Chomik",
+                "type": "Puzzle"
+            },
+            "Mama Chomik": {
+                "abbreviation": "Mama",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2125726869,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Mama Chomik",
+                "type": "Puzzle"
+            },
+            "Perfumik": {
+                "abbreviation": "Perfumik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124826908,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Perfumik",
+                "type": "Puzzle"
+            },
+            "Plummeting Chomik": {
+                "abbreviation": "Plummeting",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124858255,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Plummeting Chomik",
+                "type": "Puzzle"
+            },
+            "Pumpkin Jackmik": {
+                "abbreviation": "Pumpkin Jackmik",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124851218,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Pumpkin Jackmik",
+                "type": "Puzzle"
+            },
+            "Sad Chombob": {
+                "abbreviation": "Sad Chombob",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124816935,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Sad Chombob",
+                "type": "Puzzle"
+            },
+            "Shark Chomik": {
+                "abbreviation": "Shark",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124857162,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Shark Chomik",
+                "type": "Puzzle"
+            },
+            "Shattered Chomik": {
+                "abbreviation": "Shattered",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124858216,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Shattered Chomik",
+                "type": "Puzzle"
+            },
+            "Skybox Chomik": {
+                "abbreviation": "Skybox",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2126090138,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Skybox Chomik",
+                "type": "Puzzle"
+            },
+            "Sleep Paralysis Demon Chomik": {
+                "abbreviation": "Sleep Paralysis Demon",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869816,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Sleep Paralysis Demon Chomik",
+                "type": "Puzzle"
+            },
+            "Spray Painter Chomik": {
+                "abbreviation": "Spray Painter",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124803961,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Spray Painter Chomik",
+                "type": "Puzzle"
+            },
+            "Stop Sign Chomik": {
+                "abbreviation": "Stop Sign",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124813589,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Stop Sign Chomik",
+                "type": "Puzzle"
+            },
+            "Tangled Chomik": {
+                "abbreviation": "Tangled",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2125791743,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Tangled Chomik",
+                "type": "Puzzle"
+            },
+            "Tide Chomik": {
+                "abbreviation": "Tide",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124869683,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Tide Chomik",
+                "type": "Puzzle"
+            },
+            "Traffic Cone Chomik": {
+                "abbreviation": "Traffic Cone",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124812609,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Traffic Cone Chomik",
+                "type": "Puzzle"
+            },
+            "Waffle Chomik": {
+                "abbreviation": "Waffle",
+                "area": "Main_Realm_(Apartment)",
+                "badge": 2124805212,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Waffle Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Blocky)": {
+            "32-Bit Chomik": {
+                "abbreviation": "32-Bit",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2126253447,
+                "difficulty": 3,
+                "length": "0",
+                "name": "32-Bit Chomik",
+                "type": "Puzzle"
+            },
+            "Angry Chomik": {
+                "abbreviation": "Angry",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124778991,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Angry Chomik",
+                "type": "Puzzle"
+            },
+            "Baseplate Chomik": {
+                "abbreviation": "Baseplate",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124777833,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Baseplate Chomik",
+                "type": "Puzzle"
+            },
+            "Chononymous": {
+                "abbreviation": "Chononymous",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124857866,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chononymous",
+                "type": "Puzzle"
+            },
+            "Chummy Bears": {
+                "abbreviation": "Chummy Bears",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124859578,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chummy Bears",
+                "type": "Puzzle"
+            },
+            "Cookiezik": {
+                "abbreviation": "Cookiezik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124785140,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Cookiezik",
+                "type": "Puzzle"
+            },
+            "Dark Matter Chomik": {
+                "abbreviation": "Dark Matter",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124775019,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Dark Matter Chomik",
+                "type": "Puzzle"
+            },
+            "Groovik": {
+                "abbreviation": "Groovik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124775003,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Groovik",
+                "type": "Puzzle"
+            },
+            "Legomik": {
+                "abbreviation": "Legomik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124810951,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Legomik",
+                "type": "Puzzle"
+            },
+            "Musical Chomik": {
+                "abbreviation": "Musical",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124811021,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Musical Chomik",
+                "type": "Puzzle"
+            },
+            "Noclik": {
+                "abbreviation": "Noclik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124880265,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Noclik",
+                "type": "Puzzle"
+            },
+            "Nyan Chomik": {
+                "abbreviation": "Nyan",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124798308,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Nyan Chomik",
+                "type": "Puzzle"
+            },
+            "Party Chomik": {
+                "abbreviation": "Party",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124811038,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Party Chomik",
+                "type": "Puzzle"
+            },
+            "Pro Chomik": {
+                "abbreviation": "Pro",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124875989,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Pro Chomik",
+                "type": "Puzzle"
+            },
+            "Rainbow Chomik": {
+                "abbreviation": "Rainbow",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124775878,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Rainbow Chomik",
+                "type": "Puzzle"
+            },
+            "Swinging Chomik": {
+                "abbreviation": "Swinging",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124776981,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Swinging Chomik",
+                "type": "Puzzle"
+            },
+            "Trollmik": {
+                "abbreviation": "Trollmik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124791317,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Trollmik",
+                "type": "Puzzle"
+            },
+            "Water Chomik": {
+                "abbreviation": "Water",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124775023,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Water Chomik",
+                "type": "Puzzle"
+            },
+            "Watermelonik": {
+                "abbreviation": "Watermelonik",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2124798690,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Watermelonik",
+                "type": "Puzzle"
+            },
+            "Whirlpool Chomik": {
+                "abbreviation": "Whirlpool",
+                "area": "Main_Realm_(Blocky)",
+                "badge": 2125819678,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Whirlpool Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Blue_Cobblestone)": {
+            "Aliased Chomik": {
+                "abbreviation": "Aliased",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2125726636,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Aliased Chomik",
+                "type": "Puzzle"
+            },
+            "Balloonik": {
+                "abbreviation": "Balloonik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124796623,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Balloonik",
+                "type": "Puzzle"
+            },
+            "Chomik on the Floor": {
+                "abbreviation": "Chomik on the Floor",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2125723238,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomik on the Floor",
+                "type": "Puzzle"
+            },
+            "Cubik": {
+                "abbreviation": "Cubik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124859096,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Cubik",
+                "type": "Puzzle"
+            },
+            "Invisible Chomik": {
+                "abbreviation": "Invisible",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2125723428,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Invisible Chomik",
+                "type": "Puzzle"
+            },
+            "Jomik": {
+                "abbreviation": "Jomik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124784461,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Jomik",
+                "type": "Puzzle"
+            },
+            "Pink Soul Chomik": {
+                "abbreviation": "Pink Soul",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2126177753,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Pink Soul Chomik",
+                "type": "Puzzle"
+            },
+            "Portal Chomik": {
+                "abbreviation": "Portal",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124778987,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Portal Chomik",
+                "type": "Puzzle"
+            },
+            "Portal Room Chomik": {
+                "abbreviation": "Portal Room",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2126177674,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Portal Room Chomik",
+                "type": "Puzzle"
+            },
+            "Textik": {
+                "abbreviation": "Textik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124798411,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Textik",
+                "type": "Puzzle"
+            },
+            "Troll Secret Chomik": {
+                "abbreviation": "Troll Secret",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124896723,
+                "difficulty": 10,
+                "length": "0",
+                "name": "Troll Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Turrik": {
+                "abbreviation": "Turrik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124824054,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Turrik",
+                "type": "Puzzle"
+            },
+            "Vampirik": {
+                "abbreviation": "Vampirik",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124851232,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Vampirik",
+                "type": "Puzzle"
+            },
+            "Witch Chomik": {
+                "abbreviation": "Witch",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124872510,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Witch Chomik",
+                "type": "Puzzle"
+            },
+            "Wizard Chomik": {
+                "abbreviation": "Wizard",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124778443,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Wizard Chomik",
+                "type": "Puzzle"
+            },
+            "Wumpus Chomik": {
+                "abbreviation": "Wumpus",
+                "area": "Main_Realm_(Blue_Cobblestone)",
+                "badge": 2124843723,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Wumpus Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Classic_Roblox)": {
+            "16-Bit Chomik": {
+                "abbreviation": "16-Bit",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125726562,
+                "difficulty": 2,
+                "length": "0",
+                "name": "16-Bit Chomik",
+                "type": "Puzzle"
+            },
+            "8-Bit Chomik": {
+                "abbreviation": "8-Bit",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125726560,
+                "difficulty": 1,
+                "length": "0",
+                "name": "8-Bit Chomik",
+                "type": "Puzzle"
+            },
+            "Badge Giver Chomik": {
+                "abbreviation": "Badge Giver",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124813455,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Badge Giver Chomik",
+                "type": "Puzzle"
+            },
+            "Blue Chomik": {
+                "abbreviation": "Blue",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124800479,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Blue Chomik",
+                "type": "Puzzle"
+            },
+            "Bluesteel Chomik": {
+                "abbreviation": "Bluesteel",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125827899,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Bluesteel Chomik",
+                "type": "Puzzle"
+            },
+            "Buildermik": {
+                "abbreviation": "Buildermik",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124800533,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Buildermik",
+                "type": "Puzzle"
+            },
+            "Cart Ride into Chomik": {
+                "abbreviation": "Cart Ride into",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124804532,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Cart Ride into Chomik",
+                "type": "Puzzle"
+            },
+            "Chom Dope": {
+                "abbreviation": "Chom Dope",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125552724,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chom Dope",
+                "type": "Puzzle"
+            },
+            "Chombox 360": {
+                "abbreviation": "Chombox 360",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124805204,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chombox 360",
+                "type": "Puzzle"
+            },
+            "Chomik Attack": {
+                "abbreviation": "Chomik Attack",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124856792,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomik Attack",
+                "type": "Puzzle"
+            },
+            "Chomik Fights at the Heights": {
+                "abbreviation": "Chomik Fights at the Heights",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2126253892,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chomik Fights at the Heights",
+                "type": "Puzzle"
+            },
+            "Chomik Giver": {
+                "abbreviation": "Chomik Giver",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124804538,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomik Giver",
+                "type": "Puzzle"
+            },
+            "Chomik.exe": {
+                "abbreviation": "Chomik.exe",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124785153,
+                "difficulty": 7,
+                "length": "0",
+                "name": "Chomik.exe",
+                "type": "Puzzle"
+            },
+            "Chomko Pop": {
+                "abbreviation": "Chomko Pop",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124845834,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomko Pop",
+                "type": "Puzzle"
+            },
+            "Chomulator": {
+                "abbreviation": "Chomulator",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124798304,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomulator",
+                "type": "Puzzle"
+            },
+            "Crash Test Chomik": {
+                "abbreviation": "Crash Test",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2126133220,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Crash Test Chomik",
+                "type": "Puzzle"
+            },
+            "Crossroads Tower Chomik": {
+                "abbreviation": "Crossroads Tower",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124807748,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Crossroads Tower Chomik",
+                "type": "Puzzle"
+            },
+            "Cyan Chomik": {
+                "abbreviation": "Cyan",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125705013,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Cyan Chomik",
+                "type": "Puzzle"
+            },
+            "Developer Chomik": {
+                "abbreviation": "Developer",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2126552166,
+                "difficulty": 7,
+                "length": "0",
+                "name": "Developer Chomik",
+                "type": "Puzzle"
+            },
+            "Dropper Chomik": {
+                "abbreviation": "Dropper",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124818779,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Dropper Chomik",
+                "type": "Puzzle"
+            },
+            "Frisbee Chomik": {
+                "abbreviation": "Frisbee",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124792552,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Frisbee Chomik",
+                "type": "Puzzle"
+            },
+            "Gamik": {
+                "abbreviation": "Gamik",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124869839,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Gamik",
+                "type": "Puzzle"
+            },
+            "Gravity Coil Chomik": {
+                "abbreviation": "Gravity Coil",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124859126,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Gravity Coil Chomik",
+                "type": "Puzzle"
+            },
+            "Guest Chomik": {
+                "abbreviation": "Guest",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124882053,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Guest Chomik",
+                "type": "Puzzle"
+            },
+            "Indigo Chomik": {
+                "abbreviation": "Indigo",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124800480,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Indigo Chomik",
+                "type": "Puzzle"
+            },
+            "Mega Fun Chomik": {
+                "abbreviation": "Mega Fun",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124785148,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Mega Fun Chomik",
+                "type": "Puzzle"
+            },
+            "Noob Chomik": {
+                "abbreviation": "Noob",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124785147,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Noob Chomik",
+                "type": "Puzzle"
+            },
+            "Retro Chomik": {
+                "abbreviation": "Retro",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124818780,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Retro Chomik",
+                "type": "Puzzle"
+            },
+            "SLIDE 999999 METERS DOWN CHOMIK": {
+                "abbreviation": "SLIDE 999999 METERS DOWN",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2125820311,
+                "difficulty": 1,
+                "length": "0",
+                "name": "SLIDE 999999 METERS DOWN CHOMIK",
+                "type": "Puzzle"
+            },
+            "Sparkle Time Chomik": {
+                "abbreviation": "Sparkle Time",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2126089958,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Sparkle Time Chomik",
+                "type": "Puzzle"
+            },
+            "Ultra Secret Chomik": {
+                "abbreviation": "Ultra Secret",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124799800,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Ultra Secret Chomik",
+                "type": "Puzzle"
+            },
+            "WhatsUp Chomik": {
+                "abbreviation": "WhatsUp",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124897606,
+                "difficulty": 3,
+                "length": "0",
+                "name": "WhatsUp Chomik",
+                "type": "Puzzle"
+            },
+            "You Are a Chomik": {
+                "abbreviation": "You Are a",
+                "area": "Main_Realm_(Classic_Roblox)",
+                "badge": 2124806492,
+                "difficulty": 2,
+                "length": "0",
+                "name": "You Are a Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Desert)": {
+            "Anubik": {
+                "abbreviation": "Anubik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124859987,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Anubik",
+                "type": "Puzzle"
+            },
+            "Blue Marlinik": {
+                "abbreviation": "Blue Marlinik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2125965222,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Blue Marlinik",
+                "type": "Puzzle"
+            },
+            "Chog Rider Chomik": {
+                "abbreviation": "Chog Rider",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124860002,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chog Rider Chomik",
+                "type": "Puzzle"
+            },
+            "Chomik of Arbitrary Systems": {
+                "abbreviation": "Chomik of Arbitrary Systems",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2126177804,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chomik of Arbitrary Systems",
+                "type": "Puzzle"
+            },
+            "Dusty Chomik": {
+                "abbreviation": "Dusty",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124798306,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Dusty Chomik",
+                "type": "Puzzle"
+            },
+            "Evaporating Chomik": {
+                "abbreviation": "Evaporating",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124804527,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Evaporating Chomik",
+                "type": "Puzzle"
+            },
+            "Genie Chomik": {
+                "abbreviation": "Genie",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124858249,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Genie Chomik",
+                "type": "Puzzle"
+            },
+            "Graduation Chomik": {
+                "abbreviation": "Graduation",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124777031,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Graduation Chomik",
+                "type": "Puzzle"
+            },
+            "Hieroglyphik": {
+                "abbreviation": "Hieroglyphik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124859995,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Hieroglyphik",
+                "type": "Puzzle"
+            },
+            "Mummy Chomik": {
+                "abbreviation": "Mummy",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124785150,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Mummy Chomik",
+                "type": "Puzzle"
+            },
+            "Orientating Oscillating Chomik": {
+                "abbreviation": "Orientating Oscillating",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2152748749,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Orientating Oscillating Chomik",
+                "type": "Puzzle"
+            },
+            "Reindeerik": {
+                "abbreviation": "Reindeerik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124867768,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Reindeerik",
+                "type": "Puzzle"
+            },
+            "Royal Guard Chomik": {
+                "abbreviation": "Royal Guard",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124882046,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Royal Guard Chomik",
+                "type": "Puzzle"
+            },
+            "Ruby Artifact Chomik": {
+                "abbreviation": "Ruby Artifact",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124844577,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Ruby Artifact Chomik",
+                "type": "Puzzle"
+            },
+            "Scorionik 2: Elongated Boogaloo": {
+                "abbreviation": "Scorionik 2: Elongated Boogaloo",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124802168,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Scorionik 2: Elongated Boogaloo",
+                "type": "Puzzle"
+            },
+            "Scorionik 3: Why": {
+                "abbreviation": "Scorionik 3: Why",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124873711,
+                "difficulty": 7,
+                "length": "0",
+                "name": "Scorionik 3: Why",
+                "type": "Puzzle"
+            },
+            "Sernik": {
+                "abbreviation": "Sernik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124775051,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Sernik",
+                "type": "Puzzle"
+            },
+            "Soul Candle Chomik": {
+                "abbreviation": "Soul Candle",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124859485,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Soul Candle Chomik",
+                "type": "Puzzle"
+            },
+            "Takis Chomik": {
+                "abbreviation": "Takis",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124785145,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Takis Chomik",
+                "type": "Puzzle"
+            },
+            "Yellow Chomik": {
+                "abbreviation": "Yellow Chomik",
+                "area": "Main_Realm_(Desert)",
+                "badge": 2124800477,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Yellow Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Granite)": {
+            "Abomination Chomik": {
+                "abbreviation": "Abomination",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124851220,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Abomination Chomik",
+                "type": "Puzzle"
+            },
+            "Carbonik": {
+                "abbreviation": "Carbonik",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124880135,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Carbonik",
+                "type": "Puzzle"
+            },
+            "Chamik": {
+                "abbreviation": "Chamik",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124803835,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chamik",
+                "type": "Puzzle"
+            },
+            "Chomikception": {
+                "abbreviation": "Chomikception",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124785143,
+                "difficulty": 7,
+                "length": "0",
+                "name": "Chomikception",
+                "type": "Puzzle"
+            },
+            "Chomtron": {
+                "abbreviation": "Chomtron",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124880191,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chomtron",
+                "type": "Puzzle"
+            },
+            "Chonic": {
+                "abbreviation": "Chonic",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124877938,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chonic",
+                "type": "Puzzle"
+            },
+            "Comik": {
+                "abbreviation": "Comik",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124783101,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Comik",
+                "type": "Puzzle"
+            },
+            "Demotivational Poster Chomik": {
+                "abbreviation": "Demotivational Poster",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124869671,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Demotivational Poster Chomik",
+                "type": "Puzzle"
+            },
+            "Despicable Chomik": {
+                "abbreviation": "Despicable",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124880140,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Despicable Chomik",
+                "type": "Puzzle"
+            },
+            "Fake Transparent Chomik": {
+                "abbreviation": "Fake Transparent",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124783103,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Fake Transparent Chomik",
+                "type": "Puzzle"
+            },
+            "Fallen Chomik": {
+                "abbreviation": "Fallen",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124784460,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Fallen Chomik",
+                "type": "Puzzle"
+            },
+            "Fish Eye Lens Chomik": {
+                "abbreviation": "Fish Eye Lens",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124877941,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Fish Eye Lens Chomik",
+                "type": "Puzzle"
+            },
+            "Forgor Chomik": {
+                "abbreviation": "Forgor",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124798438,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Forgor Chomik",
+                "type": "Puzzle"
+            },
+            "Granimuk": {
+                "abbreviation": "Granimuk",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124869665,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Granimuk",
+                "type": "Puzzle"
+            },
+            "Hot Sauce Chomik": {
+                "abbreviation": "Hot Sauce",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124805211,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Hot Sauce Chomik",
+                "type": "Puzzle"
+            },
+            "Madness Chombat": {
+                "abbreviation": "Madness Chombat",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124877335,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Madness Chombat",
+                "type": "Puzzle"
+            },
+            "Mewik and Chomewtoo": {
+                "abbreviation": "Mewik and Chomewtoo",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124880138,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Mewik and Chomewtoo",
+                "type": "Puzzle"
+            },
+            "Mozart Chomik": {
+                "abbreviation": "Mozart",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124847004,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Mozart Chomik",
+                "type": "Puzzle"
+            },
+            "OMEGA Secret Chomik": {
+                "abbreviation": "OMEGA Secret",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124877341,
+                "difficulty": 7,
+                "length": "0",
+                "name": "OMEGA Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Sonik": {
+                "abbreviation": "Sonik",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2125726530,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Sonik",
+                "type": "Puzzle"
+            },
+            "Statue Chomik": {
+                "abbreviation": "Statue",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124798305,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Statue Chomik",
+                "type": "Puzzle"
+            },
+            "TV Chomik": {
+                "abbreviation": "TV",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124879714,
+                "difficulty": 3,
+                "length": "0",
+                "name": "TV Chomik",
+                "type": "Puzzle"
+            },
+            "X-Ray Chomik": {
+                "abbreviation": "X-Ray",
+                "area": "Main_Realm_(Granite)",
+                "badge": 2124877339,
+                "difficulty": 0,
+                "length": "0",
+                "name": "X-Ray Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Graveyard)": {
+            "Banjo and Chomik": {
+                "abbreviation": "Banjo and",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2125819787,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Banjo and Chomik",
+                "type": "Puzzle"
+            },
+            "Barely Secret Chomik": {
+                "abbreviation": "Barely Secret",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124814582,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Barely Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Brainz Chomik": {
+                "abbreviation": "Brainz",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124812618,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Brainz Chomik",
+                "type": "Puzzle"
+            },
+            "Catzo Chomik": {
+                "abbreviation": "Catzo",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2125883153,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Catzo Chomik",
+                "type": "Puzzle"
+            },
+            "Electric Chomik": {
+                "abbreviation": "Electric",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124780229,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Electric Chomik",
+                "type": "Puzzle"
+            },
+            "Ghost Rider Chomik": {
+                "abbreviation": "Ghost Rider",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124798303,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Ghost Rider Chomik",
+                "type": "Puzzle"
+            },
+            "Ghostmik": {
+                "abbreviation": "Ghostmik",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124805206,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Ghostmik",
+                "type": "Puzzle"
+            },
+            "Hollow Chomik": {
+                "abbreviation": "Hollow",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124803836,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Hollow Chomik",
+                "type": "Puzzle"
+            },
+            "Hypno Chomik": {
+                "abbreviation": "Hypno",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124857874,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Hypno Chomik",
+                "type": "Puzzle"
+            },
+            "Ink Demon Chomik": {
+                "abbreviation": "Ink Demon",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124851234,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Ink Demon Chomik",
+                "type": "Puzzle"
+            },
+            "King Boo Chomik": {
+                "abbreviation": "King Boo",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2125819760,
+                "difficulty": 0,
+                "length": "0",
+                "name": "King Boo Chomik",
+                "type": "Puzzle"
+            },
+            "Scorionik": {
+                "abbreviation": "Scorionik",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124775575,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Scorionik",
+                "type": "Puzzle"
+            },
+            "Secret Chomik": {
+                "abbreviation": "Secret",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124775053,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Soulless Chomik": {
+                "abbreviation": "Soulless",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124774974,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Soulless Chomik",
+                "type": "Puzzle"
+            },
+            "Super Secret Chomik": {
+                "abbreviation": "Super Secret",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124776366,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Super Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Zombik": {
+                "abbreviation": "Zombik",
+                "area": "Main_Realm_(Graveyard)",
+                "badge": 2124785151,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Zombik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Ice)": {
+            "Candy Cane Chomik": {
+                "abbreviation": "Candy Cane",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867739,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Candy Cane Chomik",
+                "type": "Puzzle"
+            },
+            "Chik": {
+                "abbreviation": "Chik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124777719,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chik",
+                "type": "Puzzle"
+            },
+            "Chollapse": {
+                "abbreviation": "Chollapse",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2152748789,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chollapse",
+                "type": "Puzzle"
+            },
+            "Chomilk": {
+                "abbreviation": "Chomilk",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124785149,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chomilk",
+                "type": "Puzzle"
+            },
+            "Christmas Tree Chomik": {
+                "abbreviation": "Christmas Tree",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867750,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Christmas Tree Chomik",
+                "type": "Puzzle"
+            },
+            "Elfik": {
+                "abbreviation": "Elfik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867761,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Elfik",
+                "type": "Puzzle"
+            },
+            "Flying Reindeerik": {
+                "abbreviation": "Flying Reindeerik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867768,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Flying Reindeerik",
+                "type": "Puzzle"
+            },
+            "Frost Warrior Chomik": {
+                "abbreviation": "Frost Warrior",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867742,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Frost Warrior Chomik",
+                "type": "Puzzle"
+            },
+            "Frosted Chomik": {
+                "abbreviation": "Frosted",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124796622,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Frosted Chomik",
+                "type": "Puzzle"
+            },
+            "Frozen Chomik": {
+                "abbreviation": "Frozen",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124778990,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Frozen Chomik",
+                "type": "Puzzle"
+            },
+            "Grinchik": {
+                "abbreviation": "Grinchik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867762,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Grinchik",
+                "type": "Puzzle"
+            },
+            "Hot Chomclate": {
+                "abbreviation": "Hot Chomclate",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2152748776,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Hot Chomclate",
+                "type": "Puzzle"
+            },
+            "I Applied Too Many Effects Chomik": {
+                "abbreviation": "I Applied Too Many Effects",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124776383,
+                "difficulty": 3,
+                "length": "0",
+                "name": "I Applied Too Many Effects Chomik",
+                "type": "Puzzle"
+            },
+            "Ice Cream Chomik": {
+                "abbreviation": "Ice Cream",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124778444,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Ice Cream Chomik",
+                "type": "Puzzle"
+            },
+            "Ice Golemik": {
+                "abbreviation": "Ice Golemik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867737,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Ice Golemik",
+                "type": "Puzzle"
+            },
+            "Iceskater Chomik": {
+                "abbreviation": "Iceskater",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867776,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Iceskater Chomik",
+                "type": "Puzzle"
+            },
+            "Lightmatter Chomik": {
+                "abbreviation": "Lightmatter",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124775114,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Lightmatter Chomik",
+                "type": "Puzzle"
+            },
+            "Mamutik": {
+                "abbreviation": "Mamutik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124813457,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Mamutik",
+                "type": "Puzzle"
+            },
+            "Penguinik": {
+                "abbreviation": "Penguinik",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867748,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Penguinik",
+                "type": "Puzzle"
+            },
+            "Permafrost Chomik": {
+                "abbreviation": "Permafrost",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867744,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Permafrost Chomik",
+                "type": "Puzzle"
+            },
+            "Rudolph, The Red-Nosed Chomik": {
+                "abbreviation": "Rudolph, The Red-Nosed",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867767,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Rudolph, The Red-Nosed Chomik",
+                "type": "Puzzle"
+            },
+            "Santa Chomik": {
+                "abbreviation": "Santa",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867741,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Santa Chomik",
+                "type": "Puzzle"
+            },
+            "Santa Hat Chomik": {
+                "abbreviation": "Santa Hat",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124775641,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Santa Hat Chomik",
+                "type": "Puzzle"
+            },
+            "Snowglobe Chomik": {
+                "abbreviation": "Snowglobe",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124798450,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Snowglobe Chomik",
+                "type": "Puzzle"
+            },
+            "Stocking Chomik": {
+                "abbreviation": "Stocking",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867778,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Stocking Chomik",
+                "type": "Puzzle"
+            },
+            "Szczur": {
+                "abbreviation": "Szczur",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124804530,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Szczur",
+                "type": "Puzzle"
+            },
+            "The Christmik Spirit": {
+                "abbreviation": "The Christmik Spirit",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124867751,
+                "difficulty": 5,
+                "length": "0",
+                "name": "The Christmik Spirit",
+                "type": "Puzzle"
+            },
+            "Violet Chomik": {
+                "abbreviation": "Violet",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124800481,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Violet Chomik",
+                "type": "Puzzle"
+            },
+            "Wannacry Chomik": {
+                "abbreviation": "Wannacry",
+                "area": "Main_Realm_(Ice)",
+                "badge": 2124806208,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Wannacry Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Kitchen)": {
+            "Banana Chomik": {
+                "abbreviation": "Banana",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124805205,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Banana Chomik",
+                "type": "Puzzle"
+            },
+            "Bingik": {
+                "abbreviation": "Bingik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124880261,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Bingik",
+                "type": "Puzzle"
+            },
+            "CHOOOO": {
+                "abbreviation": "CHOOOO",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124779806,
+                "difficulty": 1,
+                "length": "0",
+                "name": "CHOOOO",
+                "type": "Puzzle"
+            },
+            "Chef Chomik": {
+                "abbreviation": "Chef",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124810952,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chef Chomik",
+                "type": "Puzzle"
+            },
+            "Choca Cola": {
+                "abbreviation": "Choca Cola",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124863710,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Choca Cola",
+                "type": "Puzzle"
+            },
+            "Chocomik": {
+                "abbreviation": "Chocomik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124811373,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chocomik",
+                "type": "Puzzle"
+            },
+            "Chomdwich": {
+                "abbreviation": "Chomdwich",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124863739,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomdwich",
+                "type": "Puzzle"
+            },
+            "Cookie Chomik": {
+                "abbreviation": "Cookie",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124858230,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Cookie Chomik",
+                "type": "Puzzle"
+            },
+            "DLC Chomik": {
+                "abbreviation": "DLC",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124777829,
+                "difficulty": 0,
+                "length": "0",
+                "name": "DLC Chomik",
+                "type": "Puzzle"
+            },
+            "Dad N' Mik": {
+                "abbreviation": "Dad N' Mik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124851225,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Dad N' Mik",
+                "type": "Puzzle"
+            },
+            "Dudemik": {
+                "abbreviation": "Dudemik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124896564,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Dudemik",
+                "type": "Puzzle"
+            },
+            "Eating Chomik": {
+                "abbreviation": "Eating",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124872507,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Eating Chomik",
+                "type": "Puzzle"
+            },
+            "Floppik": {
+                "abbreviation": "Floppik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124880258,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Floppik",
+                "type": "Puzzle"
+            },
+            "Hash Slinger Chomik": {
+                "abbreviation": "Hash Slinger",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124798413,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Hash Slinger Chomik",
+                "type": "Puzzle"
+            },
+            "Mark Wienik": {
+                "abbreviation": "Mark Wienik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124785144,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Mark Wienik",
+                "type": "Puzzle"
+            },
+            "Newton's Third Law of Eggmiks": {
+                "abbreviation": "Newton's Third Law of Eggmiks",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2126090013,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Newton's Third Law of Eggmiks",
+                "type": "Puzzle"
+            },
+            "Obamik": {
+                "abbreviation": "Obamik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124785141,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Obamik",
+                "type": "Puzzle"
+            },
+            "Orange Chomik": {
+                "abbreviation": "Orange",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124800476,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Orange Chomik",
+                "type": "Puzzle"
+            },
+            "Orbik": {
+                "abbreviation": "Orbik",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124784496,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Orbik",
+                "type": "Puzzle"
+            },
+            "Pickle Chomik": {
+                "abbreviation": "Pickle",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124777210,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Pickle Chomik",
+                "type": "Puzzle"
+            },
+            "Sinko Chomik": {
+                "abbreviation": "Sinko",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124785146,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Sinko Chomik",
+                "type": "Puzzle"
+            },
+            "The Chomik with Pancakes": {
+                "abbreviation": "The Chomik with Pancakes",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124810950,
+                "difficulty": 0,
+                "length": "0",
+                "name": "The Chomik with Pancakes",
+                "type": "Puzzle"
+            },
+            "Trade Chomik": {
+                "abbreviation": "Trade",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124775722,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Trade Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true,
+            "mikChom": {
+                "abbreviation": "mikChom",
+                "area": "Main_Realm_(Kitchen)",
+                "badge": 2124774938,
+                "difficulty": 2,
+                "length": "0",
+                "name": "mikChom",
+                "type": "Puzzle"
+            }
+        },
+        "Main_Realm_(Lava)": {
+            "Bombastik": {
+                "abbreviation": "Bombastik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124792981,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Bombastik",
+                "type": "Puzzle"
+            },
+            "Brimstone Chomik": {
+                "abbreviation": "Brimstone",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124896623,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Brimstone Chomik",
+                "type": "Puzzle"
+            },
+            "Candle Chomik": {
+                "abbreviation": "Candle",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124800003,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Candle Chomik",
+                "type": "Puzzle"
+            },
+            "Cataclysmik": {
+                "abbreviation": "Cataclysmik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124869853,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Cataclysmik",
+                "type": "Puzzle"
+            },
+            "Cho-maiden": {
+                "abbreviation": "Cho-maiden",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2125725914,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Cho-maiden",
+                "type": "Puzzle"
+            },
+            "Chomik Tech Tips": {
+                "abbreviation": "Chomik Tech Tips",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124776394,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chomik Tech Tips",
+                "type": "Puzzle"
+            },
+            "Helium Chomik": {
+                "abbreviation": "Helium",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124774918,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Helium Chomik",
+                "type": "Puzzle"
+            },
+            "Hellcore Chomik": {
+                "abbreviation": "Hellcore",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124813458,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Hellcore Chomik",
+                "type": "Puzzle"
+            },
+            "Igneous Chomik": {
+                "abbreviation": "Igneous",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2126253661,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Igneous Chomik",
+                "type": "Puzzle"
+            },
+            "Infernal Chomik": {
+                "abbreviation": "Infernal",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124796625,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Infernal Chomik",
+                "type": "Puzzle"
+            },
+            "Krakatoik": {
+                "abbreviation": "Krakatoik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124798394,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Krakatoik",
+                "type": "Puzzle"
+            },
+            "Mechanical Chomik": {
+                "abbreviation": "Mechanical",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124777630,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Mechanical Chomik",
+                "type": "Puzzle"
+            },
+            "Mega Secret Chomik": {
+                "abbreviation": "Mega Secret",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124800168,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Mega Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Mik or Treat": {
+                "abbreviation": "Mik or Treat",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124851227,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Mik or Treat",
+                "type": "Puzzle"
+            },
+            "Molten Chomiklands": {
+                "abbreviation": "Molten Chomiklands",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124805209,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Molten Chomiklands",
+                "type": "Puzzle"
+            },
+            "Mysz": {
+                "abbreviation": "Mysz",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124778445,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Mysz",
+                "type": "Puzzle"
+            },
+            "Panik": {
+                "abbreviation": "Panik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124869810,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Panik",
+                "type": "Puzzle"
+            },
+            "Phoemik": {
+                "abbreviation": "Phoemik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124851230,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Phoemik",
+                "type": "Puzzle"
+            },
+            "Tin-Can Telephonik": {
+                "abbreviation": "Tin-Can Telephonik",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2125972768,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Tin-Can Telephonik",
+                "type": "Puzzle"
+            },
+            "Ultraviolet Chomik": {
+                "abbreviation": "Ultraviolet",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124775577,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Ultraviolet Chomik",
+                "type": "Puzzle"
+            },
+            "chomik.png": {
+                "abbreviation": "chomik.png",
+                "area": "Main_Realm_(Lava)",
+                "badge": 2124791659,
+                "difficulty": 2,
+                "length": "0",
+                "name": "chomik.png",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Marble)": {
+            "Aluminum Chomik": {
+                "abbreviation": "Aluminum",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124774989,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Aluminum Chomik",
+                "type": "Puzzle"
+            },
+            "Artist Chomik": {
+                "abbreviation": "Artist",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124785142,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Artist Chomik",
+                "type": "Puzzle"
+            },
+            "Audiomik": {
+                "abbreviation": "Audiomik",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124896484,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Audiomik",
+                "type": "Puzzle"
+            },
+            "Chom and Brash": {
+                "abbreviation": "Chom and Brash",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124805207,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chom and Brash",
+                "type": "Puzzle"
+            },
+            "Chomcoin": {
+                "abbreviation": "Chomcoin",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124785152,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomcoin",
+                "type": "Puzzle"
+            },
+            "Giga Chomik": {
+                "abbreviation": "Giga",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124777136,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Giga Chomik",
+                "type": "Puzzle"
+            },
+            "Mapmik": {
+                "abbreviation": "Mapmik",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124808222,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Mapmik",
+                "type": "Puzzle"
+            },
+            "Old Chomik": {
+                "abbreviation": "Old",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124812600,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Old Chomik",
+                "type": "Puzzle"
+            },
+            "Outlet Chomik": {
+                "abbreviation": "Outlet",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124880662,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Outlet Chomik",
+                "type": "Puzzle"
+            },
+            "Sir Chomik": {
+                "abbreviation": "Sir",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124798302,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Sir Chomik",
+                "type": "Puzzle"
+            },
+            "Sleeping Chomik": {
+                "abbreviation": "Sleeping",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124777022,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Sleeping Chomik",
+                "type": "Puzzle"
+            },
+            "Trollgemik": {
+                "abbreviation": "Trollgemik",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2124801781,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Trollgemik",
+                "type": "Puzzle"
+            },
+            "Zoom Blur Chomik": {
+                "abbreviation": "Zoom Blur",
+                "area": "Main_Realm_(Marble)",
+                "badge": 2125726592,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Zoom Blur Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Music)": {
+            "Bean Bag Chomik": {
+                "abbreviation": "Bean Bag",
+                "area": "Main_Realm_(Music)",
+                "badge": 2128297491,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Bean Bag Chomik",
+                "type": "Puzzle"
+            },
+            "Bloxiadik": {
+                "abbreviation": "Bloxiadik",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857677,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Bloxiadik",
+                "type": "Puzzle"
+            },
+            "Chessmik": {
+                "abbreviation": "Chessmik",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857679,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chessmik",
+                "type": "Puzzle"
+            },
+            "DJ Chomik": {
+                "abbreviation": "DJ",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857680,
+                "difficulty": 0,
+                "length": "0",
+                "name": "DJ Chomik",
+                "type": "Puzzle"
+            },
+            "Dripped Out Chomik": {
+                "abbreviation": "Dripped Out",
+                "area": "Main_Realm_(Music)",
+                "badge": 2125704819,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Dripped Out Chomik",
+                "type": "Puzzle"
+            },
+            "Gradientik": {
+                "abbreviation": "Gradientik",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857682,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Gradientik",
+                "type": "Puzzle"
+            },
+            "Nightclub Chomik": {
+                "abbreviation": "Nightclub",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857698,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Nightclub Chomik",
+                "type": "Puzzle"
+            },
+            "Pianist Chomik": {
+                "abbreviation": "Pianist",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857678,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Pianist Chomik",
+                "type": "Puzzle"
+            },
+            "Radio Chomik": {
+                "abbreviation": "Radio",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857684,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Radio Chomik",
+                "type": "Puzzle"
+            },
+            "Speakerik": {
+                "abbreviation": "Speakerik",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857681,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Speakerik",
+                "type": "Puzzle"
+            },
+            "Sunset Chomik": {
+                "abbreviation": "Sunset",
+                "area": "Main_Realm_(Music)",
+                "badge": 2125819895,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Sunset Chomik",
+                "type": "Puzzle"
+            },
+            "Surreal Chomik": {
+                "abbreviation": "Surreal",
+                "area": "Main_Realm_(Music)",
+                "badge": 2125819891,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Surreal Chomik",
+                "type": "Puzzle"
+            },
+            "Theatrik": {
+                "abbreviation": "Theatrik",
+                "area": "Main_Realm_(Music)",
+                "badge": 2124857683,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Theatrik",
+                "type": "Puzzle"
+            },
+            "Vaporwave Chomik": {
+                "abbreviation": "Vaporwave",
+                "area": "Main_Realm_(Music)",
+                "badge": 2125819912,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Vaporwave Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Overgrowth)": {
+            "Chomnivorous": {
+                "abbreviation": "Chomnivorous",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858822,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomnivorous",
+                "type": "Puzzle"
+            },
+            "Chomterpillar": {
+                "abbreviation": "Chomterpillar",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858827,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomterpillar",
+                "type": "Puzzle"
+            },
+            "Chronophobik": {
+                "abbreviation": "Chronophobik",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858829,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chronophobik",
+                "type": "Puzzle"
+            },
+            "Harvest Chomik": {
+                "abbreviation": "Harvest",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124869829,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Harvest Chomik",
+                "type": "Puzzle"
+            },
+            "Nature Chomik": {
+                "abbreviation": "Nature",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858824,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Nature Chomik",
+                "type": "Puzzle"
+            },
+            "Overgrown Chomik": {
+                "abbreviation": "Overgrown",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858830,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Overgrown Chomik",
+                "type": "Puzzle"
+            },
+            "Phytogenetic Sage Chomik": {
+                "abbreviation": "Phytogenetic Sage",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858828,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Phytogenetic Sage Chomik",
+                "type": "Puzzle"
+            },
+            "Plant Chomik": {
+                "abbreviation": "Plant",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858831,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Plant Chomik",
+                "type": "Puzzle"
+            },
+            "Skelechomik": {
+                "abbreviation": "Skelechomik",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858825,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Skelechomik",
+                "type": "Puzzle"
+            },
+            "Stickerbush Chomik": {
+                "abbreviation": "Stickerbush",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2125723445,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Stickerbush Chomik",
+                "type": "Puzzle"
+            },
+            "Well Chomik": {
+                "abbreviation": "Well",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2124858823,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Well Chomik",
+                "type": "Puzzle"
+            },
+            "Xanwood Chomik": {
+                "abbreviation": "Xanwood",
+                "area": "Main_Realm_(Overgrowth)",
+                "badge": 2126247863,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Xanwood Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Quarry)": {
+            "Chank": {
+                "abbreviation": "Chank",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845192,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Chank",
+                "type": "Puzzle"
+            },
+            "Chom-Stack": {
+                "abbreviation": "Chom-Stack",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2125954730,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chom-Stack",
+                "type": "Puzzle"
+            },
+            "Coalik": {
+                "abbreviation": "Coalik",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845188,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Coalik",
+                "type": "Puzzle"
+            },
+            "Drill Chomik": {
+                "abbreviation": "Drill",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845186,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Drill Chomik",
+                "type": "Puzzle"
+            },
+            "ExpurChomik": {
+                "abbreviation": "ExpurChomik",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124851222,
+                "difficulty": 2,
+                "length": "0",
+                "name": "ExpurChomik",
+                "type": "Puzzle"
+            },
+            "Factory Chomik": {
+                "abbreviation": "Factory",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845191,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Factory Chomik",
+                "type": "Puzzle"
+            },
+            "Flash Chomik": {
+                "abbreviation": "Flash",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2125828399,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Flash Chomik",
+                "type": "Puzzle"
+            },
+            "Gordon Freemik": {
+                "abbreviation": "Gordon Freemik",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124847400,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Gordon Freemik",
+                "type": "Puzzle"
+            },
+            "Gramophone Chomik": {
+                "abbreviation": "Gramophone",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124846456,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Gramophone Chomik",
+                "type": "Puzzle"
+            },
+            "Lantern Chomik": {
+                "abbreviation": "Lantern",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845189,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Lantern Chomik",
+                "type": "Puzzle"
+            },
+            "Pulverizik": {
+                "abbreviation": "Pulverizik",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124903927,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Pulverizik",
+                "type": "Puzzle"
+            },
+            "Steampunk Chomik": {
+                "abbreviation": "Steampunk",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2126248047,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Steampunk Chomik",
+                "type": "Puzzle"
+            },
+            "Sunrise Chomik": {
+                "abbreviation": "Sunrise",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124869743,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Sunrise Chomik",
+                "type": "Puzzle"
+            },
+            "Suspicious Wealthy Chomik": {
+                "abbreviation": "Suspicious Wealthy",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124845187,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Suspicious Wealthy Chomik",
+                "type": "Puzzle"
+            },
+            "Vaultmik": {
+                "abbreviation": "Vaultmik",
+                "area": "Main_Realm_(Quarry)",
+                "badge": 2124896557,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Vaultmik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(School)": {
+            "Atomik": {
+                "abbreviation": "Atomik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124861193,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Atomik",
+                "type": "Puzzle"
+            },
+            "Big Chomgus": {
+                "abbreviation": "Big Chomgus",
+                "area": "Main_Realm_(School)",
+                "badge": 2124810293,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Big Chomgus",
+                "type": "Puzzle"
+            },
+            "Bubblegum Chomik": {
+                "abbreviation": "Bubblegum",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880275,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Bubblegum Chomik",
+                "type": "Puzzle"
+            },
+            "Bullied Chomik": {
+                "abbreviation": "Bullied",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880276,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Bullied Chomik",
+                "type": "Puzzle"
+            },
+            "Bully Chomik": {
+                "abbreviation": "Bully",
+                "area": "Main_Realm_(School)",
+                "badge": 2124813587,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Bully Chomik",
+                "type": "Puzzle"
+            },
+            "Cat Chomik": {
+                "abbreviation": "Cat",
+                "area": "Main_Realm_(School)",
+                "badge": 2125819719,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Cat Chomik",
+                "type": "Puzzle"
+            },
+            "Chalkboard Chomik": {
+                "abbreviation": "Chalkboard",
+                "area": "Main_Realm_(School)",
+                "badge": 2124816146,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chalkboard Chomik",
+                "type": "Puzzle"
+            },
+            "Chom.zip": {
+                "abbreviation": "Chom.zip",
+                "area": "Main_Realm_(School)",
+                "badge": 2124843729,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chom.zip",
+                "type": "Puzzle"
+            },
+            "Chombiology": {
+                "abbreviation": "Chombiology",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880282,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chombiology",
+                "type": "Puzzle"
+            },
+            "Chomik Book": {
+                "abbreviation": "Chomik Book",
+                "area": "Main_Realm_(School)",
+                "badge": 2124858286,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chomik Book",
+                "type": "Puzzle"
+            },
+            "Chomik is Fine.": {
+                "abbreviation": "Chomik is Fine.",
+                "area": "Main_Realm_(School)",
+                "badge": 2124804539,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomik is Fine.",
+                "type": "Puzzle"
+            },
+            "Chomtest": {
+                "abbreviation": "Chomtest",
+                "area": "Main_Realm_(School)",
+                "badge": 2124816147,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomtest",
+                "type": "Puzzle"
+            },
+            "Cloudmik": {
+                "abbreviation": "Cloudmik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124838697,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Cloudmik",
+                "type": "Puzzle"
+            },
+            "Desmos Chomik": {
+                "abbreviation": "Desmos",
+                "area": "Main_Realm_(School)",
+                "badge": 2124882424,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Desmos Chomik",
+                "type": "Puzzle"
+            },
+            "Detention Chomik": {
+                "abbreviation": "Detention",
+                "area": "Main_Realm_(School)",
+                "badge": 2124896708,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Detention Chomik",
+                "type": "Puzzle"
+            },
+            "Dogma Chomik": {
+                "abbreviation": "Dogma",
+                "area": "Main_Realm_(School)",
+                "badge": 2124818872,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Dogma Chomik",
+                "type": "Puzzle"
+            },
+            "Dr. Faumik": {
+                "abbreviation": "Dr. Faumik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124898072,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Dr. Faumik",
+                "type": "Puzzle"
+            },
+            "Earthmik": {
+                "abbreviation": "Earthmik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124873709,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Earthmik",
+                "type": "Puzzle"
+            },
+            "Educational Chomik": {
+                "abbreviation": "Educational",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880297,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Educational Chomik",
+                "type": "Puzzle"
+            },
+            "Fabrik": {
+                "abbreviation": "Fabrik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124867577,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Fabrik",
+                "type": "Puzzle"
+            },
+            "Firefighter Chomik": {
+                "abbreviation": "Firefighter",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880277,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Firefighter Chomik",
+                "type": "Puzzle"
+            },
+            "FrankenChomik": {
+                "abbreviation": "FrankenChomik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124851221,
+                "difficulty": 0,
+                "length": "0",
+                "name": "FrankenChomik",
+                "type": "Puzzle"
+            },
+            "Front Facing Chomik": {
+                "abbreviation": "Front Facing",
+                "area": "Main_Realm_(School)",
+                "badge": 2124830826,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Front Facing Chomik",
+                "type": "Puzzle"
+            },
+            "Globik": {
+                "abbreviation": "Globik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124863747,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Globik",
+                "type": "Puzzle"
+            },
+            "Glue Chomik": {
+                "abbreviation": "Glue",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880294,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Glue Chomik",
+                "type": "Puzzle"
+            },
+            "Janitor Chomik": {
+                "abbreviation": "Janitor",
+                "area": "Main_Realm_(School)",
+                "badge": 2124805323,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Janitor Chomik",
+                "type": "Puzzle"
+            },
+            "Lunch Lady Chomik": {
+                "abbreviation": "Lunch Lady",
+                "area": "Main_Realm_(School)",
+                "badge": 2124846457,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Lunch Lady Chomik",
+                "type": "Puzzle"
+            },
+            "Lush Chomik": {
+                "abbreviation": "Lush",
+                "area": "Main_Realm_(School)",
+                "badge": 2125830299,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Lush Chomik",
+                "type": "Puzzle"
+            },
+            "Miktroid": {
+                "abbreviation": "Miktroid",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880299,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Miktroid",
+                "type": "Puzzle"
+            },
+            "Paper Chomik": {
+                "abbreviation": "Paper",
+                "area": "Main_Realm_(School)",
+                "badge": 2124805208,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Paper Chomik",
+                "type": "Puzzle"
+            },
+            "Periodic Chomik": {
+                "abbreviation": "Periodic",
+                "area": "Main_Realm_(School)",
+                "badge": 2124897584,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Periodic Chomik",
+                "type": "Puzzle"
+            },
+            "Pop-up Book Chomik": {
+                "abbreviation": "Pop-up Book",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880289,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Pop-up Book Chomik",
+                "type": "Puzzle"
+            },
+            "Steamed Chomiks": {
+                "abbreviation": "Steamed",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880287,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Steamed Chomiks",
+                "type": "Puzzle"
+            },
+            "Student Chomik": {
+                "abbreviation": "Student",
+                "area": "Main_Realm_(School)",
+                "badge": 2124880262,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Student Chomik",
+                "type": "Puzzle"
+            },
+            "The Chomik Which is Inside of this Tree in the School Area": {
+                "abbreviation": "The Chomik Which is Inside of this Tree in the School Area",
+                "area": "Main_Realm_(School)",
+                "badge": 2124807177,
+                "difficulty": 0,
+                "length": "0",
+                "name": "The Chomik Which is Inside of this Tree in the School Area",
+                "type": "Puzzle"
+            },
+            "Truemik...": {
+                "abbreviation": "Truemik...",
+                "area": "Main_Realm_(School)",
+                "badge": 2124869869,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Truemik...",
+                "type": "Puzzle"
+            },
+            "Virus Chomik": {
+                "abbreviation": "Virus",
+                "area": "Main_Realm_(School)",
+                "badge": 2124861183,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Virus Chomik",
+                "type": "Puzzle"
+            },
+            "Where's Chomik?": {
+                "abbreviation": "Where's Chomik?",
+                "area": "Main_Realm_(School)",
+                "badge": 2124804533,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Where's Chomik?",
+                "type": "Puzzle"
+            },
+            "Wimpik": {
+                "abbreviation": "Wimpik",
+                "area": "Main_Realm_(School)",
+                "badge": 2124804534,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Wimpik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Spawn)": {
+            "Anything Chomik": {
+                "abbreviation": "Anything",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2126090187,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Anything Chomik",
+                "type": "Puzzle"
+            },
+            "Archery Chomik": {
+                "abbreviation": "Archery",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124826902,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Archery Chomik",
+                "type": "Puzzle"
+            },
+            "Axolotik": {
+                "abbreviation": "Axolotik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124814227,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Axolotik",
+                "type": "Puzzle"
+            },
+            "Bee Bear Chomik": {
+                "abbreviation": "Bee Bear",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2126089542,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Bee Bear Chomik",
+                "type": "Puzzle"
+            },
+            "Beehive Chomik": {
+                "abbreviation": "Beehive",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124896383,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Beehive Chomik",
+                "type": "Puzzle"
+            },
+            "Beemik": {
+                "abbreviation": "Beemik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124798301,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Beemik",
+                "type": "Puzzle"
+            },
+            "Chomik 401": {
+                "abbreviation": "Chomik 401",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124870742,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomik 401",
+                "type": "Puzzle"
+            },
+            "Chomik Hussein": {
+                "abbreviation": "Chomik Hussein",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124777661,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chomik Hussein",
+                "type": "Puzzle"
+            },
+            "ChomikNotFound": {
+                "abbreviation": "ChomikNotFound",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124792603,
+                "difficulty": 4,
+                "length": "0",
+                "name": "ChomikNotFound",
+                "type": "Puzzle"
+            },
+            "Chorry": {
+                "abbreviation": "Chorry",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124803840,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chorry",
+                "type": "Puzzle"
+            },
+            "Dreamik": {
+                "abbreviation": "Dreamik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124775887,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Dreamik",
+                "type": "Puzzle"
+            },
+            "Duck Song Chomik": {
+                "abbreviation": "Duck Song",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124807747,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Duck Song Chomik",
+                "type": "Puzzle"
+            },
+            "Green Chomik": {
+                "abbreviation": "Green",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124800478,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Green Chomik",
+                "type": "Puzzle"
+            },
+            "Majin Chomik": {
+                "abbreviation": "Majin",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2143249814,
+                "difficulty": 8,
+                "length": "0",
+                "name": "Majin Chomik",
+                "type": "Puzzle"
+            },
+            "Memory Keeper Chomik": {
+                "abbreviation": "Memory Keeper",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2127697980,
+                "difficulty": 9,
+                "length": "0",
+                "name": "Memory Keeper Chomik",
+                "type": "Puzzle"
+            },
+            "Normalny Chomik": {
+                "abbreviation": "Normalny",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124774897,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Normalny Chomik",
+                "type": "Puzzle"
+            },
+            "Not so Secret Chomik": {
+                "abbreviation": "Not so Secret",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124877336,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Not so Secret Chomik",
+                "type": "Puzzle"
+            },
+            "Rabbik": {
+                "abbreviation": "Rabbik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124810364,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Rabbik",
+                "type": "Puzzle"
+            },
+            "Rain Cloud Chomik": {
+                "abbreviation": "Rain Cloud",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124869719,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Rain Cloud Chomik",
+                "type": "Puzzle"
+            },
+            "Scarlet Parachomik": {
+                "abbreviation": "Scarlet Parachomik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124774981,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Scarlet Parachomik",
+                "type": "Puzzle"
+            },
+            "Semisecret Chomik": {
+                "abbreviation": "Semisecret",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124814012,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Semisecret Chomik",
+                "type": "Puzzle"
+            },
+            "Slimik": {
+                "abbreviation": "Slimik",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124880245,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Slimik",
+                "type": "Puzzle"
+            },
+            "Spawn Chomik": {
+                "abbreviation": "Spawn",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2126253720,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Spawn Chomik",
+                "type": "Puzzle"
+            },
+            "Sunny Day Chomik": {
+                "abbreviation": "Sunny Day",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2125972838,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Sunny Day Chomik",
+                "type": "Puzzle"
+            },
+            "THANOS CHOMIK": {
+                "abbreviation": "THANOS",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2125818151,
+                "difficulty": 6,
+                "length": "0",
+                "name": "THANOS CHOMIK",
+                "type": "Puzzle"
+            },
+            "Teamwork Chomik": {
+                "abbreviation": "Teamwork",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124774903,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Teamwork Chomik",
+                "type": "Puzzle"
+            },
+            "Thanos Snapped Chomik": {
+                "abbreviation": "Thanos Snapped",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2125818156,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Thanos Snapped Chomik",
+                "type": "Puzzle"
+            },
+            "Time Traveller Chomik": {
+                "abbreviation": "Time Traveller",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124818874,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Time Traveller Chomik",
+                "type": "Puzzle"
+            },
+            "Wooden Chomik": {
+                "abbreviation": "Wooden",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2124775867,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Wooden Chomik",
+                "type": "Puzzle"
+            },
+            "Złoty Chomik": {
+                "abbreviation": "Złoty",
+                "area": "Main_Realm_(Spawn)",
+                "badge": 2125615755,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Złoty Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": false
+        },
+        "Main_Realm_(Trash)": {
+            "Ben Chomik": {
+                "abbreviation": "Ben",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125954696,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Ben Chomik",
+                "type": "Puzzle"
+            },
+            "Brik": {
+                "abbreviation": "Brik",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124775581,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Brik",
+                "type": "Puzzle"
+            },
+            "Chamogus": {
+                "abbreviation": "Chamogus",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2126090258,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chamogus",
+                "type": "Puzzle"
+            },
+            "Chomco Maps": {
+                "abbreviation": "Chomco Maps",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124896523,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Chomco Maps",
+                "type": "Puzzle"
+            },
+            "Chomiibo": {
+                "abbreviation": "Chomiibo",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124811374,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Chomiibo",
+                "type": "Puzzle"
+            },
+            "Chonk": {
+                "abbreviation": "Chonk",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124902516,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chonk",
+                "type": "Puzzle"
+            },
+            "Compressed Chomik": {
+                "abbreviation": "Compressed",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124862468,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Compressed Chomik",
+                "type": "Puzzle"
+            },
+            "Crafter Chomik": {
+                "abbreviation": "Crafter",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124860975,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Crafter Chomik",
+                "type": "Puzzle"
+            },
+            "Crime Scene Chomik": {
+                "abbreviation": "Crime Scene",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124848490,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Crime Scene Chomik",
+                "type": "Puzzle"
+            },
+            "Haze Chomik": {
+                "abbreviation": "Haze",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125726842,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Haze Chomik",
+                "type": "Puzzle"
+            },
+            "Homeless Chomik": {
+                "abbreviation": "Homeless",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124869761,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Homeless Chomik",
+                "type": "Puzzle"
+            },
+            "Little Boy Chomik": {
+                "abbreviation": "Little Boy",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124803837,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Little Boy Chomik",
+                "type": "Puzzle"
+            },
+            "Loading Chomik": {
+                "abbreviation": "Loading",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124872505,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Loading Chomik",
+                "type": "Puzzle"
+            },
+            "Modern Popmik": {
+                "abbreviation": "Modern Popmik",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124862377,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Modern Popmik",
+                "type": "Puzzle"
+            },
+            "MyDoomik": {
+                "abbreviation": "MyDoomik",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124871374,
+                "difficulty": 5,
+                "length": "0",
+                "name": "MyDoomik",
+                "type": "Puzzle"
+            },
+            "No Internet Chomik": {
+                "abbreviation": "No Internet",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124864479,
+                "difficulty": 1,
+                "length": "0",
+                "name": "No Internet Chomik",
+                "type": "Puzzle"
+            },
+            "NotHcom": {
+                "abbreviation": "NotHcom",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125770651,
+                "difficulty": 10,
+                "length": "0",
+                "name": "NotHcom",
+                "type": "Puzzle"
+            },
+            "Oddball Chomik": {
+                "abbreviation": "Oddball",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2126253538,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Oddball Chomik",
+                "type": "Puzzle"
+            },
+            "Oversimplified Logo Chomik": {
+                "abbreviation": "Oversimplified Logo",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124864478,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Oversimplified Logo Chomik",
+                "type": "Puzzle"
+            },
+            "Realistik": {
+                "abbreviation": "Realistik",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124776459,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Realistik",
+                "type": "Puzzle"
+            },
+            "Shadow Chomik": {
+                "abbreviation": "Shadow",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124774965,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Shadow Chomik",
+                "type": "Puzzle"
+            },
+            "Spiky Chomik": {
+                "abbreviation": "Spiky",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125987310,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Spiky Chomik",
+                "type": "Puzzle"
+            },
+            "Sporky": {
+                "abbreviation": "Sporky",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125987333,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Sporky",
+                "type": "Puzzle"
+            },
+            "Suspicious Chomik": {
+                "abbreviation": "Suspicious",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124775652,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Suspicious Chomik",
+                "type": "Puzzle"
+            },
+            "The Binding of Chomik": {
+                "abbreviation": "The Binding of",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124803841,
+                "difficulty": 0,
+                "length": "0",
+                "name": "The Binding of Chomik",
+                "type": "Puzzle"
+            },
+            "Toxic Waste Chomik": {
+                "abbreviation": "Toxic Waste",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124869824,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Toxic Waste Chomik",
+                "type": "Puzzle"
+            },
+            "Trashik": {
+                "abbreviation": "Trashik",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124803834,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Trashik",
+                "type": "Puzzle"
+            },
+            "Voided Chomik": {
+                "abbreviation": "Voided",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124791318,
+                "difficulty": 6,
+                "length": "0",
+                "name": "Voided Chomik",
+                "type": "Puzzle"
+            },
+            "Watermark Chomik": {
+                "abbreviation": "Watermark",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2124810502,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Watermark Chomik",
+                "type": "Puzzle"
+            },
+            "Windows XP Chomik": {
+                "abbreviation": "Windows XP",
+                "area": "Main_Realm_(Trash)",
+                "badge": 2125819649,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Windows XP Chomik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Main_Realm_(Universal_Stud)": {
+            "Abstract Art Chomik": {
+                "abbreviation": "Abstract Art",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124804536,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Abstract Art Chomik",
+                "type": "Puzzle"
+            },
+            "Airbrush Chomik": {
+                "abbreviation": "Airbrush",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2125726816,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Airbrush Chomik",
+                "type": "Puzzle"
+            },
+            "Awakened Bahamik": {
+                "abbreviation": "Awakened Bahamik",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124851229,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Awakened Bahamik",
+                "type": "Puzzle"
+            },
+            "Bandana Chomidee": {
+                "abbreviation": "Bandana Chomidee",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124859532,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Bandana Chomidee",
+                "type": "Puzzle"
+            },
+            "Chom Dedede": {
+                "abbreviation": "Chom Dedede",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124798307,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chom Dedede",
+                "type": "Puzzle"
+            },
+            "Chomarx": {
+                "abbreviation": "Chomarx",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2126089860,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chomarx",
+                "type": "Puzzle"
+            },
+            "Chomatoes": {
+                "abbreviation": "Chomatoes",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124817584,
+                "difficulty": 3,
+                "length": "0",
+                "name": "Chomatoes",
+                "type": "Puzzle"
+            },
+            "Chomtendo Switch": {
+                "abbreviation": "Chomtendo Switch",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124817583,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Chomtendo Switch",
+                "type": "Puzzle"
+            },
+            "Chromatic Fizz Chomik": {
+                "abbreviation": "Chromatic Fizz",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124859506,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Chromatic Fizz Chomik",
+                "type": "Puzzle"
+            },
+            "Copmik": {
+                "abbreviation": "Copmik",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124804529,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Copmik",
+                "type": "Puzzle"
+            },
+            "Ecstatic Chomik": {
+                "abbreviation": "Ecstatic",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2125828175,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Ecstatic Chomik",
+                "type": "Puzzle"
+            },
+            "Emceptional Chomik": {
+                "abbreviation": "Emceptional",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124780227,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Emceptional Chomik",
+                "type": "Puzzle"
+            },
+            "LESSS GOOOO": {
+                "abbreviation": "LESSS GOOOO",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124869859,
+                "difficulty": 1,
+                "length": "0",
+                "name": "LESSS GOOOO",
+                "type": "Puzzle"
+            },
+            "Metamik": {
+                "abbreviation": "Metamik",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2125819473,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Metamik",
+                "type": "Puzzle"
+            },
+            "Moyai Chomik": {
+                "abbreviation": "Moyai",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124780226,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Moyai Chomik",
+                "type": "Puzzle"
+            },
+            "Notional Chomik": {
+                "abbreviation": "Notional",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2125819413,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Notional Chomik",
+                "type": "Puzzle"
+            },
+            "Pea Shooter Chomik": {
+                "abbreviation": "Pea Shooter",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124803839,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Pea Shooter Chomik",
+                "type": "Puzzle"
+            },
+            "Prisoner Chomik": {
+                "abbreviation": "Prisoner",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124780228,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Prisoner Chomik",
+                "type": "Puzzle"
+            },
+            "Redacted Chomik": {
+                "abbreviation": "Redacted",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124869678,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Redacted Chomik",
+                "type": "Puzzle"
+            },
+            "Reggimik": {
+                "abbreviation": "Reggimik",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2152748760,
+                "difficulty": 4,
+                "length": "0",
+                "name": "Reggimik",
+                "type": "Puzzle"
+            },
+            "Rocket Chomter": {
+                "abbreviation": "Rocket",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2125974575,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Rocket Chomter",
+                "type": "Puzzle"
+            },
+            "Turtlik": {
+                "abbreviation": "Turtlik",
+                "area": "Main_Realm_(Universal_Stud)",
+                "badge": 2124869862,
+                "difficulty": 1,
+                "length": "0",
+                "name": "Turtlik",
+                "type": "Puzzle"
+            },
+            "is_subrealm": true
+        },
+        "Revamp_Realm_(Spawn)": {
+            "Animated Chomik": {
+                "abbreviation": "Animated",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124853529,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Animated Chomik",
+                "type": "Puzzle"
+            },
+            "Autumn Chomik": {
+                "abbreviation": "Autumn",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124867325,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Autumn Chomik",
+                "type": "Puzzle"
+            },
+            "Blossom Chomik": {
+                "abbreviation": "Blossom",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124863712,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Blossom Chomik",
+                "type": "Puzzle"
+            },
+            "Chodiac": {
+                "abbreviation": "Chodiac",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124853532,
+                "difficulty": 5,
+                "length": "0",
+                "name": "Chodiac",
+                "type": "Puzzle"
+            },
+            "Chomberry": {
+                "abbreviation": "Chomberry",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124898177,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Chomberry",
+                "type": "Puzzle"
+            },
+            "Duck Hunt Chomik": {
+                "abbreviation": "Duck Hunt",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124898186,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Duck Hunt Chomik",
+                "type": "Puzzle"
+            },
+            "Lily Pad Chomik": {
+                "abbreviation": "Lily Pad",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124863694,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Lily Pad Chomik",
+                "type": "Puzzle"
+            },
+            "Rose Flower Chomik": {
+                "abbreviation": "Rose Flower",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124903928,
+                "difficulty": 0,
+                "length": "0",
+                "name": "Rose Flower Chomik",
+                "type": "Puzzle"
+            },
+            "Snowgraved Chomik": {
+                "abbreviation": "Snowgraved",
+                "area": "Revamp_Realm_(Spawn)",
+                "badge": 2124867763,
+                "difficulty": 2,
+                "length": "0",
+                "name": "Snowgraved Chomik",
+                "type": "Puzzle"
+            }
+        }
+    }
+}
