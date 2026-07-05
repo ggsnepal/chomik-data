@@ -1,0 +1,803 @@
+{
+    "Citadel of Infinite Void": {
+        "area": "Pit_of_Misery",
+        "badge": 300934175061090,
+        "creators": [
+            "bLockerman666",
+            "IceNsalt",
+            "popop614",
+            "ciel_azulsky",
+            "PPtTenshi",
+            "latomludo",
+            "Heksi",
+            "nott_vy",
+            "skitsuna",
+            "mrgamingpotato1"
+        ],
+        "difficulty": 13.25,
+        "isCanon": true,
+        "length": 60,
+        "name": "Citadel of Infinite Void",
+        "techniques": [
+            "Various GlitchesCorner ClippingWall HoppingLodgingEmote Glitching",
+            "Corner Clipping",
+            "Wall Hopping",
+            "Lodging",
+            "Emote Glitching"
+        ],
+        "type": "Citadel",
+        "world": 1
+    },
+    "Citadel of Varying Difficulties": {
+        "area": "Pit_of_Misery",
+        "badge": 2349322601493393,
+        "creators": [
+            "stereoblitz",
+            "sparkifie",
+            "kitoradymotaraddy",
+            "t_odis",
+            "gamezbroz"
+        ],
+        "difficulty": 8.7,
+        "isCanon": true,
+        "length": 30,
+        "name": "Citadel of Varying Difficulties",
+        "techniques": [],
+        "type": "Citadel",
+        "world": 1
+    },
+    "S.T.O.N.E VIP": {
+        "area": "Pit_of_Misery",
+        "creators": [
+            "vipsem"
+        ],
+        "difficulty": 10.9,
+        "isCanon": true,
+        "length": 30,
+        "name": "S.T.O.N.E VIP",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Steeple of Cheese Burger": {
+        "area": "Pit_of_Misery",
+        "badge": 3013667521671921,
+        "creators": [
+            "Nosav",
+            "Torchic000"
+        ],
+        "difficulty": 12.13,
+        "isCanon": true,
+        "length": 0,
+        "name": "Steeple of Cheese Burger",
+        "techniques": [],
+        "type": "Steeple",
+        "world": 1
+    },
+    "Tower of Atrocious Truss Catastrophe": {
+        "area": "Pit_of_Misery",
+        "badge": 2455160582314114,
+        "creators": [
+            "vipsem",
+            "xxDuzeRxx"
+        ],
+        "difficulty": 10.88,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Atrocious Truss Catastrophe",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Blind Fate": {
+        "area": "Pit_of_Misery",
+        "badge": 3380863322570862,
+        "creators": [
+            "Nosav"
+        ],
+        "difficulty": 13.2,
+        "isCanon": true,
+        "length": 30,
+        "name": "Tower of Blind Fate",
+        "techniques": [
+            "Corner Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Champion's Road": {
+        "area": "Pit_of_Misery",
+        "badge": 949493913117966,
+        "creators": [
+            "Cll0y",
+            "Crimzenith",
+            "Feodoric",
+            "xxDuzeRxx"
+        ],
+        "difficulty": 11.7,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Champion's Road",
+        "techniques": [
+            "Wedge Climbing"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Corruption's Embrace": {
+        "area": "Pit_of_Misery",
+        "badge": 1722770553517433,
+        "creators": [
+            "like_zoinks1"
+        ],
+        "difficulty": 12.25,
+        "isCanon": true,
+        "length": 30,
+        "name": "Tower of Corruption's Embrace",
+        "techniques": [
+            "Corner Clipping",
+            "Lodging",
+            "Wall Hopping",
+            "Wall Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Cruel Punishments": {
+        "area": "Pit_of_Misery",
+        "badge": 4077794032512221,
+        "creators": [
+            "Lenazz16"
+        ],
+        "difficulty": 8.45,
+        "isCanon": true,
+        "length": 45,
+        "name": "Tower of Cruel Punishments",
+        "techniques": [
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Cruel Underestimated Parkour": {
+        "area": "Pit_of_Misery",
+        "badge": 2700706923719213,
+        "creators": [
+            "shinryan12"
+        ],
+        "difficulty": 10.78,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Cruel Underestimated Parkour",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Elongated Runs": {
+        "area": "Pit_of_Misery",
+        "badge": 364441152196333,
+        "creators": [
+            "ciel_azulsky"
+        ],
+        "difficulty": 11.88,
+        "isCanon": true,
+        "length": 30,
+        "name": "Tower of Elongated Runs",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Eternal Void": {
+        "area": "Pit_of_Misery",
+        "badge": 3006967065304966,
+        "creators": [
+            "Karinriine",
+            "ciel_azulsky",
+            "PPtTenshi",
+            "Feodoric",
+            "tintom495",
+            "popop614",
+            "latomludo",
+            "Coatesultimate1",
+            "IceNsalt",
+            "bLockerman666"
+        ],
+        "difficulty": 12.64,
+        "isCanon": true,
+        "length": 45,
+        "name": "Tower of Eternal Void",
+        "techniques": [
+            "Various GlitchesCorner ClippingWall HoppingLodgingEmote Glitching",
+            "Corner Clipping",
+            "Wall Hopping",
+            "Lodging",
+            "Emote Glitching"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Extravagant Borders": {
+        "area": "Pit_of_Misery",
+        "badge": 3882660254715690,
+        "creators": [
+            "Synchromatic"
+        ],
+        "difficulty": 10.59,
+        "isCanon": true,
+        "length": 45,
+        "name": "Tower of Extravagant Borders",
+        "techniques": [
+            "Wall Hopping",
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Futile Perusal": {
+        "area": "Pit_of_Misery",
+        "badge": 3500516516419679,
+        "creators": [
+            "AddisonJudah",
+            "60SecondsUntil"
+        ],
+        "difficulty": 12.15,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Futile Perusal",
+        "techniques": [
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Generation Failure": {
+        "area": "Pit_of_Misery",
+        "badge": 430823789294499,
+        "creators": [
+            "Feodoric"
+        ],
+        "difficulty": 11.13,
+        "isCanon": true,
+        "length": 30,
+        "name": "Tower of Generation Failure",
+        "techniques": [
+            "Corner Clipping",
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Glory": {
+        "area": "Pit_of_Misery",
+        "badge": 824552656243685,
+        "creators": [
+            "Regionality"
+        ],
+        "difficulty": 11.04,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Glory",
+        "techniques": [
+            "Corner Clipping",
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Jabberwock Jagger": {
+        "area": "Pit_of_Misery",
+        "badge": 1526474242732176,
+        "creators": [
+            "robloxroblox556",
+            "N0tmatu"
+        ],
+        "difficulty": 12.0,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Jabberwock Jagger",
+        "techniques": [
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Linear Jank": {
+        "area": "Pit_of_Misery",
+        "badge": 3668919714504497,
+        "creators": [
+            "drrianblox"
+        ],
+        "difficulty": 11.02,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Linear Jank",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Lucas Penteado": {
+        "area": "Pit_of_Misery",
+        "badge": 3849441311655480,
+        "creators": [
+            "Lenazz16"
+        ],
+        "difficulty": 12.38,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Lucas Penteado",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Melancholic Misery": {
+        "area": "Pit_of_Misery",
+        "badge": 672311357200752,
+        "creators": [
+            "xxDuzeRxx",
+            "xdn_tt",
+            "Nukise"
+        ],
+        "difficulty": 10.58,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Melancholic Misery",
+        "techniques": [
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Modernistic Design Choices": {
+        "area": "Pit_of_Misery",
+        "badge": 3398624690767673,
+        "creators": [
+            "TheBirbsWord"
+        ],
+        "difficulty": 1.8,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Modernistic Design Choices",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Muscle Mania Unchained": {
+        "area": "Pit_of_Misery",
+        "badge": 2799814950473326,
+        "creators": [
+            "elusivveeee"
+        ],
+        "difficulty": 13.1,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Muscle Mania Unchained",
+        "techniques": [
+            "Wedge Gliding"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Overthinking Life Choices": {
+        "area": "Pit_of_Misery",
+        "badge": 4087702452100281,
+        "creators": [
+            "It_Near"
+        ],
+        "difficulty": 11.1,
+        "isCanon": true,
+        "length": 60,
+        "name": "Tower of Overthinking Life Choices",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Painful Memories": {
+        "area": "Pit_of_Misery",
+        "badge": 1675411281427095,
+        "creators": [
+            "Higherthanblox"
+        ],
+        "difficulty": 9.9,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Painful Memories",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Paradise": {
+        "area": "Pit_of_Misery",
+        "badge": 2442882530504404,
+        "creators": [
+            "Macloux"
+        ],
+        "difficulty": 13.15,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Paradise",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Pure Capability": {
+        "area": "Pit_of_Misery",
+        "badge": 3657627417880402,
+        "creators": [
+            "xdn_tt",
+            "WeirdWilliam999",
+            "lolArTuRolol"
+        ],
+        "difficulty": 11.45,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Pure Capability",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Purified Illusions": {
+        "area": "Pit_of_Misery",
+        "badge": 3740758420480600,
+        "creators": [
+            "Lightsynth"
+        ],
+        "difficulty": 8.65,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Purified Illusions",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Quadrilaterals": {
+        "area": "Pit_of_Misery",
+        "badge": 4071915282761570,
+        "creators": [
+            "phlygone"
+        ],
+        "difficulty": 11.48,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Quadrilaterals",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Raw, Unfiltered Skill": {
+        "area": "Pit_of_Misery",
+        "badge": 2529953932925095,
+        "creators": [
+            "AddisonJudah"
+        ],
+        "difficulty": 9.55,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Raw, Unfiltered Skill",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Roughly Rotated Ruin": {
+        "area": "Pit_of_Misery",
+        "badge": 4156850314044861,
+        "creators": [
+            "corinndev"
+        ],
+        "difficulty": 10.43,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Roughly Rotated Ruin",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Seeking Unused Techniques": {
+        "area": "Pit_of_Misery",
+        "badge": 470824999134230,
+        "creators": [
+            "It_Near"
+        ],
+        "difficulty": 8.85,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Seeking Unused Techniques",
+        "techniques": [
+            "Corner Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Shunning Excursion": {
+        "area": "Pit_of_Misery",
+        "badge": 835342439962863,
+        "creators": [
+            "Nosav",
+            "Torchic000"
+        ],
+        "difficulty": 11.8,
+        "isCanon": true,
+        "length": 45,
+        "name": "Tower of Shunning Excursion",
+        "techniques": [
+            "Wall Hopping",
+            "Corner Clipping",
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Skill and Patience": {
+        "area": "Pit_of_Misery",
+        "badge": 498935386974876,
+        "creators": [
+            "jay02017",
+            "bellaether",
+            "AnotherCamilleon",
+            "aethraillumina",
+            "junoong20",
+            "gamezbroz",
+            "stereoblitz",
+            "Logan_ISL"
+        ],
+        "difficulty": 9.65,
+        "isCanon": true,
+        "length": 60,
+        "name": "Tower of Skill and Patience",
+        "techniques": [
+            "Corner Clipping",
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Spiralling Fates": {
+        "area": "Pit_of_Misery",
+        "badge": 2116903431779125,
+        "creators": [
+            "ciel_azulsky"
+        ],
+        "difficulty": 13.28,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Spiralling Fates",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Sudden Death": {
+        "area": "Pit_of_Misery",
+        "badge": 3328694203541150,
+        "creators": [
+            "WaterMakeer",
+            "CosmikChaos"
+        ],
+        "difficulty": 12.93,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Sudden Death",
+        "techniques": [
+            "Emote Glitching",
+            "Lodging",
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Swift Annihilation": {
+        "area": "Pit_of_Misery",
+        "badge": 672576218099789,
+        "creators": [
+            "Lenazz16"
+        ],
+        "difficulty": 10.5,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Swift Annihilation",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Terse Persecution": {
+        "area": "Pit_of_Misery",
+        "badge": 1113855689573676,
+        "creators": [
+            "Macloux"
+        ],
+        "difficulty": 11.55,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Terse Persecution",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of The Homefinder": {
+        "area": "Pit_of_Misery",
+        "badge": 4467235231052220,
+        "creators": [
+            "1818",
+            "AugmentedRetribution"
+        ],
+        "difficulty": 12.14,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of The Homefinder",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of The Roof's Pique": {
+        "area": "Pit_of_Misery",
+        "badge": 3540313515512244,
+        "creators": [
+            "xxDuzeRxx"
+        ],
+        "difficulty": 12.58,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of The Roof's Pique",
+        "techniques": [
+            "Lodging"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Thje Floor": {
+        "area": "Pit_of_Misery",
+        "badge": 552271872520004,
+        "creators": [
+            "tntxyz",
+            "Yellow78Dog"
+        ],
+        "difficulty": 12.55,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Thje Floor",
+        "techniques": [
+            "Dance Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Underlying Grief": {
+        "area": "Pit_of_Misery",
+        "badge": 3331697607714155,
+        "creators": [
+            "iiAlert"
+        ],
+        "difficulty": 9.5,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Underlying Grief",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Uttermost Antagonism": {
+        "area": "Pit_of_Misery",
+        "badge": 1433373494170011,
+        "creators": [
+            "xxDuzeRxx"
+        ],
+        "difficulty": 9.75,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Uttermost Antagonism",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Vacant Hindrances": {
+        "area": "Pit_of_Misery",
+        "badge": 119476857800649,
+        "creators": [
+            "Torchic000"
+        ],
+        "difficulty": 11.75,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Vacant Hindrances",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Vague Luminescence": {
+        "area": "Pit_of_Misery",
+        "badge": 2285664852667501,
+        "creators": [
+            "glizzygladiattorrr",
+            "ijivri"
+        ],
+        "difficulty": 12.65,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Vague Luminescence",
+        "techniques": [],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Vindictive Maneuvers": {
+        "area": "Pit_of_Misery",
+        "badge": 1151097366702676,
+        "creators": [
+            "coooldude99099"
+        ],
+        "difficulty": 10.99,
+        "isCanon": true,
+        "length": 30,
+        "name": "Tower of Vindictive Maneuvers",
+        "techniques": [
+            "Corner Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Water Melon": {
+        "area": "Pit_of_Misery",
+        "badge": 3752764510996758,
+        "creators": [
+            "Nosav",
+            "uuuuuuuurchinnnnnnnn"
+        ],
+        "difficulty": 12.35,
+        "isCanon": true,
+        "length": 20,
+        "name": "Tower of Water Melon",
+        "techniques": [
+            "Corner Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Tower of Xerically Infuriating Calamity": {
+        "area": "Pit_of_Misery",
+        "badge": 2543139188501351,
+        "creators": [
+            "0xit"
+        ],
+        "difficulty": 10.03,
+        "isCanon": true,
+        "length": 0,
+        "name": "Tower of Xerically Infuriating Calamity",
+        "techniques": [
+            "Wall Hopping",
+            "Emote Glitching",
+            "Corner Clipping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Ukraine Tower": {
+        "area": "Pit_of_Misery",
+        "badge": 849242771719049,
+        "creators": [
+            "Higherthanblox"
+        ],
+        "difficulty": 12.9,
+        "isCanon": true,
+        "length": 0,
+        "name": "Ukraine Tower",
+        "techniques": [
+            "Wall Hopping"
+        ],
+        "type": "Tower",
+        "world": 1
+    },
+    "Was A Tower": {
+        "area": "Pit_of_Misery",
+        "badge": 3632315804621758,
+        "creators": [
+            "Heksi"
+        ],
+        "difficulty": 11.2,
+        "isCanon": true,
+        "length": 0,
+        "name": "Was A Tower",
+        "techniques": [
+            "Wall Hopping"
+        ],
+        "type": "Mini Tower",
+        "world": 1
+    },
+    "is_subrealm": false
+}
